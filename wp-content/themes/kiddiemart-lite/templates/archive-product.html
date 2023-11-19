@@ -1,0 +1,27 @@
+<!-- wp:template-part {"slug":"header-default" ,"tagName":"header"} /-->
+<!-- wp:pattern {"slug":"kiddiemart-lite/shop-header"} /-->
+
+<!-- wp:group {"tagName":"main"} -->
+<main class="wp-block-group">
+    <!-- wp:group {"align":"full","layout":{"inherit":true,"type":"constrained"}} -->
+    <div class="wp-block-group alignfull">
+        <!-- wp:columns {"className":"wp-product-category-with-sidebar wp-block-sidebar-on-left","align":"wide"} -->
+        <div class="wp-block-columns wp-product-category-with-sidebar alignwide wp-block-sidebar-on-left">
+            <!-- wp:column {"className":"wp-block-column-sidebar","width":"31.42857142857143%"} -->
+            <div class="wp-block-column wp-block-column-sidebar" style="flex-basis:31.42857142857143%">
+                <!-- wp:template-part {"slug":"sidebar-products","theme":"kiddiemart-lite","tagName":"div"} /-->
+            </div>
+            <!-- /wp:column -->
+            <!-- wp:column {"width":"68.57142857142857%"} -->
+            <div class="wp-block-column" style="flex-basis:68.57142857142857%">
+                <!-- wp:woocommerce/legacy-template {"template":"archive-product"} /-->
+            </div>
+            <!-- /wp:column -->
+        </div>
+        <!-- /wp:columns -->
+    </div>
+    <!-- /wp:group -->
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer-with-three-columns","tagName":"footer"} /-->

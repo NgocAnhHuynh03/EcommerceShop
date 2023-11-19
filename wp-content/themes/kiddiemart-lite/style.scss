@@ -1,0 +1,40 @@
+/*
+Theme Name: Kiddiemart Lite
+Theme URI: https://catchthemes.com/themes/kiddiemart-lite
+Author: Catch Themes
+Author URI: https://catchthemes.com
+Description: Kiddiemart Lite is a free lightweight eCommerce WordPress block theme for full site editing. This block-based theme is perfect for setting up a clothing or toy store for kids. This theme is a modern WooCommerce theme that includes all the necessary pages allowing you to customize and sell the products. It comes with a beautiful layout that will make your online presence exciting and dynamic. With its advanced features, it is best suited for building a WooCommerce-based website. You can use Kiddiemart Lite to display your services, store inventory, gallery, blog, and fashion news on many pre-designed pages. Therefore, there are 17+ block patterns, 19 Templates, and 11 Templates Parts available in this theme. Some of the block patterns are 404 Header, Archive Post Header, Best Seller Category, Blog Header, Featured Content, Footer Three Columns, Header Media With Patterns, Hero Content, Post Header, Search Header, Shop Header, and many more. All the block patterns, Templates, and Template Parts are highly customizable, extremely fast loading, and fully responsive. Fascinate your visitors with mesmerizing visuals and seamless functionality with Kiddiemart Lite
+Requires at least: 5.9
+Tested up to: 6.3
+Requires PHP: 7.4
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: kiddiemart-lite
+Tags: e-commerce, portfolio, blog, one-column, two-columns, left-sidebar, right-sidebar, block-patterns, block-styles, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-site-editing,  threaded-comments, wide-blocks, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Kiddiemart is based on Catch FSE WordPress Theme, 2012-2023 Catchthemes.com
+Catch FSE is distributed under the terms of the GNU GPL.
+*/
+
+
+/*--------------------------------------------------------------
+# Blocks
+--------------------------------------------------------------*/
+@import "sass/blocks/all-blocks";
+
+/*--------------------------------------------------------------
+# Components
+--------------------------------------------------------------*/
+@import "sass/patterns/all-patterns";
+
+/* --- Block Media Quries
+-------------------------------------------------------- */
+@import 'sass/media-query';
+
+/* --- Block Color
+-------------------------------------------------------- */
+@import 'sass/color';

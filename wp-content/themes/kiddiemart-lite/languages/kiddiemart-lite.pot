@@ -1,0 +1,274 @@
+# <!=Copyright (C) 2022 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kiddiemart\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2023-10-05 23:12+0545\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/about.php:27 inc/block-patterns.php:18
+msgid "Kiddiemart Lite"
+msgstr ""
+
+#: inc/about.php:46
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:54
+msgid "Getting Started with Kiddiemart Lite!"
+msgstr ""
+
+#: inc/about.php:55
+msgid ""
+"Awesome! Kiddiemart Lite has been installed and activated successfully. "
+"Now, you can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in "
+"this astounding theme."
+msgstr ""
+
+#: inc/about.php:56
+msgid "Theme instructions"
+msgstr ""
+
+#: inc/about.php:62
+msgid "More Features with Kiddiemart Theme"
+msgstr ""
+
+#: inc/about.php:63
+msgid ""
+"To get more beautiful block patterns and templates, we recommend you "
+"upgrade to Kiddiemart. With the premium theme installed, get more options, "
+"blocks, block patterns, templates and template parts."
+msgstr ""
+
+#: inc/about.php:64
+msgid "Buy Kiddiemart"
+msgstr ""
+
+#: inc/about.php:73
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:74
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:75
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:76
+msgid "FSE FAQs"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Change log"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:85
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:86
+msgid ""
+"Loved Kiddiemart Lite? Feel free to leave your feedback. Your opinion helps "
+"us reach more audiences!"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Review"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:35
+msgid "Gap Zero"
+msgstr ""
+
+#: inc/block-styles.php:44 inc/block-styles.php:62 inc/block-styles.php:71
+#: inc/block-styles.php:80 inc/block-styles.php:89 inc/block-styles.php:99
+#: inc/block-styles.php:109 inc/block-styles.php:118
+msgid "Theme Style"
+msgstr ""
+
+#: inc/block-styles.php:53
+msgid "Plain"
+msgstr ""
+
+#: inc/icon-function.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: patterns/404-header.php:23
+msgid "404 Nothing Found"
+msgstr ""
+
+#: patterns/404-header.php:26
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: patterns/best-seller-category.php:14
+msgid "Best Seller Categories"
+msgstr ""
+
+#: patterns/blog-header.php:23
+msgid "Recent From Blog"
+msgstr ""
+
+#: patterns/featured-content.php:14
+msgid "Featured Contents"
+msgstr ""
+
+#: patterns/featured-content.php:17
+msgid ""
+"Modern Furniture from Famous Manufacturers and Designers Offering the "
+"Finest Furnishings for Every Room of Your Home or Office"
+msgstr ""
+
+#: patterns/footer-three-columns.php:22
+msgid "Kiddiemart"
+msgstr ""
+
+#: patterns/footer-three-columns.php:25
+msgid "+123 456 7890"
+msgstr ""
+
+#: patterns/footer-three-columns.php:28
+msgid "3465 Bronco Kiddiemart LLC"
+msgstr ""
+
+#: patterns/footer-three-columns.php:31
+msgid "California 56476"
+msgstr ""
+
+#: patterns/footer-three-columns.php:51 patterns/sidebar.php:22
+msgid "About"
+msgstr ""
+
+#: patterns/header-media-with-patterns.php:20
+msgid "A Fun Kids Play Everyday"
+msgstr ""
+
+#: patterns/header-media-with-patterns.php:25
+msgid ""
+"In publishing and graphic design, It is a place use\n"
+"common form of a document."
+msgstr ""
+
+#: patterns/header-media-with-patterns.php:34
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/hero-content.php:24
+msgid "We Help To Provide All "
+msgstr ""
+
+#: patterns/hero-content.php:24
+msgid " For Kids"
+msgstr ""
+
+#: patterns/hero-content.php:32
+msgid ""
+"Fun, educational activities for every occasion with premium\n"
+"\t\t\t\t\t\ttoys and snacks. Learn more about our finest services! "
+msgstr ""
+
+#: patterns/hero-content.php:41
+msgid "Discover Now"
+msgstr ""
+
+#: patterns/hidden-404.php:10
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/shop-header.php:23
+msgid "The Shop"
+msgstr ""
+
+#: patterns/sidebar-products.php:22 patterns/sidebar.php:35
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar-products.php:34
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/sidebar-products.php:52
+msgid "Filter by size"
+msgstr ""
+
+#: patterns/sidebar-products.php:70
+msgid "Filter by Color"
+msgstr ""
+
+#: patterns/sidebar.php:14
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:28
+msgid ""
+"Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio "
+"lacus, dignissim sollicitudin finibus commodo, rhoncus et ante."
+msgstr ""
+
+#: patterns/sidebar.php:43
+msgid "Recent Post"
+msgstr ""
+
+#: patterns/sidebar.php:51
+msgid "Tags"
+msgstr ""
+
+#: patterns/testimonials.php:14
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:29 patterns/testimonials.php:71
+msgid "Excellent Work"
+msgstr ""
+
+#: patterns/testimonials.php:32 patterns/testimonials.php:74
+msgid ""
+"These guys are awesome! Each time I needed their help. their response was "
+"quick and very helpful. Also, the theme is very flexible. Five stars from "
+"me for everything! I truly recommend this theme."
+msgstr ""
+
+#: patterns/testimonials.php:51 patterns/testimonials.php:93
+msgid "Sophia Johns"
+msgstr ""
+
+#: patterns/testimonials.php:54 patterns/testimonials.php:97
+msgid "Catch Themes User"
+msgstr ""

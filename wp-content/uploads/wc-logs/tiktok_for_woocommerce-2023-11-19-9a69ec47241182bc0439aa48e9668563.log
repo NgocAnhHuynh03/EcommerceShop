@@ -1,0 +1,40 @@
+2023-11-19T03:06:10+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_65597ba2f21a0httplocalhostwebbanhangwp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/webbanhang\/wp-admin\/"}
+ ajax: no
+2023-11-19T03:06:12+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Server: TLB
+Content-Type: application/json
+X-Tt-Logid: 20231119030611CEDE1AD9AB0A6E8DB228,20231119030611CEDE1AD9AB0A6E8DB228
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Server-Timing: inner; dur=111
+x-tt-trace-host: 01fa1f383c9c4fc2440feedea1acf84865d77ecaddefdc19ae28aa3b43fc6952490501c9d17331826610d2efa1fc192e455f23305920179c2d21dc2efe35d36493771461a67ef56b8da7342c55e5aab1dddcb38c74d62fe24063f33177c3ee6c63
+Content-Encoding: gzip
+Date: Sun, 19 Nov 2023 03:06:12 GMT
+Content-Length: 209
+X-Cache: TCP_MISS from a113-171-10-148.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2.1-52518411) (-)
+Connection: close
+Vary: Accept-Encoding
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=4, origin; dur=184
+X-Origin-Response-Time: 184,113.171.10.148
+X-Akamai-Request-ID: 2add246c
+
+{"code":0,"msg":"ok","data":{"external_data_key":"5e612b3a-86b9-4370-8cef-71c22cabd52e","redirect_uri":"http:\/\/localhost\/webbanhang\/wp-admin\/","app_secret":"f6928c4adff6ad1b809f22652998ff09310f10da","app_id":"7303004215947821057"}}
+
+2023-11-19T03:15:12+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2023-11-19T03:15:12+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2023-11-19T03:15:14+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-19T03:15:14+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-19T03:15:43+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-19T03:15:43+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-19T03:17:05+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-19T03:17:05+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-19T03:17:44+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-19T03:17:44+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-19T03:21:53+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-19T03:21:53+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-19T03:22:30+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-19T03:22:30+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
