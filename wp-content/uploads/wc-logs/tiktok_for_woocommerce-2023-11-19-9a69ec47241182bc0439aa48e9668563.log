@@ -38,3 +38,10 @@ X-Akamai-Request-ID: 2add246c
 2023-11-19T03:21:53+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
 2023-11-19T03:22:30+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
 2023-11-19T03:22:30+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-19T06:34:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-11-19T06:34:42+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-11-19T06:48:19+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-19T06:48:19+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-19T06:55:41+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-11-19T06:55:46+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-11-19T06:56:15+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
