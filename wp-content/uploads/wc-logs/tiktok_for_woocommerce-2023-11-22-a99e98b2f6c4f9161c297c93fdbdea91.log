@@ -1,0 +1,66 @@
+2023-11-22T08:23:57+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_655dba9dbd805httplocalhostEcommerceShopwp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/EcommerceShop\/wp-admin\/"}
+ ajax: no
+2023-11-22T08:24:02+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Operation timed out after 5010 milliseconds with 0 bytes received
+
+2023-11-22T08:24:04+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 502 Bad Gateway
+Server: TLB
+Content-Type: text/plain; charset=utf-8
+Content-Length: 119
+X-Tt-Logid: 20231122082404C44282CAF51728418CA2
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 0112adcb9486084032cde38041bba0273d5cf2b9dc8779b3fb4498b65c7669bf11f57369ae12efeca882069494e0dfc37f17f0735288f37730768528362ca8249dcd135fdc9ac635ee9df5c9f70f8ce962408db77cef0c341aa2a94bac4642940181c1652bea02792353f646571ace392d
+X-Origin-Response-Time: 10,23.75.21.28
+X-Akamai-Request-ID: d6987b07.abc39549
+Date: Wed, 22 Nov 2023 08:24:05 GMT
+X-Cache: TCP_MISS from a23-48-172-136.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2.1-52518411) (-)
+Connection: close
+X-Cache-Remote: TCP_MISS from a23-75-21-28.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2.1-52518411) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=4, origin; dur=10
+Server-Timing: inner; dur=5
+X-Parent-Response-Time: 11,23.48.172.136
+
+Bad Gateway | KRAKEND.BACKEND/3 - request failed/320202:connection is closed by peer while being in the connection pool
+
+2023-11-22T08:24:06+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Server: TLB
+Content-Type: application/json
+X-Tt-Logid: 20231122082406E540305B89AE593F10D3,20231122082406E540305B89AE593F10D3
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 0112adcb9486084032cde38041bba0273d5cf2b9dc8779b3fb4498b65c7669bf116154af6a0e1cd639ffeaf2b31d57362dfb2ad53e8b3a573b3cb4ca5af53d5d6a2a1f50a03fb8c4fbac280033cab0f898a405d6c0f7f0f6f5234219435268e28517025d86520b5206b42618936ecca6c5
+Content-Encoding: gzip
+Content-Length: 214
+X-Origin-Response-Time: 100,23.75.21.9
+X-Akamai-Request-ID: 948a76db.abc3eafd
+Date: Wed, 22 Nov 2023 08:24:08 GMT
+X-Cache: TCP_MISS from a23-48-172-136.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2.1-52518411) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-75-21-9.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2.1-52518411) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=6, origin; dur=100
+Server-Timing: inner; dur=96
+X-Parent-Response-Time: 102,23.48.172.136
+
+{"code":0,"msg":"ok","data":{"external_data_key":"61bcb825-661b-4e2f-a3a1-2d5571a07ed5","redirect_uri":"http:\/\/localhost\/EcommerceShop\/wp-admin\/","app_secret":"a109211dd2b69f2654eebe5ab97c5f11b7526e49","app_id":"7304199385842515970"}}
+
+2023-11-22T08:32:51+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-11-22T08:32:58+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-11-22T08:39:06+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-22T08:39:06+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-22T08:39:10+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2023-11-22T08:39:10+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2023-11-22T08:39:11+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-22T08:39:11+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-22T08:39:31+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-22T08:39:31+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-11-22T08:39:41+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2023-11-22T08:39:41+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
