@@ -1,0 +1,13 @@
+2023-11-24T03:16:54+00:00 CRITICAL Uncaught InvalidArgumentException: Unidentified action 232 in C:\xampp\htdocs\webbanhang\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:641
+Stack trace:
+#0 C:\xampp\htdocs\webbanhang\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\ActionScheduler_QueueCleaner.php(101): ActionScheduler_DBStore->mark_failure('232')
+#1 C:\xampp\htdocs\webbanhang\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\ActionScheduler_QueueCleaner.php(108): ActionScheduler_QueueCleaner->mark_failures(300)
+#2 C:\xampp\htdocs\webbanhang\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\abstracts\ActionScheduler_Abstract_QueueRunner.php(104): ActionScheduler_QueueCleaner->clean(300)
+#3 C:\xampp\htdocs\webbanhang\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\ActionScheduler_QueueRunner.php(58): ActionScheduler_Abstract_QueueRunner->run_cleanup()
+#4 C:\xampp\htdocs\webbanhang\wp-includes\class-wp-hook.php(324): ActionScheduler_QueueRunner->run('WP Cron')
+#5 C:\xampp\htdocs\webbanhang\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\webbanhang\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\webbanhang\wp-cron.php(191): do_action_ref_array('action_schedule...', Array)
+#8 {main}
+  thrown in C:\xampp\htdocs\webbanhang\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 641
+
