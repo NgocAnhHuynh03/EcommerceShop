@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="icon-settings" transform="translate(-154 40)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="61" height="61" rx="12" transform="translate(154 -40)" fill="#ffd1b7" opacity="0.3"/>
+    <path id="file-edit-svgrepo-com" d="M15.7,4.873,14.575,3.745a.872.872,0,0,0-1.234,0L5.49,11.6a.872.872,0,0,0-.256.617v2.617a.872.872,0,0,0,.872.872H8.724a.873.873,0,0,0,.617-.256L15.7,9.085V19.193a1.745,1.745,0,0,1-1.745,1.745H1.745A1.745,1.745,0,0,1,0,19.193V5.234H4.362a.872.872,0,0,0,.872-.872V0h8.724A1.745,1.745,0,0,1,15.7,1.745ZM.3,3.49A5.249,5.249,0,0,1,3.49.3V3.49ZM8.363,13.958H6.979V12.575L13.958,5.6l1.383,1.383Z" transform="translate(176.648 -19.938)" fill="#fd5d00" fill-rule="evenodd"/>
+  </g>
+</svg>

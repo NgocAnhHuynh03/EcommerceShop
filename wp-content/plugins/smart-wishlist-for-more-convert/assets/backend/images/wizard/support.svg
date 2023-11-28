@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.202" height="19" viewBox="0 0 15.202 19">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="15.202" height="19" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="person-support" clip-path="url(#clip-path)">
+    <g id="person-support-2" data-name="person-support" transform="translate(-0.001)">
+      <path id="Path_1327" data-name="Path 1327" d="M19.2,16.134A2.137,2.137,0,0,0,17.066,14H6.137A2.137,2.137,0,0,0,4,16.134v.874a2.613,2.613,0,0,0,.485,1.516C5.95,20.581,8.348,21.6,11.6,21.6s5.648-1.018,7.117-3.074a2.613,2.613,0,0,0,.487-1.519Z" transform="translate(-4 -2.6)" fill="#2e2e41"/>
+      <path id="Path_1328" data-name="Path 1328" d="M16.374,6.753A4.751,4.751,0,0,0,7.8,3.933.712.712,0,0,0,7.586,3.9H5.213a.713.713,0,0,0-.713.713V9.838a2.613,2.613,0,0,0,2.613,2.613h.238v0h.01a.948.948,0,1,0-.747-1.531,1.188,1.188,0,0,1-.688-1.078V9.6h.711a1.655,1.655,0,0,0,.969-.312,4.751,4.751,0,0,0,8.769-2.536Zm-9.5-.1q0,.05,0,.1t0,.1V7.938a.238.238,0,0,1-.238.238H5.925V5.326h.948Z" transform="translate(-4.025 -2.002)" fill="#2e2e41"/>
+    </g>
+  </g>
+</svg>

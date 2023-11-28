@@ -1,0 +1,39 @@
+<svg id="email-campaign" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 62 62">
+	<defs>
+		<clipPath id="clip-path">
+			<rect width="62" height="62" fill="none"/>
+		</clipPath>
+		<clipPath id="clip-path-2">
+			<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(0 0.484)" fill="#e43b67" stroke="#707070" stroke-width="1"/>
+		</clipPath>
+	</defs>
+	<g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+		<g id="Group_116" data-name="Group 116" transform="translate(0 -0.484)">
+			<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" transform="translate(0 0.484)" fill="#e43b67" opacity="0.1"/>
+			<g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(19 19)" clip-path="url(#clip-path-2)">
+				<g id="_725643" data-name="725643" transform="translate(0 3.75)">
+					<g id="Group_70" data-name="Group 70" transform="translate(15.909 3.042)">
+						<g id="Group_69" data-name="Group 69">
+							<path id="Path_15" data-name="Path 15" d="M15.909,12.123,24,17.238V6.792Z" transform="translate(-15.909 -6.792)" fill="#e43b67"/>
+						</g>
+					</g>
+					<g id="Group_72" data-name="Group 72" transform="translate(0 3.042)">
+						<g id="Group_71" data-name="Group 71">
+							<path id="Path_16" data-name="Path 16" d="M0,6.792V17.238l8.091-5.115Z" transform="translate(0 -6.792)" fill="#e43b67"/>
+						</g>
+					</g>
+					<g id="Group_74" data-name="Group 74" transform="translate(0.045)">
+						<g id="Group_73" data-name="Group 73">
+							<path id="Path_17" data-name="Path 17" d="M22.5,3.75H1.5A1.481,1.481,0,0,0,.045,5.027L12,12.9,23.955,5.027A1.481,1.481,0,0,0,22.5,3.75Z" transform="translate(-0.045 -3.75)" fill="#e43b67"/>
+						</g>
+					</g>
+					<g id="Group_76" data-name="Group 76" transform="translate(0.048 9.278)">
+						<g id="Group_75" data-name="Group 75">
+							<path id="Path_18" data-name="Path 18" d="M14.535,13.029l-2.123,1.4a.753.753,0,0,1-.825,0l-2.123-1.4L.048,18.984A1.479,1.479,0,0,0,1.5,20.25h21a1.479,1.479,0,0,0,1.452-1.266Z" transform="translate(-0.048 -13.028)" fill="#e43b67"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

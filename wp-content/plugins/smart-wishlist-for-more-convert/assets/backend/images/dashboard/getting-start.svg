@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="icon-settings" transform="translate(-154 40)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="61" height="61" rx="12" transform="translate(154 -40)" fill="#ffd1b7" opacity="0.3"/>
+    <g id="rocket-svgrepo-com" transform="translate(183.303 -26.632) rotate(45)">
+      <g id="Group_4151" data-name="Group 4151" transform="translate(6.551 -2.828)">
+        <path id="Path_1441" data-name="Path 1441" d="M17.427,14.668V11.806A17.82,17.82,0,0,0,13.6.229a.644.644,0,0,0-.982,0,17.63,17.63,0,0,0-3.9,11.581v2.863l-.529.356a3.7,3.7,0,0,0-1.63,3.067v3.416a.553.553,0,0,0,.29.486.548.548,0,0,0,.564-.028l1.717-1.144a2.939,2.939,0,0,1,1.627-.492h1.263v1.656a.551.551,0,0,0,.55.551h1.011a.551.551,0,0,0,.55-.551V20.329h1.262a2.929,2.929,0,0,1,1.629.493l1.716,1.143a.548.548,0,0,0,.564.028.553.553,0,0,0,.29-.486V18.091a3.706,3.706,0,0,0-1.63-3.067Zm-4.358-4.484a1.9,1.9,0,1,1,1.9-1.9A1.9,1.9,0,0,1,13.069,10.183Z" transform="translate(-6.551 0)" fill="#fd5d00"/>
+      </g>
+    </g>
+  </g>
+</svg>

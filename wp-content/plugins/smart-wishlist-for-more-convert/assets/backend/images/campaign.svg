@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(261 269)" fill="#e43b67" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon-lists" transform="translate(-211.596 -242.596)">
+    <rect id="card-bg" width="54" height="54" rx="8" transform="translate(211.596 242.596)" fill="#e43b67" opacity="0.1"/>
+    <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-34.404 -11.404)" clip-path="url(#clip-path)">
+      <g id="_725643" data-name="725643" transform="translate(261 269)">
+        <g id="Group_70" data-name="Group 70">
+          <g id="Group_69" data-name="Group 69">
+            <path id="Path_15" data-name="Path 15" d="M15.909,12.123,24,17.238V6.792Z" fill="#e43b67"/>
+          </g>
+        </g>
+        <g id="Group_72" data-name="Group 72">
+          <g id="Group_71" data-name="Group 71">
+            <path id="Path_16" data-name="Path 16" d="M0,6.792V17.238l8.091-5.115Z" fill="#e43b67"/>
+          </g>
+        </g>
+        <g id="Group_74" data-name="Group 74">
+          <g id="Group_73" data-name="Group 73">
+            <path id="Path_17" data-name="Path 17" d="M22.5,3.75H1.5A1.481,1.481,0,0,0,.045,5.027L12,12.9,23.955,5.027A1.481,1.481,0,0,0,22.5,3.75Z" fill="#e43b67"/>
+          </g>
+        </g>
+        <g id="Group_76" data-name="Group 76">
+          <g id="Group_75" data-name="Group 75">
+            <path id="Path_18" data-name="Path 18" d="M14.535,13.029l-2.123,1.4a.753.753,0,0,1-.825,0l-2.123-1.4L.048,18.984A1.479,1.479,0,0,0,1.5,20.25h21a1.479,1.479,0,0,0,1.452-1.266Z" fill="#e43b67"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

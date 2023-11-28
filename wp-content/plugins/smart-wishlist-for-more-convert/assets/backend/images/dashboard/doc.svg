@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="icon-settings" transform="translate(-154 40)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="61" height="61" rx="12" transform="translate(154 -40)" fill="#ffd1b7" opacity="0.3"/>
+    <path id="book" d="M67.75,15h10A1.25,1.25,0,0,0,79,13.751V1.25A1.25,1.25,0,0,0,77.751,0h-2.5V5L73.376,3.75,71.5,5V0h-5A2.5,2.5,0,0,0,64,2.5V16.251A3.754,3.754,0,0,0,67.75,20h10a1.25,1.25,0,0,0,0-2.5h-10a1.25,1.25,0,0,1,0-2.5Z" transform="translate(113 -19.501)" fill="#fd5d00"/>
+  </g>
+</svg>

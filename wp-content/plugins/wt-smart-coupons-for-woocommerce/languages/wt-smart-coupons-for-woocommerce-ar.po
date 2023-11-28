@@ -1,0 +1,2870 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Coupons for WooCommerce\n"
+"POT-Creation-Date: 2023-09-13 17:47+0530\n"
+"PO-Revision-Date: 2023-09-13 17:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wt-smart-coupon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-wt-duplicate-coupon.php:21
+#: admin/class-wt-smart-coupon-admin.php:147
+#: admin/modules/checkout_options/checkout_options.php:225
+#: admin/modules/coupon_restriction/coupon_restriction.php:105
+#: admin/modules/giveaway_product/giveaway_product.php:71
+#: admin/modules/giveaway_product/giveaway_product.php:240
+msgid "You do not have sufficient permission to perform this operation"
+msgstr "ليس لديك الإذن الكافي لإجراء هذه العملية"
+
+#: admin/class-wt-duplicate-coupon.php:25
+msgid "No post to duplicate has been supplied!"
+msgstr "تم حذف المقال بالفعل ."
+
+#: admin/class-wt-duplicate-coupon.php:114
+msgid "Post creation failed, could not find original post: "
+msgstr "فشل إنشاء المنشور ، تعذر العثور على المنشور الأصلي:"
+
+#: admin/class-wt-duplicate-coupon.php:126
+msgid "Duplicate"
+msgstr "تكرار"
+
+#: admin/class-wt-duplicate-coupon.php:127
+msgid "Duplicate this item"
+msgstr "تكرار هذا العنصر"
+
+#: admin/class-wt-smart-coupon-admin.php:118
+msgid "Quick links"
+msgstr "روابط سريعة"
+
+#: admin/class-wt-smart-coupon-admin.php:136
+#: admin/modules/freevspro/freevspro.php:190
+#: admin/modules/other_solutions/views/other_solutions_content.php:50
+#: admin/views/general_settings.php:20
+msgid "Smart Coupons for WooCommerce"
+msgstr "القسائم الذكية لـ WooCommerce"
+
+#: admin/class-wt-smart-coupon-admin.php:214
+#, php-format
+msgid ""
+"Unable to update settings due to an internal error. %s To troubleshoot please "
+"click %s here. %s"
+msgstr ""
+"تعذر تحديث الإعدادات بسبب خطأ داخلي. %s لتحري الخلل وإصلاحه ، الرجاء النقر %s "
+"هنا. %s"
+
+#: admin/class-wt-smart-coupon-admin.php:215
+msgid "is required"
+msgstr "مطلوب"
+
+#: admin/class-wt-smart-coupon-admin.php:216
+msgid "Copied!"
+msgstr "نسخ!"
+
+#: admin/class-wt-smart-coupon-admin.php:217
+#: admin/modules/coupon_style/coupon_style.php:61
+msgid "Error"
+msgstr "خطأ "
+
+#: admin/class-wt-smart-coupon-admin.php:218
+msgid "Loading..."
+msgstr "جار التحميل..."
+
+#: admin/class-wt-smart-coupon-admin.php:219
+#: public/class-wt-smart-coupon-public.php:141
+msgid "Please wait..."
+msgstr "أرجو الإنتظار..."
+
+#: admin/class-wt-smart-coupon-admin.php:220
+msgid "Are you sure?"
+msgstr "هل أنت متأكد؟"
+
+#: admin/class-wt-smart-coupon-admin.php:221
+msgid "Are you sure you want to delete?"
+msgstr "هل أنت متأكد من حذف ذلك ؟! "
+
+#: admin/class-wt-smart-coupon-admin.php:243 admin/views/general_settings.php:19
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: admin/class-wt-smart-coupon-admin.php:255
+msgid "Premium Upgrade"
+msgstr "ترقية متميزة"
+
+#: admin/class-wt-smart-coupon-admin.php:256
+msgid "Review"
+msgstr "مراجعة"
+
+#: admin/class-wt-smart-coupon-admin.php:271
+msgid "Docs"
+msgstr "مستندات"
+
+#: admin/class-wt-smart-coupon-admin.php:272
+msgid "Support"
+msgstr "الدعم"
+
+#: admin/class-wt-smart-coupon-admin.php:288
+msgid "My Account"
+msgstr "حسابي"
+
+#: admin/class-wt-smart-coupon-admin.php:289
+#: admin/modules/freevspro/views/comparison-table.php:111
+#: admin/modules/freevspro/views/comparison-table.php:117
+msgid "Checkout"
+msgstr "الدفع"
+
+#: admin/class-wt-smart-coupon-admin.php:290
+#: admin/modules/freevspro/views/comparison-table.php:112
+#: admin/modules/freevspro/views/comparison-table.php:118
+msgid "Cart"
+msgstr "سلة التسوق"
+
+#: admin/class-wt-smart-coupon-admin.php:294
+#, fuzzy
+#| msgid "Display used coupons in My account?"
+msgid "Display coupon in"
+msgstr "عرض القسائم المستعملة في حسابي؟"
+
+#: admin/class-wt-smart-coupon-admin.php:295
+msgid "Please select"
+msgstr "يرجى الإختيار"
+
+#: admin/class-wt-smart-coupon-admin.php:304
+#, fuzzy
+#| msgid "Make coupon available in the selected pages"
+msgid "Display coupon in the selected pages"
+msgstr "جعل القسيمة متاحة في الصفحات المحددة"
+
+#: admin/class-wt-smart-coupon-admin.php:315
+msgid "Did You Know?"
+msgstr "هل تعلم؟"
+
+#: admin/class-wt-smart-coupon-admin.php:316
+msgid ""
+"You can display the available coupons for a product on the respective product "
+"page?"
+msgstr "يمكنك عرض القسائم المتاحة لمنتج على صفحة المنتج المعنية؟"
+
+#: admin/class-wt-smart-coupon-admin.php:319
+#, fuzzy
+#| msgid "Checkout options"
+msgid "Check out this plugin."
+msgstr "خيارات عملية انهاء الشراء"
+
+#: admin/class-wt-smart-coupon-admin.php:496
+#: admin/class-wt-smart-coupon-admin.php:523
+#: admin/class-wt-smart-coupon-admin.php:524
+msgid "General settings"
+msgstr "الاعدادات العامة"
+
+#: admin/class-wt-smart-coupon-admin.php:497
+msgid "Smart Coupons"
+msgstr "كوبونات ذكية"
+
+#: admin/class-wt-smart-coupon-admin.php:507
+#: admin/class-wt-smart-coupon-admin.php:508 admin/views/general_settings.php:21
+msgid "All coupons"
+msgstr "جميع الكوبونات"
+
+#: admin/class-wt-smart-coupon-admin.php:515
+#: admin/class-wt-smart-coupon-admin.php:516 admin/views/general_settings.php:22
+msgid "Add coupon"
+msgstr "إضافة قسيمة"
+
+#: admin/class-wt-smart-coupon-admin.php:639
+#, fuzzy
+#| msgid "Done! Updated Smart Coupon settings."
+msgid "Smart coupon settings"
+msgstr "منتهي! تم تحديث إعدادات الكوبون الذكي."
+
+#: admin/class-wt-smart-coupon-admin.php:644
+msgid "Create bulk coupons within a few clicks."
+msgstr "قم بإنشاء قسائم مجمعة في غضون بضع نقرات."
+
+#: admin/class-wt-smart-coupon-admin.php:644
+#, php-format
+msgid "Get %s WooCommerce Coupon Generator%s plugin."
+msgstr "احصل على المكون الإضافي %s WooCommerce Coupon Generator %s."
+
+#: admin/class-wt-smart-coupon-admin.php:744
+msgid "Smart coupon database update in progress"
+msgstr "تحديث قاعدة بيانات القسيمة الذكية قيد التقدم"
+
+#: admin/class-wt-smart-coupon-admin.php:745
+msgid "The site may experience a slow response for few minutes."
+msgstr "قد يواجه الموقع استجابة بطيئة لبضع دقائق."
+
+#: admin/class-wt-smart-coupon-admin.php:753
+#, php-format
+msgid "Progress: %d out of %d"
+msgstr "التقدم: %d من %d"
+
+#: admin/class-wt-smart-coupon-admin.php:788
+msgid "WooCommerce coupon generator"
+msgstr "مولد قسيمة WooCommerce"
+
+#: admin/coupon-start-date/class-wt-smart-coupon-start-date.php:39
+msgid "Coupon start date"
+msgstr "تاريخ بدء القسيمة"
+
+#: admin/coupon-start-date/class-wt-smart-coupon-start-date.php:80
+#, fuzzy, php-format
+#| msgid "Sorry, this coupon only available after %s"
+msgid "Sorry, this coupon is only available after %s"
+msgstr "عذرًا ، هذه القسيمة متاحة فقط بعد %s"
+
+#: admin/exclude-product/class-wt-exclude-product-for-coupon.php:64
+msgid "Exclude from coupons"
+msgstr "استبعاد من القسائم"
+
+#: admin/exclude-product/class-wt-exclude-product-for-coupon.php:65
+msgid "Exclude this product from coupon discounts"
+msgstr "استبعاد هذا المنتج من خصومات القسيمة"
+
+#: admin/exclude-product/class-wt-exclude-product-for-coupon.php:146
+#: public/modules/coupon_restriction/coupon_restriction.php:615
+msgid "Sorry, this coupon is not applicable for selected products."
+msgstr "عذرا ، هذه القسيمة لا تنطبق على المنتجات المختارة."
+
+#: admin/modules/auto_coupon/auto_coupon.php:53
+#: admin/modules/freevspro/views/comparison-table.php:93
+msgid "Apply coupon automatically"
+msgstr "تطبيق القسيمة تلقائيا"
+
+#: admin/modules/auto_coupon/auto_coupon.php:55
+msgid ""
+"Enable to apply coupon automatically without applying code. By default, it "
+"works for up to 5 recently created coupons."
+msgstr ""
+"تمكين لتطبيق القسيمة تلقائيًا دون تطبيق الرمز. بشكل افتراضي ، يعمل مع ما يصل "
+"إلى 5 كوبونات تم إنشاؤها مؤخرًا."
+
+#: admin/modules/checkout_options/checkout_options.php:66
+msgid "Checkout options"
+msgstr "خيارات عملية انهاء الشراء"
+
+#: admin/modules/checkout_options/checkout_options.php:90
+msgid "Shipping methods"
+msgstr "طرق الشحن"
+
+#: admin/modules/checkout_options/checkout_options.php:91
+msgid "Any shipping method"
+msgstr "أي طريقة شحن"
+
+#: admin/modules/checkout_options/checkout_options.php:106
+msgid "Coupon will be applicable if any of these shipping methods are selected."
+msgstr "سيتم تطبيق القسيمة إذا تم تحديد أي من طرق الشحن هذه."
+
+#: admin/modules/checkout_options/checkout_options.php:113
+msgid "Payment methods"
+msgstr "طرق الدفع"
+
+#: admin/modules/checkout_options/checkout_options.php:114
+msgid "Any payment method"
+msgstr "أي طريقة دفع"
+
+#: admin/modules/checkout_options/checkout_options.php:132
+msgid "Coupon will be applicable if any of these payment methods are selected."
+msgstr "سيتم تطبيق الكوبون إذا تم تحديد أي من طرق الدفع هذه."
+
+#: admin/modules/checkout_options/checkout_options.php:138
+msgid "Applicable Roles"
+msgstr "الأدوار القابلة للتطبيق"
+
+#: admin/modules/checkout_options/checkout_options.php:139
+msgid "Any role"
+msgstr "أي دور"
+
+#: admin/modules/checkout_options/checkout_options.php:154
+msgid "Coupon will be applicable if customer belongs to any of these User Roles."
+msgstr ""
+"ستكون القسيمة قابلة للتطبيق إذا كان العميل ينتمي إلى أي من أدوار المستخدم هذه."
+
+#: admin/modules/checkout_options/checkout_options.php:173
+#, fuzzy
+#| msgid "Restrict coupons by country"
+msgid "Restrict by country"
+msgstr "تقييد القسائم حسب البلد"
+
+#: admin/modules/checkout_options/checkout_options.php:175
+msgid "Billing Address."
+msgstr "عنوان وصول الفواتير."
+
+#: admin/modules/checkout_options/checkout_options.php:176
+#, fuzzy
+#| msgid "Shipping methods"
+msgid "Shipping Address."
+msgstr "طرق الشحن"
+
+#: admin/modules/checkout_options/checkout_options.php:178
+msgid "Look for country from the selected option"
+msgstr "ابحث عن البلد من الخيار المحدد"
+
+#: admin/modules/checkout_options/checkout_options.php:187
+#: admin/modules/freevspro/views/comparison-table.php:50
+msgid "Country"
+msgstr "الدولة"
+
+#: admin/modules/checkout_options/checkout_options.php:188
+msgid "Any Location"
+msgstr "أي مكان"
+
+#: admin/modules/checkout_options/checkout_options.php:204
+#, fuzzy
+#| msgid ""
+#| "Coupon will be applicable if any of these shipping methods are selected."
+msgid ""
+"Coupon will be applicable only for the selected country from either the "
+"shipping/billing address"
+msgstr "سيتم تطبيق القسيمة إذا تم تحديد أي من طرق الشحن هذه."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:179
+msgid "Product/Category restrictions"
+msgstr "قيود المنتج / الفئة"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:180
+#, fuzzy
+#| msgid ""
+#| "Minimum price subtotal of the products that match the given product or "
+#| "category restrictions."
+msgid ""
+"Enable to apply coupon only if the cart satisfies the product or category "
+"restrictions."
+msgstr ""
+"إجمالي الحد الأدنى لسعر المنتجات التي تتطابق مع قيود المنتج أو الفئة المحددة."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:193
+msgid "Individual quantity restriction"
+msgstr "قيود الكمية الفردية"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:194
+msgid ""
+"Enable to set minimum and maximum quantity restrictions for individual product/"
+"category instead of entire cart."
+msgstr ""
+"تفعيل لتعيين الحد الأدنى والحد الأقصى لقيود الكمية للمنتج / الفئة الفردية بدلاً "
+"من سلة التسوق بأكملها."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:207
+#, fuzzy
+#| msgid "Product condition:"
+msgid "Product conditions:"
+msgstr "حالة المنتج:"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:209
+#: admin/modules/coupon_restriction/coupon_restriction.php:229
+msgid "Any from below selection"
+msgstr "أي من الاختيار أدناه"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:210
+#: admin/modules/coupon_restriction/coupon_restriction.php:230
+msgid "All from below selection"
+msgstr "كل ذلك من الاختيار أدناه"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:212
+#, php-format
+msgid ""
+"%sAny:%s Applies coupon if any of the products from the below is available in "
+"the cart."
+msgstr ""
+"%s أي: %s تنطبق القسيمة في حالة توفر أي من المنتجات الواردة أدناه في سلة "
+"التسوق."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:212
+#, php-format
+msgid "%sAll:%s Applies coupon if the cart contains all of the listed products."
+msgstr ""
+"%s الكل: %s تنطبق القسيمة إذا كانت سلة التسوق تحتوي على جميع المنتجات المدرجة."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:226
+msgid "Category condition:"
+msgstr "حالة الفئة:"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:232
+#, php-format
+msgid ""
+"%sAny:%s Applies coupon if the eligible quantity of products from any of the "
+"below selected categories are available in the cart."
+msgstr ""
+"%s أي: %s يتم تطبيق قسيمة في حالة توفر الكمية المؤهلة من المنتجات من أي من "
+"الفئات المحددة أدناه في سلة التسوق."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:232
+#, php-format
+msgid ""
+"%sAll:%s Applies coupon if the cart contains the eligible quantity of products "
+"from all of the below listed categories."
+msgstr ""
+"%s الكل: %s تنطبق القسيمة إذا كانت سلة التسوق تحتوي على الكمية المؤهلة من "
+"المنتجات من جميع الفئات المدرجة أدناه."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:247
+msgid "Minimum quantity of matching products"
+msgstr "الحد الأدنى لكمية المنتجات المطابقة"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:248
+#: admin/modules/coupon_restriction/coupon_restriction.php:272
+msgid "No minimum"
+msgstr "دون حد أدنى"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:249
+msgid ""
+"Minimum quantity of the products that match the given product or category "
+"restrictions. If no product or category restrictions are specified, the total "
+"number of products is used."
+msgstr ""
+"الحد الأدنى لكمية المنتجات التي تتطابق مع قيود المنتج أو الفئة المحددة. إذا لم "
+"يتم تحديد قيود على المنتج أو الفئة ، فسيتم استخدام العدد الإجمالي للمنتجات."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:259
+msgid "Maximum quantity of matching products"
+msgstr "الكمية القصوى من المنتجات المطابقة"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:260
+#: admin/modules/coupon_restriction/coupon_restriction.php:284
+msgid "No maximum"
+msgstr "دون حد أقصى"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:261
+msgid ""
+"Maximum quantity of the products that match the given product or category "
+"restrictions. If no product or category restrictions are specified, the total "
+"number of products is used."
+msgstr ""
+"الكمية القصوى من المنتجات التي تتطابق مع قيود المنتج أو الفئة المحددة. إذا لم "
+"يتم تحديد قيود على المنتج أو الفئة ، فسيتم استخدام العدد الإجمالي للمنتجات."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:271
+msgid "Minimum subtotal of matching products"
+msgstr "الحد الأدنى من المجموع الفرعي للمنتجات المطابقة"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:273
+msgid ""
+"Minimum price subtotal of the products that match the given product or "
+"category restrictions."
+msgstr ""
+"إجمالي الحد الأدنى لسعر المنتجات التي تتطابق مع قيود المنتج أو الفئة المحددة."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:283
+msgid "Maximum subtotal of matching products"
+msgstr "أقصى مجموع فرعي للمنتجات المطابقة"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:285
+msgid ""
+"Maximum price subtotal of the products that match the given product or "
+"category restrictions."
+msgstr ""
+"إجمالي الحد الأقصى لسعر المنتجات التي تتطابق مع قيود المنتج أو الفئة المحددة."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:325
+msgid ""
+"Apply coupon only if the selected quantity of products are in the cart. "
+"Discounts will be given for those products and not the total cart amount."
+msgstr ""
+"قم بتطبيق الكوبون فقط إذا كانت الكمية المحددة من المنتجات موجودة في سلة "
+"التسوق. سيتم منح خصومات لهذه المنتجات وليس إجمالي مبلغ سلة التسوق."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:326
+msgid ""
+"Applies coupon only if the selected quantity of products are in the cart. A "
+"discount will be given for the total cart amount."
+msgstr ""
+"تنطبق القسيمة فقط إذا كانت الكمية المحددة من المنتجات في سلة التسوق. سيتم منح "
+"خصم على إجمالي مبلغ سلة التسوق."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:332
+#: admin/modules/giveaway_product/giveaway_product.php:300
+msgid ""
+"Apply coupon only if the selected quantity of products of the chosen category "
+"are in the cart. Discounts will be given for those products and not the total "
+"cart amount."
+msgstr ""
+"قم بتطبيق الكوبون فقط إذا كانت الكمية المحددة من المنتجات للفئة المختارة "
+"موجودة في سلة التسوق. سيتم منح خصومات لهذه المنتجات وليس إجمالي مبلغ سلة "
+"التسوق."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:333
+msgid ""
+"Applies coupon only if the selected quantity of products of the chosen "
+"category are in the cart. A discount will be given for the total cart amount."
+msgstr ""
+"تنطبق القسيمة فقط إذا كانت الكمية المحددة من المنتجات للفئة المختارة موجودة في "
+"سلة التسوق. سيتم منح خصم على إجمالي مبلغ سلة التسوق."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:339
+msgid ""
+"If eligible products are in the cart along with excluded products, the coupon "
+"will be applied, but the discount will be limited to eligible products."
+msgstr ""
+"إذا كانت المنتجات المؤهلة موجودة في سلة التسوق مع المنتجات المستبعدة ، فسيتم "
+"تطبيق القسيمة ، لكن الخصم سيقتصر على المنتجات المؤهلة."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:340
+#, fuzzy
+#| msgid "Sorry, this coupon is not applicable for selected products."
+msgid "The coupon will not be applied if the excluded product is in the cart."
+msgstr "عذرا ، هذه القسيمة لا تنطبق على المنتجات المختارة."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:346
+msgid ""
+"If eligible products are in the cart along with products from an excluded "
+"category, the coupon will be applied, but the discount will be limited to "
+"eligible products."
+msgstr ""
+"إذا كانت المنتجات المؤهلة موجودة في سلة التسوق مع منتجات من فئة مستبعدة ، "
+"فسيتم تطبيق القسيمة ، لكن الخصم سيقتصر على المنتجات المؤهلة."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:347
+msgid ""
+"The coupon will not be applied if the product from an excluded category is in "
+"the cart."
+msgstr "لن يتم تطبيق القسيمة إذا كان المنتج من فئة مستبعدة في سلة التسوق."
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:16
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:31
+msgid "Products"
+msgstr "المنتجات"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:20
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:35
+msgid "Product"
+msgstr "المنتج"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:21
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:111
+msgid "Min. Quantity"
+msgstr "أقل كمية"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:22
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:112
+msgid "Max. Quantity"
+msgstr "الأعلى. كمية"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:50
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:62
+#: admin/modules/giveaway_product/views/_normal_coupon_giveaway_tab_content.php:8
+msgid "Search for a product..."
+msgstr "ابحث عن منتج..."
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:66
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:155
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:84
+msgid "Remove row"
+msgstr "إزالة الصف"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:75
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:164
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:93
+msgid "Add new row"
+msgstr "إضافة صف جديد"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:106
+#, fuzzy
+#| msgid "Popular categories"
+msgid "Products categories"
+msgstr "الاقسام الاكثر زيارة"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:110
+msgid "Category"
+msgstr "التصنيف"
+
+#: admin/modules/coupon_restriction/views/_usage_restrictions_tab_content.php:139
+msgid "Search for a category..."
+msgstr "ابحث عن فئة..."
+
+#: admin/modules/coupon_shortcode/coupon_shortcode.php:51
+msgid "Shortcode"
+msgstr "اختصار"
+
+#: admin/modules/coupon_style/coupon_style.php:81
+#: public/modules/giveaway_product/giveaway_product.php:321
+msgid "Success"
+msgstr "نجاح"
+
+#: admin/modules/coupon_style/coupon_style.php:97
+msgid "Unable to save settings"
+msgstr "تعذر حفظ الإعدادات"
+
+#: admin/modules/coupon_style/coupon_style.php:113
+msgid "Layouts"
+msgstr "التخطيطات"
+
+#: admin/modules/coupon_style/coupon_style.php:131
+#: common/modules/coupon_style/coupon_style.php:315
+#: public/class-wt-smart-coupon-public.php:167
+#: public/class-wt-smart-coupon-public.php:182
+msgid "Cart discount"
+msgstr "سلة التخفيضات"
+
+#: admin/modules/coupon_style/coupon_style.php:132
+msgid "coupon-code"
+msgstr "رمز القسيمة."
+
+#: admin/modules/coupon_style/views/_customize.php:99
+msgid "Display used coupons in My account?"
+msgstr "عرض القسائم المستعملة في حسابي؟"
+
+#: admin/modules/coupon_style/views/_customize.php:99
+msgid "Display expired coupons in My account?"
+msgstr "هل تريد عرض قسائم منتهية الصلاحية في حسابي؟"
+
+#: admin/modules/freevspro/freevspro.php:55
+#: admin/modules/other_solutions/views/other_solutions_content.php:149
+#, fuzzy
+#| msgid "Sequential Order Number for WooCommerce"
+msgid "Frequently Bought Together for WooCommerce"
+msgstr "رقم الطلب التسلسلي لـ WooCommerce"
+
+#: admin/modules/freevspro/freevspro.php:56
+msgid ""
+"Create and display frequently bought together suggestions automatically. "
+"Automatically generate frequently bought recommendations for your products."
+msgstr ""
+"إنشاء وعرض الاقتراحات التي يتم شراؤها معًا بشكل متكرر تلقائيًا. إنشاء توصيات يتم "
+"شراؤها بشكل متكرر لمنتجاتك تلقائيًا."
+
+#: admin/modules/freevspro/freevspro.php:61
+#: admin/modules/other_solutions/views/other_solutions_content.php:41
+#: admin/modules/premium_upgrade/views/page_content.php:209
+#, fuzzy
+#| msgid "Smart Coupons for WooCommerce"
+msgid "Display Discounts for WooCommerce"
+msgstr "القسائم الذكية لـ WooCommerce"
+
+#: admin/modules/freevspro/freevspro.php:62
+msgid ""
+"Maximize the visibility of your coupons by displaying them on product pages."
+msgstr "قم بزيادة رؤية القسائم الخاصة بك عن طريق عرضها على صفحات المنتج."
+
+#: admin/modules/freevspro/freevspro.php:67
+msgid "WooCommerce Best Sellers"
+msgstr "أفضل الكتب مبيعًا في WooCommerce"
+
+#: admin/modules/freevspro/freevspro.php:68
+msgid ""
+"Highlight the top-selling products in your store with labels, seals & sliders."
+msgstr ""
+"قم بتمييز المنتجات الأكثر مبيعًا في متجرك باستخدام الملصقات والأختام والشرائح "
+"المنزلقة."
+
+#: admin/modules/freevspro/freevspro.php:73
+msgid "WooCommerce Product Feed & Sync Manager"
+msgstr "WooCommerce Product Feed & Sync Manager"
+
+#: admin/modules/freevspro/freevspro.php:74
+msgid "Make WooCommerce Product Feed Generation & Sync Easier"
+msgstr "اجعل إنشاء ومزامنة خلاصة منتج WooCommerce أسهل"
+
+#: admin/modules/freevspro/freevspro.php:84
+#: admin/modules/premium_upgrade/views/page_content.php:178
+msgid "WooCommerce Gift Cards"
+msgstr "بطاقات هدايا"
+
+#: admin/modules/freevspro/freevspro.php:85
+msgid "Create purchasable gift cards with fixed or custom prices for your store."
+msgstr "أنشئ بطاقات هدايا قابلة للشراء بأسعار ثابتة أو مخصصة لمتجرك."
+
+#: admin/modules/freevspro/freevspro.php:90
+#: admin/modules/other_solutions/views/other_solutions_content.php:59
+#: admin/modules/premium_upgrade/views/page_content.php:149
+#, fuzzy
+#| msgid "Smart Coupons for WooCommerce"
+msgid "URL Coupons for WooCommerce"
+msgstr "القسائم الذكية لـ WooCommerce"
+
+#: admin/modules/freevspro/freevspro.php:91
+msgid ""
+"Generate sharable URLs and QR codes for all discount coupons in your store."
+msgstr "أنشئ عناوين URL قابلة للمشاركة ورموز QR لجميع كوبونات الخصم في متجرك."
+
+#: admin/modules/freevspro/freevspro.php:122
+#: admin/modules/premium_upgrade/views/page_content.php:165
+#: admin/modules/premium_upgrade/views/page_content.php:194
+#: admin/modules/premium_upgrade/views/page_content.php:224
+msgid "Get the plugin"
+msgstr "احصل على البرنامج المساعد"
+
+#: admin/modules/freevspro/freevspro.php:168
+#: admin/modules/freevspro/freevspro.php:174
+msgid "Free vs. Pro"
+msgstr "مجاني مقابل Pro"
+
+#: admin/modules/freevspro/freevspro.php:198
+msgid ""
+"Want additional coupon customizations? Get them with Smart Coupon premium!"
+msgstr "تريد تخصيصات قسيمة إضافية؟ احصل عليها مع قسط القسيمة الذكية!"
+
+#: admin/modules/freevspro/freevspro.php:202
+#: admin/modules/freevspro/views/goto-pro.php:129
+#: admin/modules/premium_upgrade/views/page_content.php:111
+#: admin/views/_premium_features_sidebar.php:31
+msgid "Upgrade to Premium"
+msgstr "الترقية إلى المميزة"
+
+#: admin/modules/freevspro/freevspro.php:211
+#: admin/views/_premium_features_sidebar.php:17
+msgid "30 Day Money Back Guarantee"
+msgstr "ضمان استرداد الأموال لمدة 30 يومًا"
+
+#: admin/modules/freevspro/freevspro.php:215
+#, no-php-format
+msgid "Fast and 99% customer satisfaction"
+msgstr "رضا العملاء بسرعة و 99 % c"
+
+#: admin/modules/freevspro/views/comparison-table.php:16
+#, fuzzy
+#| msgid "Coupons"
+msgid "BOGO Coupons"
+msgstr "الكوبونات"
+
+#: admin/modules/freevspro/views/comparison-table.php:17
+#, fuzzy
+#| msgid "Give away"
+msgid "Giveaway"
+msgstr "يتبرع"
+
+#: admin/modules/freevspro/views/comparison-table.php:18
+msgid "URL coupons"
+msgstr "كوبونات URL"
+
+#: admin/modules/freevspro/views/comparison-table.php:21
+#: admin/modules/premium_upgrade/views/page_content.php:104
+#: admin/views/_upgrade_to_pro_metabox.php:30
+msgid "Purchase history-based coupons"
+msgstr "شراء كوبونات تستند إلى التاريخ"
+
+#: admin/modules/freevspro/views/comparison-table.php:22
+msgid "Store credit"
+msgstr "رصيد المتجر"
+
+#: admin/modules/freevspro/views/comparison-table.php:23
+msgid "Gift coupons"
+msgstr "لقد تلقيت قسائم الهدايا"
+
+#: admin/modules/freevspro/views/comparison-table.php:24
+#: admin/views/_upgrade_to_pro_metabox.php:34
+msgid "Sign-up coupons"
+msgstr "كوبونات الاشتراك"
+
+#: admin/modules/freevspro/views/comparison-table.php:25
+#: admin/modules/premium_upgrade/views/page_content.php:101
+#: admin/views/_upgrade_to_pro_metabox.php:33
+msgid "Cart abandonment coupons"
+msgstr "كوبونات التخلي عن عربة التسوق"
+
+#: admin/modules/freevspro/views/comparison-table.php:26
+msgid "Combo coupons"
+msgstr "كوبونات كومبو"
+
+#: admin/modules/freevspro/views/comparison-table.php:32
+#: admin/views/_upgrade_to_pro_metabox.php:27
+#, fuzzy
+#| msgid "Available Coupons"
+msgid "Advanced BOGO Coupons"
+msgstr "كوبونات متاحة"
+
+#: admin/modules/freevspro/views/comparison-table.php:35
+#, fuzzy
+#| msgid "Give away (multiple products)"
+msgid "Giveaway (multiple products)"
+msgstr "تبرع (منتجات متعددة)"
+
+#: admin/modules/freevspro/views/comparison-table.php:42
+msgid "Shipping method"
+msgstr "طريقة الشحن"
+
+#: admin/modules/freevspro/views/comparison-table.php:43
+msgid "Payment method"
+msgstr "طريقة الدفع"
+
+#: admin/modules/freevspro/views/comparison-table.php:44
+msgid "User roles"
+msgstr "أدوار المستخدمين"
+
+#: admin/modules/freevspro/views/comparison-table.php:45
+msgid "Product quantity"
+msgstr "كمية المنتج"
+
+#: admin/modules/freevspro/views/comparison-table.php:46
+msgid "Product subtotal"
+msgstr "المجموع الفرعي للمنتج"
+
+#: admin/modules/freevspro/views/comparison-table.php:66
+msgid "Supported coupon types"
+msgstr "أنواع القسائم المدعومة"
+
+#: admin/modules/freevspro/views/comparison-table.php:71
+#, fuzzy
+#| msgid "Checkout options"
+msgid "BOGO Coupon options"
+msgstr "خيارات عملية انهاء الشراء"
+
+#: admin/modules/freevspro/views/comparison-table.php:73
+#: admin/modules/freevspro/views/comparison-table.php:80
+msgid "The customers can buy one product and get:"
+msgstr "يمكن للعملاء شراء منتج واحد والحصول على:"
+
+#: admin/modules/freevspro/views/comparison-table.php:74
+#: admin/modules/freevspro/views/comparison-table.php:81
+#: common/modules/giveaway_product/giveaway_product.php:160
+#, fuzzy
+#| msgid "Matching products"
+msgid "Specific product"
+msgstr "منتجات مطابقة"
+
+#: admin/modules/freevspro/views/comparison-table.php:75
+#: admin/modules/freevspro/views/comparison-table.php:82
+msgid "Any product from a specific category"
+msgstr "أي منتج من فئة معينة"
+
+#: admin/modules/freevspro/views/comparison-table.php:76
+#: admin/modules/freevspro/views/comparison-table.php:83
+msgid "Any product in store"
+msgstr "أي منتج في المتجر"
+
+#: admin/modules/freevspro/views/comparison-table.php:77
+#: admin/modules/freevspro/views/comparison-table.php:84
+msgid "Same product as in the cart"
+msgstr "نفس المنتج الموجود في سلة التسوق"
+
+#: admin/modules/freevspro/views/comparison-table.php:88
+msgid "Applicable coupon restrictions"
+msgstr "قيود القسيمة المعمول بها"
+
+#: admin/modules/freevspro/views/comparison-table.php:98
+msgid "Duplicate coupons"
+msgstr "قسائم مكررة"
+
+#: admin/modules/freevspro/views/comparison-table.php:103
+msgid "Set a coupon start date"
+msgstr "حدد تاريخ بدء القسيمة"
+
+#: admin/modules/freevspro/views/comparison-table.php:108
+msgid "Select page(s) to display applicable coupons"
+msgstr "حدد الصفحة (الصفحات) لعرض القسائم المعمول بها"
+
+#: admin/modules/freevspro/views/comparison-table.php:110
+#: admin/modules/freevspro/views/comparison-table.php:116
+msgid "My account page"
+msgstr "صفحة حسابي"
+
+#: admin/modules/freevspro/views/comparison-table.php:122
+msgid "Coupon styling"
+msgstr "تصميم القسيمة"
+
+#: admin/modules/freevspro/views/comparison-table.php:127
+msgid "Coupon templates"
+msgstr "قوالب القسيمة"
+
+#: admin/modules/freevspro/views/comparison-table.php:128
+msgid "Standard"
+msgstr "قياسي"
+
+#: admin/modules/freevspro/views/comparison-table.php:129
+msgid "Multiple options"
+msgstr "خيارات متعددة"
+
+#: admin/modules/freevspro/views/comparison-table.php:132
+#, fuzzy
+#| msgid "Option to apply tax after discount (give away products)"
+msgid "Option to apply tax after discount (giveaway products)"
+msgstr "خيار تطبيق الضريبة بعد الخصم (التخلي عن المنتجات)"
+
+#: admin/modules/freevspro/views/comparison-table.php:137
+msgid "Import coupons"
+msgstr "كوبونات الاستيراد"
+
+#: admin/modules/freevspro/views/comparison-table.php:142
+#: admin/modules/premium_upgrade/views/page_content.php:106
+msgid "Bulk generate coupons"
+msgstr "كوبونات توليد السائبة"
+
+#: admin/modules/freevspro/views/comparison-table.php:147
+msgid "Display count down discount sales banner"
+msgstr "عرض العد التنازلي لافتة مبيعات الخصم"
+
+#: admin/modules/freevspro/views/comparison-table.php:152
+msgid "Add coupon expiry in days"
+msgstr "أضف انتهاء صلاحية الكوبون في أيام"
+
+#: admin/modules/freevspro/views/comparison-table.php:157
+msgid "Supports custom coupon code format (prefix, suffix, length)"
+msgstr "يدعم تنسيق رمز القسيمة المخصص (البادئة ، اللاحقة ، الطول)"
+
+#: admin/modules/freevspro/views/comparison-table.php:162
+msgid "Custom endpoints and endpoint title for coupon listing page"
+msgstr "نقاط النهاية المخصصة وعنوان نقطة النهاية لصفحة قائمة القسيمة"
+
+#: admin/modules/freevspro/views/comparison-table.php:198
+msgid "FEATURES"
+msgstr "الفيوتشر"
+
+#: admin/modules/freevspro/views/comparison-table.php:199
+msgid "FREE"
+msgstr "مجاني"
+
+#: admin/modules/freevspro/views/comparison-table.php:200
+msgid "PREMIUM"
+msgstr "المميزة"
+
+#: admin/modules/giveaway_product/giveaway_product.php:191
+msgid "Number of times"
+msgstr "عدد مرات الاستخدام"
+
+#: admin/modules/giveaway_product/giveaway_product.php:193
+msgid "Apply once"
+msgstr "تقدم مرة واحدة"
+
+#: admin/modules/giveaway_product/giveaway_product.php:194
+msgid "Apply repeatedly"
+msgstr "تطبق بشكل متكرر"
+
+#: admin/modules/giveaway_product/giveaway_product.php:196
+#, php-format
+msgid ""
+"%sApply once:%s If cart is eligible or conditions are met, coupon applies "
+"once. ie: If you set the coupon to offer Buy 2 Get 1, you get one free "
+"product. Moving more items to the cart will not make it eligible to get more "
+"free products."
+msgstr ""
+"%s التقديم مرة واحدة: %s إذا كانت سلة التسوق مؤهلة أو تم استيفاء الشروط ، تسري "
+"القسيمة مرة واحدة. على سبيل المثال: إذا قمت بتعيين القسيمة لعرض Buy 2 Get 1 ، "
+"تحصل على منتج واحد مجاني. لن يؤدي نقل المزيد من العناصر إلى عربة التسوق إلى "
+"جعلها مؤهلة للحصول على المزيد من المنتجات المجانية."
+
+#: admin/modules/giveaway_product/giveaway_product.php:196
+#, php-format
+msgid ""
+"%sApply repeatedly:%s The coupon applies repeatedly whenever the cart is "
+"eligible or if conditions are met. ie: If you set the coupon to offer Buy 2 "
+"Get 1 then the coupon works repeatedly for Buy 4 Get 2 and so on."
+msgstr ""
+"%s التقديم بشكل متكرر: %s يتم تطبيق القسيمة بشكل متكرر كلما كانت سلة التسوق "
+"مؤهلة أو إذا تم استيفاء الشروط. على سبيل المثال: إذا قمت بتعيين القسيمة لعرض "
+"Buy 2 Get 1 ، فستعمل القسيمة بشكل متكرر مع Buy 4 Get 2 وما إلى ذلك."
+
+#: admin/modules/giveaway_product/giveaway_product.php:206
+#, fuzzy
+#| msgid "Give away products"
+msgid "Giveaway products"
+msgstr "التخلي عن المنتجات"
+
+#: admin/modules/giveaway_product/giveaway_product.php:273
+#: public/modules/giveaway_product/giveaway_product.php:1284
+#, fuzzy
+#| msgid "Free gifts"
+msgid "Free gift:"
+msgstr "هدايا مجانية"
+
+#: admin/modules/giveaway_product/giveaway_product.php:296
+msgid ""
+"Apply coupon only if the selected product quantity is in the cart. Discounts "
+"will be given for those products and not the total cart amount. For example, "
+"for setting up Buy X Get Y, choose the product/s X in this section."
+msgstr ""
+"تطبيق القسيمة فقط إذا كانت كمية المنتج المحددة في سلة التسوق. سيتم منح خصومات "
+"لهذه المنتجات وليس إجمالي مبلغ سلة التسوق. على سبيل المثال ، لإعداد Buy X Get "
+"Y ، اختر المنتج / المنتجات X في هذا القسم."
+
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:8
+#, fuzzy
+#| msgid "Custom URLs"
+msgid "Customer gets"
+msgstr "عناوين URL المخصصة"
+
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:36
+msgid "Quantity"
+msgstr "الكمية"
+
+#: admin/modules/giveaway_product/views/_bogo_coupon_giveaway_tab_content.php:37
+msgid "Discount"
+msgstr "الخصم"
+
+#: admin/modules/giveaway_product/views/_normal_coupon_giveaway_tab_content.php:7
+#, fuzzy
+#| msgid "Free Products"
+msgid "Free Product"
+msgstr "منتجات مجانية"
+
+#: admin/modules/giveaway_product/views/_normal_coupon_giveaway_tab_content.php:22
+msgid ""
+"A single quantity of the specified free product is added to the customer's "
+"cart when the coupon is applied. However, the corresponding tax and shipping "
+"charges are not exempted."
+msgstr ""
+"ينطبق فقط على المنتج البسيط (يتوفر دعم المنتج المتغير في إصدار Pro). تتم إضافة "
+"كمية واحدة من المنتج المجاني المحدد إلى عربة التسوق الخاصة بالعميل عند تطبيق "
+"القسيمة. ومع ذلك ، لا يتم إعفاء الضرائب ورسوم الشحن المقابلة."
+
+#: admin/modules/limit_max_discount/limit_max_discount.php:91
+msgid "Maximum discount value"
+msgstr "الحد الأقصى لقيمة الخصم"
+
+#: admin/modules/limit_max_discount/limit_max_discount.php:92
+msgid "Unlimited discount"
+msgstr "خصم غير محدود"
+
+#: admin/modules/limit_max_discount/limit_max_discount.php:93
+msgid ""
+"Use this option to set a cap on the discount value especially for percentage "
+"discounts. e.g, you may provide a 5 percentage discount coupon for a product "
+"but with a maximum discount upto $10."
+msgstr ""
+"استخدم هذا الخيار لتعيين حد أقصى لقيمة الخصم خاصة بالنسبة لخصومات النسبة "
+"المئوية. على سبيل المثال ، يمكنك تقديم قسيمة خصم بنسبة 5 بالمائة لمنتج ولكن "
+"بحد أقصى للخصم يصل إلى 10 دولارات."
+
+#: admin/modules/other_solutions/other_solutions.php:46
+#: admin/modules/other_solutions/other_solutions.php:52
+msgid "Other Solutions"
+msgstr "حلول أخرى"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:20
+msgid "More Plugins To Make Your Store Stand Out"
+msgstr "المزيد من الإضافات لجعل متجرك متميزًا"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:21
+msgid ""
+"Check out our other plugins that are perfectly suited for WooCommerce store "
+"needs."
+msgstr ""
+"تحقق من المكونات الإضافية الأخرى المناسبة تمامًا لاحتياجات متجر WooCommerce."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:32
+msgid "WebToffee WooCommerce Gift Cards"
+msgstr "بطاقات هدايا WebToffee WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:33
+msgid ""
+"Create and manage advanced gift cards for WooCommerce stores. Enable your "
+"customers to buy, redeem, and share gift cards from your store."
+msgstr ""
+"قم بإنشاء وإدارة بطاقات هدايا متقدمة لمتاجر WooCommerce. قم بتمكين عملائك من "
+"شراء بطاقات الهدايا واستردادها ومشاركتها من متجرك."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:42
+msgid ""
+"Display the WooCommerce coupon deals available for each product on the "
+"respective product pages. Make use of multiple coupon layouts & display "
+"options to fully optimize the look & feel of the coupons."
+msgstr ""
+"اعرض صفقات قسيمة WooCommerce المتاحة لكل منتج على صفحات المنتج المعنية. استفد "
+"من تخطيطات القسائم المتعددة وخيارات العرض لتحسين شكل ومظهر الكوبونات بشكل كامل."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:51
+msgid ""
+"Create coupons to offer discounts and free products to your customers with "
+"Smart Coupons for WooCommerce. You can set up BOGO coupons, giveaways, gift "
+"cards, store credits, and more with this plugin."
+msgstr ""
+"قم بإنشاء قسائم لتقديم خصومات ومنتجات مجانية لعملائك باستخدام الكوبونات الذكية "
+"لـ WooCommerce. يمكنك إعداد كوبونات BOGO والهدايا وبطاقات الهدايا وأرصدة "
+"المتجر والمزيد باستخدام هذا المكون الإضافي."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:60
+msgid ""
+"Generate custom URLs and QR codes for every discount coupon in your "
+"WooCommerce store. These unique coupons are easy to share and can even be set "
+"to add new products to the cart upon application."
+msgstr ""
+"قم بإنشاء عناوين URL مخصصة ورموز QR لكل قسيمة خصم في متجر WooCommerce الخاص "
+"بك. من السهل مشاركة هذه القسائم الفريدة ويمكن حتى تعيينها لإضافة منتجات جديدة "
+"إلى عربة التسوق عند التطبيق."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:68
+msgid "WooCommerce Coupon Generator plugin"
+msgstr "البرنامج المساعد WooCommerce Coupon Generator"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:69
+msgid ""
+"Generate coupons in bulk on your WooCommerce store. Add them to the store, "
+"email them to recipients or export them to a CSV file. Configure advanced "
+"coupon restrictions and offer them to select users."
+msgstr ""
+"قم بإنشاء قسائم مجمعة في متجر WooCommerce الخاص بك. أضفهم إلى المتجر ، أو "
+"أرسلهم بالبريد الإلكتروني إلى المستلمين أو قم بتصديرهم إلى ملف CSV. قم بتكوين "
+"قيود القسيمة المتقدمة واعرضها على مستخدمين محددين."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:77
+msgid "WooCommerce PDF Invoices, Packing Slips and Credit Notes"
+msgstr "فواتير WooCommerce PDF وقسائم التعبئة وإشعارات الائتمان"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:78
+msgid ""
+"Easily generate & print fully customized PDF Invoices, Packing Slips, and "
+"Credit Notes for your orders. Automatically send the documents to the "
+"recipients by attaching them to the order status emails."
+msgstr ""
+"يمكنك إنشاء وطباعة فواتير PDF المخصصة بالكامل وقسائم التعبئة وإشعارات الائتمان "
+"لأوامرك بسهولة. أرسل المستندات تلقائيًا إلى المستلمين من خلال إرفاقها برسائل "
+"البريد الإلكتروني الخاصة بحالة الطلب."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:86
+msgid "WooCommerce Shipping Labels, Dispatch Labels and Delivery Notes"
+msgstr "ملصقات الشحن WooCommerce وملصقات الإرسال وإشعارات التسليم"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:87
+msgid ""
+"Automatically generate WooCommerce Shipping Labels, Dispatch Labels, and "
+"Delivery Notes with custom settings and layouts. Customize the label sizes and "
+"add extra product or order fields as required."
+msgstr ""
+"إنشاء ملصقات شحن WooCommerce وملصقات الإرسال وملاحظات التسليم تلقائيًا باستخدام "
+"إعدادات وتخطيطات مخصصة. قم بتخصيص أحجام الملصقات وإضافة منتج أو حقول طلب "
+"إضافية كما هو مطلوب."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:95
+msgid "WooCommerce Picklists"
+msgstr "قوائم اختيار WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:96
+msgid ""
+"Customize, generate and print WooCommerce picklists for all orders on your "
+"store and automatically attach them to the order status emails. Add product "
+"variation data and other fields to the document."
+msgstr ""
+"قم بتخصيص وإنشاء وطباعة قوائم اختيار WooCommerce لجميع الطلبات في متجرك "
+"وإرفاقها تلقائيًا برسائل البريد الإلكتروني الخاصة بحالة الطلب. أضف بيانات تنوع "
+"المنتج والحقول الأخرى إلى المستند."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:104
+msgid "WooCommerce Proforma Invoices"
+msgstr "فواتير WooCommerce الأولية"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:105
+msgid ""
+"Automate the generation of WooCommerce proforma invoices when new orders are "
+"placed and send them to your customers via order emails. Customize the layout "
+"and content of the invoice as per your needs."
+msgstr ""
+"قم بأتمتة إنشاء فواتير WooCommerce الأولية عند تقديم طلبات جديدة وإرسالها إلى "
+"عملائك عبر رسائل البريد الإلكتروني للطلب. قم بتخصيص تصميم الفاتورة ومحتواها "
+"حسب احتياجاتك."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:113
+msgid "WooCommerce Address Labels"
+msgstr "تسميات عنوان WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:114
+msgid ""
+"Generate address labels for all orders in your store and easily print them in "
+"bulk. Customize the label layout and create labels of different types "
+"(shipping, billing, return, from address) with ease."
+msgstr ""
+"قم بإنشاء ملصقات عناوين لجميع الطلبات في متجرك وطباعتها بسهولة بكميات كبيرة. "
+"قم بتخصيص تخطيط الملصق وإنشاء ملصقات من أنواع مختلفة (الشحن ، الفواتير ، "
+"الإرجاع ، من العنوان) بسهولة."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:122
+msgid "WebToffee WooCommerce Product Feed & Sync Manager"
+msgstr "WebToffee WooCommerce مدير تغذية ومزامنة المنتج"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:123
+msgid ""
+"Generate WooCommerce product feeds for Google Merchant Center and Facebook "
+"Business Manager. Use the Facebook catalog sync manager to sync WooCommerce "
+"products with Facebook and Instagram shops."
+msgstr ""
+"أنشئ خلاصات منتجات WooCommerce لـ Google Merchant Center و Facebook Business "
+"Manager. استخدم مدير مزامنة كتالوج Facebook لمزامنة منتجات WooCommerce مع "
+"متاجر Facebook و Instagram."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:131
+msgid "WebToffee Woocommerce Request a Quote"
+msgstr "WebToffee Woocommerce طلب عرض أسعار"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:132
+msgid ""
+"Configure a fully optimized WooCommerce quote request set up in your store. "
+"Allow customers to request quotes and store managers to respond to them. Hide "
+"product prices, set up email alerts, and more."
+msgstr ""
+"قم بتكوين طلب عرض أسعار WooCommerce مُحسَّن بالكامل تم إعداده في متجرك. السماح "
+"للعملاء بطلب عروض الأسعار ومديري المتاجر للرد عليها. إخفاء أسعار المنتجات "
+"وإعداد تنبيهات البريد الإلكتروني والمزيد."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:140
+msgid "WebToffee WooCommerce Best Sellers"
+msgstr "WebToffee WooCommerce الأفضل مبيعًا"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:141
+msgid ""
+"Highlight top-selling products on your WooCommerce store using best seller "
+"labels, sliders, and custom seals. You can display ranking positions for best-"
+"seller products in different categories."
+msgstr ""
+"قم بتمييز المنتجات الأكثر مبيعًا في متجر WooCommerce الخاص بك باستخدام تسميات "
+"أفضل البائعين ، وشرائح التمرير ، والأختام المخصصة. يمكنك عرض مواقع الترتيب "
+"للمنتجات الأكثر مبيعًا في فئات مختلفة."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:150
+msgid ""
+"Boost the visibility of the products by displaying them as ‘Frequently bought "
+"together’ items in your store. You may also set up discounts for Frequently "
+"Bought Together bundles with this plugin."
+msgstr ""
+"عزز ظهور المنتجات من خلال عرضها كعناصر \"يتم شراؤها معًا بشكل متكرر\" في متجرك. "
+"يمكنك أيضًا إعداد خصومات لحزم يتم شراؤها بشكل متكرر مع هذا المكون الإضافي."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:158
+#, fuzzy
+#| msgid "GDPR Cookie Consent (CCPA Ready)"
+msgid "GDPR Cookie Consent Plugin (CCPA Ready)"
+msgstr "الموافقة على ملف تعريف الارتباط لـ GDPR (CCPA جاهز)"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:159
+msgid ""
+"The plugin helps you get compliant with GDPR, CCPA, and other major cookie "
+"laws. You can create and manage cookie consent banners, scan website cookies, "
+"and generate cookie policies with this plugin."
+msgstr ""
+"يساعدك المكون الإضافي في التوافق مع القانون العام لحماية البيانات (GDPR) و "
+"CCPA وقوانين ملفات تعريف الارتباط الرئيسية الأخرى. يمكنك إنشاء وإدارة لافتات "
+"الموافقة على ملفات تعريف الارتباط ، وفحص ملفات تعريف الارتباط لموقع الويب ، "
+"وإنشاء سياسات ملفات تعريف الارتباط باستخدام هذا المكون الإضافي."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:167
+#, fuzzy
+#| msgid "Order XML File Export Import for WooCommerce"
+msgid "Product Import Export Plugin For WooCommerce"
+msgstr "طلب استيراد تصدير ملف XML لـ WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:168
+msgid ""
+"Seamlessly import/export your WooCommerce products including simple, variable, "
+"custom products and subscriptions. You may also import and export product "
+"images, tags, categories, reviews, and ratings."
+msgstr ""
+"استيراد / تصدير منتجات WooCommerce الخاصة بك بسلاسة بما في ذلك المنتجات "
+"والاشتراكات البسيطة والمتغيرة والمخصصة. يمكنك أيضًا استيراد وتصدير صور المنتجات "
+"والعلامات والفئات والمراجعات والتقييمات الخاصة بالمنتج."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:176
+#, fuzzy
+#| msgid "Import Export WordPress Users and WooCommerce Customers"
+msgid "WordPress Users & WooCommerce Customers Import Export"
+msgstr "استيراد تصدير مستخدمي WordPress وعملاء WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:177
+msgid ""
+"Easily import and export your WordPress users and WooCommerce customers using "
+"the Import Export plugin for WooCommerce. The plugin supports the use of CSV, "
+"XML, TSV, XLS, and XLSX file formats."
+msgstr ""
+"قم باستيراد وتصدير مستخدمي WordPress وعملاء WooCommerce بسهولة باستخدام المكون "
+"الإضافي Import Export لـ WooCommerce. يدعم البرنامج المساعد استخدام تنسيقات "
+"ملفات CSV و XML و TSV و XLS و XLSX."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:185
+#, fuzzy
+#| msgid "Order XML File Export Import for WooCommerce"
+msgid "Order, Coupon, Subscription Export Import for WooCommerce"
+msgstr "طلب استيراد تصدير ملف XML لـ WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:186
+msgid ""
+"Export and Import your WooCommerce orders, subscriptions, and discount coupons "
+"using a single Import Export plugin. You may customize the export and import "
+"files with advanced filters and settings."
+msgstr ""
+"قم بتصدير واستيراد طلبات WooCommerce والاشتراكات وكوبونات الخصم باستخدام مكون "
+"إضافي واحد للاستيراد والتصدير. يمكنك تخصيص ملفات التصدير والاستيراد باستخدام "
+"عوامل التصفية والإعدادات المتقدمة."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:194
+#, fuzzy
+#| msgid "Smart Coupons for WooCommerce"
+msgid "Import Export Suite for WooCommerce"
+msgstr "القسائم الذكية لـ WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:195
+msgid ""
+"An all-in-one plugin to import and export WooCommerce store data. You can "
+"import and export products, product reviews, orders, customers, discount "
+"coupons, and subscriptions using this single plugin."
+msgstr ""
+"مكون إضافي شامل لاستيراد بيانات متجر WooCommerce وتصديرها. يمكنك استيراد "
+"وتصدير المنتجات ومراجعات المنتجات والطلبات والعملاء وكوبونات الخصم والاشتراكات "
+"باستخدام هذا المكون الإضافي الفردي."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:207
+msgid "PayPal Express Checkout Payment Gateway for WooCommerce"
+msgstr "PayPal Express Checkout Payment Gateway لـ WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:208
+msgid ""
+"Offer a fast checkout experience to your customers with PayPal Payment "
+"Gateway. You can set up the PayPal Express Checkout option on the product "
+"pages to reduce the clicks to complete the checkout."
+msgstr ""
+"قدم تجربة سداد سريعة لعملائك من خلال PayPal Payment Gateway. يمكنك إعداد خيار "
+"PayPal Express Checkout على صفحات المنتج لتقليل النقرات لإكمال عملية الدفع."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:216
+msgid "WooCommerce Stripe Payment Gateway"
+msgstr "بوابة الدفع WooCommerce Stripe"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:217
+msgid ""
+"Ensure a fast and secure checkout experience for your users with WooCommerce "
+"Stripe Payment Gateway. Stripe accepts credit/debit cards and offers "
+"integrations with Apple Pay, SEPA, Alipay, and more."
+msgstr ""
+"تأكد من تجربة دفع سريعة وآمنة لمستخدميك من خلال WooCommerce Stripe Payment "
+"Gateway. يقبل Stripe بطاقات الائتمان / الخصم ويقدم عمليات تكامل مع Apple Pay و "
+"SEPA و Alipay والمزيد."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:225
+msgid "Subscriptions for WooCommerce"
+msgstr "اشتراكات للتنظيف"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:226
+msgid ""
+"Enable subscriptions on your WooCommerce store to sell products (physical and "
+"digital) and services that require accepting recurring payments. Supports both "
+"simple and variable subscription products."
+msgstr ""
+"قم بتمكين الاشتراكات في متجر WooCommerce لبيع المنتجات (المادية والرقمية) "
+"والخدمات التي تتطلب قبول المدفوعات المتكررة. يدعم كلاً من منتجات الاشتراك "
+"البسيطة والمتغيرة."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:234
+#, fuzzy
+#| msgid "Sequential Order Number for WooCommerce"
+msgid "Sequential Order Numbers for WooCommerce"
+msgstr "رقم الطلب التسلسلي لـ WooCommerce"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:235
+msgid ""
+"Number your WooCommerce orders in a custom, sequential & manageable format. "
+"The Sequential Order Number plugin lets your orders follow a custom & unique "
+"numbering sequence suitable for your business."
+msgstr ""
+"قم بترقيم طلبات WooCommerce الخاصة بك بتنسيق مخصص ومتسلسل وقابل للإدارة. يسمح "
+"المكون الإضافي لرقم الطلب التسلسلي لأوامرك باتباع تسلسل ترقيم مخصص وفريد مناسب "
+"لعملك."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:243
+#, fuzzy
+#| msgid "WordPress Migration & Duplicator"
+msgid "WordPress Backup and Migration"
+msgstr "ترحيل ووردبريس الناسخ"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:244
+msgid ""
+"A complete WordPress backup and migration plugin to easily back up and migrate "
+"your WordPress website and database. This fast and flexible backup solution "
+"makes creating and restoring backups easy."
+msgstr ""
+"نسخة ووردبريس كاملة للنسخ الاحتياطي والمكوِّن الإضافي للترحيل للنسخ الاحتياطي "
+"وترحيل موقع الويب وقاعدة بيانات WordPress الخاصين بك بسهولة. يعمل حل النسخ "
+"الاحتياطي السريع والمرن هذا على تسهيل إنشاء النسخ الاحتياطية واستعادتها."
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:292
+#, fuzzy
+#| msgid "Upgrade to Premium"
+msgid " Get Premium"
+msgstr "الترقية إلى المميزة"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:300
+msgid "Installed"
+msgstr "تنصيب"
+
+#: admin/modules/other_solutions/views/other_solutions_content.php:311
+msgid "Get Free Plugin"
+msgstr "احصل على البرنامج المساعد المجاني"
+
+#: admin/modules/premium_upgrade/premium_upgrade.php:43
+#: admin/modules/premium_upgrade/premium_upgrade.php:44
+#, fuzzy
+#| msgid "Premium Upgrade"
+msgid "Premium upgrade"
+msgstr "ترقية متميزة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:91
+#, fuzzy
+#| msgid "Smart Coupons for WooCommerce"
+msgid "Smart Coupon for Woocommerce"
+msgstr "القسائم الذكية لـ WooCommerce"
+
+#: admin/modules/premium_upgrade/views/page_content.php:95
+msgid ""
+"Create coupons to offer discounts and free products to your customers with "
+"Smart Coupons for WooCommerce."
+msgstr ""
+"قم بإنشاء قسائم لتقديم خصومات ومنتجات مجانية لعملائك باستخدام الكوبونات الذكية "
+"لـ WooCommerce."
+
+#: admin/modules/premium_upgrade/views/page_content.php:99
+#, fuzzy
+#| msgid "Gift coupons"
+msgid "BOGO coupons"
+msgstr "لقد تلقيت قسائم الهدايا"
+
+#: admin/modules/premium_upgrade/views/page_content.php:100
+#, fuzzy
+#| msgid "Restrict coupons based on country"
+msgid "Coupons based on location"
+msgstr "تقييد القسائم على أساس البلد"
+
+#: admin/modules/premium_upgrade/views/page_content.php:102
+#, fuzzy
+#| msgid "Offer give away coupons"
+msgid "Product giveaway coupons"
+msgstr "تقديم كوبونات التخلي عن"
+
+#: admin/modules/premium_upgrade/views/page_content.php:103
+#: admin/views/_upgrade_to_pro_metabox.php:28
+msgid "Store credits"
+msgstr "رصيد المتجر"
+
+#: admin/modules/premium_upgrade/views/page_content.php:105
+#, fuzzy
+#| msgid "Sign-up coupons"
+msgid "Signup coupons"
+msgstr "كوبونات الاشتراك"
+
+#: admin/modules/premium_upgrade/views/page_content.php:107
+msgid "Banners with sales expiry timer"
+msgstr "لافتات مع توقيت انتهاء المبيعات"
+
+#: admin/modules/premium_upgrade/views/page_content.php:108
+#, fuzzy
+#| msgid "Import coupons"
+msgid "Import or export coupons"
+msgstr "كوبونات الاستيراد"
+
+#: admin/modules/premium_upgrade/views/page_content.php:115
+#: admin/modules/premium_upgrade/views/page_content.php:167
+#: admin/modules/premium_upgrade/views/page_content.php:197
+#: admin/modules/premium_upgrade/views/page_content.php:226
+#: admin/views/_setup_video_sidebar.php:13
+msgid "Watch setup video"
+msgstr "شاهد فيديو الإعداد"
+
+#: admin/modules/premium_upgrade/views/page_content.php:123
+msgid "Additional Plugins to Market Your Products Better"
+msgstr "ملحقات إضافية لتسويق منتجاتك بشكل أفضل"
+
+#: admin/modules/premium_upgrade/views/page_content.php:129
+#, fuzzy
+#| msgid "30 Day Money Back Guarantee"
+msgid "30 Day 100% No Risk Money Back Guarantee"
+msgstr "ضمان استرداد الأموال لمدة 30 يومًا"
+
+#: admin/modules/premium_upgrade/views/page_content.php:133
+msgid "Fast and Proirity Support with 99% Satisfaction Rating"
+msgstr "دعم سريع ومباشر مع تصنيف رضاء 99٪"
+
+#: admin/modules/premium_upgrade/views/page_content.php:152
+msgid "Get sharable URLs and QR codes for your coupons!"
+msgstr "احصل على عناوين URL قابلة للمشاركة ورموز QR لقسائمك!"
+
+#: admin/modules/premium_upgrade/views/page_content.php:156
+#, fuzzy
+#| msgid "Create QR code coupons"
+msgid "Create unique URLs for coupons"
+msgstr "إنشاء كوبونات رمز الاستجابة السريعة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:157
+#, fuzzy
+#| msgid "Create QR code coupons"
+msgid "Generate QR codes for coupons"
+msgstr "إنشاء كوبونات رمز الاستجابة السريعة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:158
+#, fuzzy
+#| msgid "Auto apply coupons on checkout"
+msgid "Auto-apply coupons on click"
+msgstr "تطبيق القسائم تلقائيًا عند الخروج"
+
+#: admin/modules/premium_upgrade/views/page_content.php:159
+#, fuzzy
+#| msgid "Automatically add products"
+msgid "Automatically add products to the cart"
+msgstr "إضافة المنتجات تلقائيًا"
+
+#: admin/modules/premium_upgrade/views/page_content.php:160
+msgid "Redirection users to specific pages"
+msgstr "إعادة توجيه المستخدمين إلى صفحات معينة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:161
+msgid "Simple to use and easy to understand"
+msgstr "سهل الاستخدام وسهل الفهم"
+
+#: admin/modules/premium_upgrade/views/page_content.php:181
+msgid "Create & manage gift cards for your store."
+msgstr "إنشاء وإدارة بطاقات الهدايا لمتجرك."
+
+#: admin/modules/premium_upgrade/views/page_content.php:185
+msgid "Create gift cards products"
+msgstr "إنشاء منتجات بطاقات الهدايا"
+
+#: admin/modules/premium_upgrade/views/page_content.php:186
+#, fuzzy
+#| msgid "Email gift cards in beautiful templates"
+msgid "Email gift cards to customers"
+msgstr "بطاقات هدايا البريد الإلكتروني في قوالب جميلة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:187
+msgid "20+ predefined gift card templates"
+msgstr "20+ قوالب بطاقات هدايا محددة مسبقًا"
+
+#: admin/modules/premium_upgrade/views/page_content.php:188
+msgid "Category-wise template listing"
+msgstr "قائمة قالب الفئة الحكيمة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:189
+msgid "Upload custom gift card templates"
+msgstr "تحميل قوالب بطاقات هدايا مخصصة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:190
+msgid "Generate gift cards based on order status"
+msgstr "قم بإنشاء بطاقات هدايا بناءً على حالة الطلب"
+
+#: admin/modules/premium_upgrade/views/page_content.php:191
+#, fuzzy
+#| msgid "Store credit"
+msgid "Refund to Store credit"
+msgstr "رصيد المتجر"
+
+#: admin/modules/premium_upgrade/views/page_content.php:212
+msgid "The best way to market your coupons in-house!"
+msgstr "أفضل طريقة لتسويق قسائمك داخل الشركة!"
+
+#: admin/modules/premium_upgrade/views/page_content.php:216
+msgid "List discounts on WooCommerce product pages"
+msgstr "قائمة الخصومات على صفحات منتجات WooCommerce"
+
+#: admin/modules/premium_upgrade/views/page_content.php:217
+msgid "Add countdown timers to time-limited coupons"
+msgstr "أضف مؤقتات العد التنازلي إلى الكوبونات محدودة الوقت"
+
+#: admin/modules/premium_upgrade/views/page_content.php:218
+msgid "Multiple coupon display template"
+msgstr "قالب عرض قسيمة متعددة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:219
+msgid "Show restriction info within the coupon"
+msgstr "إظهار معلومات التقييد داخل القسيمة"
+
+#: admin/modules/premium_upgrade/views/page_content.php:220
+#, fuzzy
+#| msgid "Sorry no coupon to display"
+msgid "Limit the number of coupons to display"
+msgstr "آسف لا قسيمة لعرضها"
+
+#: admin/modules/url_coupon/url_coupon.php:114
+#, fuzzy
+#| msgid "Coupon URL:"
+msgid "Copy coupon URL"
+msgstr "عنوان URL للقسيمة:"
+
+#: admin/modules/url_coupon/url_coupon.php:120
+#, fuzzy
+#| msgid "Get coupon URL"
+msgid "How to use coupon URL?"
+msgstr "توليد قسيمة"
+
+#: admin/modules/url_coupon/url_coupon.php:140
+#, fuzzy
+#| msgid "Get coupon URL"
+msgid "How to use coupon URL"
+msgstr "توليد قسيمة"
+
+#: admin/modules/url_coupon/url_coupon.php:181
+#: admin/modules/url_coupon/url_coupon.php:188
+#: admin/modules/url_coupon/views/_tab_data.php:7
+msgid "URL coupon"
+msgstr "قسيمة URL"
+
+#: admin/modules/url_coupon/views/_tab_data.php:8
+msgid ""
+"The plugin auto generates a unique URL for all the coupons created in your "
+"store. Visiting the URL associated with a coupon will automatically redirect "
+"the users to the cart page by applying the coupon. You can embed a URL in a "
+"button, and your customer can click the button to apply the coupon."
+msgstr ""
+"ينشئ المكون الإضافي تلقائيًا عنوان URL فريدًا لجميع القسائم التي تم إنشاؤها في "
+"متجرك. ستؤدي زيارة عنوان URL المرتبط بالقسيمة إلى إعادة توجيه المستخدمين "
+"تلقائيًا إلى صفحة سلة التسوق عن طريق تطبيق القسيمة. يمكنك تضمين عنوان URL في "
+"زر ، ويمكن للعميل النقر فوق الزر لتطبيق القسيمة."
+
+#: admin/modules/url_coupon/views/_tab_data.php:10
+msgid "Prerequisite:"
+msgstr "المتطلبات المسبقة:"
+
+#: admin/modules/url_coupon/views/_tab_data.php:10
+msgid ""
+"Ensure that you have created a coupon with the required configuration to use "
+"it as a URL coupon."
+msgstr "تأكد من أنك قمت بإنشاء قسيمة بالتهيئة المطلوبة لاستخدامها كقسيمة URL."
+
+#: admin/modules/url_coupon/views/_tab_data.php:12
+msgid "URL coupon format:"
+msgstr "شكل القسيمة"
+
+#: admin/modules/url_coupon/views/_tab_data.php:15
+msgid "A sample URL coupon will be in the given format:"
+msgstr "سيكون نموذج قسيمة URL بالتنسيق المحدد:"
+
+#: admin/modules/url_coupon/views/_tab_data.php:17
+msgid "In the above example,"
+msgstr "في المثال أعلاه ،"
+
+#: admin/modules/url_coupon/views/_tab_data.php:19
+msgid "corresponds to the site URL"
+msgstr "يتوافق مع عنوان URL للموقع"
+
+#: admin/modules/url_coupon/views/_tab_data.php:20
+msgid "'?wt_coupon' refers to the URL coupon key"
+msgstr "يشير '؟ wt_coupon' إلى مفتاح قسيمة URL"
+
+#: admin/modules/url_coupon/views/_tab_data.php:21
+msgid "'flat30' is the coupon code"
+msgstr "طول رمز القسيمة"
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:24
+msgid "Make the most out of URL coupons with URL coupons Pro"
+msgstr "حقق أقصى استفادة من كوبونات URL باستخدام كوبونات URL Pro"
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:34
+msgid "Custom URLs"
+msgstr "عناوين URL المخصصة"
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:34
+msgid "Generate customized coupon URLs (example:www.mystore.com/happybirthday)"
+msgstr ""
+"إنشاء عناوين URL مخصصة للقسيمة (على سبيل المثال: www.mystore.com/happybirthday)"
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:40
+msgid "Set up a redirect page"
+msgstr "قم بإعداد صفحة إعادة التوجيه"
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:40
+msgid ""
+"Configure the URL to redirect to either cart or checkout page when it is "
+"clicked."
+msgstr ""
+"قم بتكوين عنوان URL لإعادة التوجيه إلى سلة التسوق أو صفحة الدفع عند النقر "
+"عليها."
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:50
+msgid "Create QR code coupons"
+msgstr "إنشاء كوبونات رمز الاستجابة السريعة"
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:50
+msgid "Embed URL coupons in QRCodes to create QR code coupons."
+msgstr "قم بتضمين قسائم URL في رموز QRC لإنشاء كوبونات رمز الاستجابة السريعة."
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:56
+msgid "Automatically add products"
+msgstr "إضافة المنتجات تلقائيًا"
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:56
+msgid ""
+"Assign a product to the URL to be automatically added to the customer’s cart "
+"upon activating it."
+msgstr "عيّن منتجًا إلى عنوان URL لإضافته تلقائيًا إلى سلة تسوق العميل عند تنشيطه."
+
+#: admin/modules/url_coupon/views/_upgrade_to_pro.php:64
+msgid "Upgrade to URL coupons Pro"
+msgstr "قم بالترقية إلى URL Coupons Pro"
+
+#: admin/views/_bulk_generate_info_meta_box.php:22
+#, fuzzy
+#| msgid "Related Products for WooCommerce"
+msgid "Create attractive gift cards for WooCommerce."
+msgstr "المنتجات ذات الصلة بـ WooCommerce"
+
+#: admin/views/_bulk_generate_info_meta_box.php:23
+#, php-format
+msgid "Get %s WebToffee WooCommerce Gift Cards%s plugin."
+msgstr "احصل على المكون الإضافي %s WebToffee WooCommerce Gift Cards %s."
+
+#: admin/views/_help_links_meta_box.php:13
+msgid "Set up BOGO offer"
+msgstr "قم بإعداد عرض BOGO"
+
+#: admin/views/_help_links_meta_box.php:17
+msgid "Create 'Seasonal Discount' offer"
+msgstr "أنشئ عرض خصم موسمي"
+
+#: admin/views/_help_links_meta_box.php:21
+msgid "Auto apply coupons on checkout"
+msgstr "تطبيق القسائم تلقائيًا عند الخروج"
+
+#: admin/views/_help_links_meta_box.php:25
+msgid "Offer discount based on Shipping/Payment/User role"
+msgstr "عرض الخصم على أساس الشحن / الدفع / دور المستخدم"
+
+#: admin/views/_help_links_meta_box.php:37
+msgid "Here are a few links that explains types of offers you can create."
+msgstr "فيما يلي بعض الروابط التي تشرح أنواع العروض التي يمكنك إنشاؤها."
+
+#: admin/views/_help_links_meta_box.php:54
+msgid "To know more, read "
+msgstr "لمعرفة المزيد ، راجع"
+
+#: admin/views/_help_links_meta_box.php:56
+msgid "documentation"
+msgstr "الوثائق"
+
+#: admin/views/_premium_features_sidebar.php:10
+msgid "Get access to advanced features of Smart coupon."
+msgstr "احصل على الوصول إلى الميزات المتقدمة للقسيمة الذكية."
+
+#: admin/views/_premium_features_sidebar.php:25
+msgid "Fast and Superior Support"
+msgstr "دعم سريع وفائق"
+
+#: admin/views/_premium_features_sidebar.php:37
+msgid "Premium features"
+msgstr "العضوية المميزة"
+
+#: admin/views/_premium_features_sidebar.php:39
+#, fuzzy, php-format
+#| msgid "%sSign-up coupons%s: Create and offer sign-up discount coupons."
+msgid ""
+"%sAdvanced BOGO Coupons%s: Create and offer various type of Buy One Get One "
+"coupons"
+msgstr "%s قسائم الاشتراك %s: إنشاء قسائم خصم الاشتراك وتقديمها."
+
+#: admin/views/_premium_features_sidebar.php:40
+#, php-format
+msgid ""
+"%sOffer store credits%s: Create and sell store credits of custom or pre-"
+"defined amounts."
+msgstr ""
+"%s تقديم أرصدة المتجر %s: إنشاء وبيع أرصدة المتجر بمبالغ مخصصة أو محددة مسبقًا."
+
+#: admin/views/_premium_features_sidebar.php:41
+#, php-format
+msgid ""
+"%sGift cards%s: Create attractive gift cards of any amount range by "
+"associating a store credit product."
+msgstr ""
+"%s بطاقات الهدايا %s: أنشئ بطاقات هدايا جذابة بأي نطاق من خلال إقران أحد "
+"منتجات ائتمان المتجر."
+
+#: admin/views/_premium_features_sidebar.php:42
+#, php-format
+msgid ""
+"%sGive away products (one or more)%s: Configure coupons that give away "
+"selected product(s)."
+msgstr ""
+"%s إهداء المنتجات (واحد أو أكثر) %s: تكوين القسائم التي تمنح المنتجات المحددة."
+
+#: admin/views/_premium_features_sidebar.php:43
+#, php-format
+msgid ""
+"%sCoupons based on past purchases%s: Create and offer first order, next order, "
+"or any nth order discounts."
+msgstr ""
+"%s القسائم استنادًا إلى عمليات الشراء السابقة %s: يمكنك إنشاء وتقديم الطلب "
+"الأول أو الطلب التالي أو أي خصومات على الطلب الأول."
+
+#: admin/views/_premium_features_sidebar.php:44
+#, php-format
+msgid ""
+"%sRestrict coupons by country%s: Allow discounts for users from selected "
+"countries/locations."
+msgstr ""
+"%s تقييد القسائم حسب البلد %s: السماح بتخفيضات للمستخدمين من البلدان / المواقع "
+"المحددة."
+
+#: admin/views/_premium_features_sidebar.php:45
+#, php-format
+msgid "%sSign-up coupons%s: Create and offer sign-up discount coupons."
+msgstr "%s قسائم الاشتراك %s: إنشاء قسائم خصم الاشتراك وتقديمها."
+
+#: admin/views/_premium_features_sidebar.php:46
+#, php-format
+msgid ""
+"%sCart abandonment coupons%s: Configure cart abandonment coupons to regain "
+"abandoned carts."
+msgstr ""
+"%s قسائم التخلي عن سلة التسوق %s: هيئ قسائم التخلي عن سلة التسوق لاستعادة "
+"عربات التسوق المتروكة."
+
+#: admin/views/_premium_features_sidebar.php:47
+#, php-format
+msgid ""
+"%sCustomizable count-down sales banner%s: Easily create a count-down discount "
+"banner by choosing a template."
+msgstr ""
+"%s إعلان بانر للمبيعات قابل للتخصيص %s: يمكنك بسهولة إنشاء بانر للعد التنازلي "
+"للخصم عن طريق اختيار نموذج."
+
+#: admin/views/_premium_features_sidebar.php:48
+#, php-format
+msgid ""
+"%sBulk generate coupons%s: Generate and manage bulk coupons with add to store/"
+"email/ export to CSV options."
+msgstr ""
+"%s إنشاء القسائم بشكل مجمّع %s: إنشاء وإدارة القسائم المجمّعة باستخدام الإضافة "
+"إلى المتجر / البريد الإلكتروني / التصدير إلى خيارات CSV."
+
+#: admin/views/_premium_features_sidebar.php:49
+#, php-format
+msgid ""
+"%sImport-export coupons%s: Import and export coupons simultaneously by "
+"emailing them directly to the recipients."
+msgstr ""
+"%s قسائم الاستيراد والتصدير %s: قم باستيراد وتصدير القسائم في وقت واحد عن طريق "
+"إرسالها بالبريد الإلكتروني مباشرة إلى المستلمين."
+
+#: admin/views/_premium_features_sidebar.php:50
+#, php-format
+msgid "%sCoupon embeds%s: Shortcode for displaying coupons on any page."
+msgstr "%s تضمينات القسائم %s: رمز قصير لعرض القسائم في أي صفحة."
+
+#: admin/views/_premium_features_sidebar.php:51
+#, php-format
+msgid "%sCombo coupons%s: Provision to use combo coupons for purchase."
+msgstr "%s القسائم المجمعة %s: توفير لاستخدام القسائم المختلطة للشراء."
+
+#: admin/views/_premium_features_sidebar.php:55 admin/views/admin-help.php:18
+#: admin/views/admin-help.php:21
+msgid "Documentation"
+msgstr "كابل بيانات"
+
+#: admin/views/_premium_features_sidebar.php:60
+#, php-format
+msgid "If you like the plugin please leave us a %s review"
+msgstr "إذا أعجبك المكون الإضافي ، فيرجى ترك تعليق لنا %s"
+
+#: admin/views/_upgrade_to_pro_metabox.php:27
+msgid "New"
+msgstr "جديد"
+
+#: admin/views/_upgrade_to_pro_metabox.php:29
+msgid "Free gifts"
+msgstr "هدايا مجانية"
+
+#: admin/views/_upgrade_to_pro_metabox.php:31
+msgid "Restrict coupons by country"
+msgstr "تقييد القسائم حسب البلد"
+
+#: admin/views/_upgrade_to_pro_metabox.php:32
+msgid "Give away products"
+msgstr "التخلي عن المنتجات"
+
+#: admin/views/_upgrade_to_pro_metabox.php:35
+msgid "Count-down sales banner"
+msgstr "العد التنازلي للمبيعات لافتة"
+
+#: admin/views/_upgrade_to_pro_metabox.php:39
+msgid "Upgrade to premium"
+msgstr "الترقية إلى المميزة"
+
+#: admin/views/admin-help.php:11
+msgid "Help links"
+msgstr "روابط المساعدة"
+
+#: admin/views/admin-help.php:19
+msgid "Refer to our documentation to set up and get started"
+msgstr "راجع وثائقنا (الإصدار المحترف) للإعداد والبدء"
+
+#: admin/views/admin-help.php:26
+msgid "Help and Support"
+msgstr "المساعدة و الدعم"
+
+#: admin/views/admin-help.php:27
+msgid "We would love to help you on any queries or issues."
+msgstr "نود مساعدتك في أي استفسارات أو مشاكل."
+
+#: admin/views/admin-help.php:29
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: admin/views/admin-settings-debug.php:14 admin/views/general_settings.php:31
+msgid "Debug"
+msgstr "تصحيح الخطأ"
+
+#: admin/views/admin-settings-debug.php:15
+msgid "Caution: Settings here are only for advanced users."
+msgstr "تحذير: الإعدادات هنا مخصصة فقط للمستخدمين المتقدمين."
+
+#: admin/views/admin-settings-debug.php:34
+msgid "Public modules"
+msgstr "الوحدات العامة"
+
+#: admin/views/admin-settings-debug.php:56
+msgid "Common modules"
+msgstr "الوحدات المشتركة"
+
+#: admin/views/admin-settings-debug.php:79
+msgid "Admin modules"
+msgstr "وحدات الإدارة"
+
+#: admin/views/admin-settings-save-button.php:6
+msgid "Save settings"
+msgstr "حفظ الإعدادات"
+
+#: admin/views/general_settings.php:27
+msgid "Help guide"
+msgstr "دليل المساعدة"
+
+#: common/modules/coupon_category/coupon_category.php:64
+#: common/modules/coupon_category/coupon_category.php:158
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: common/modules/coupon_category/coupon_category.php:117
+msgid "Select category"
+msgstr "اختر الفئة"
+
+#: common/modules/coupon_category/coupon_category.php:148
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: common/modules/coupon_category/coupon_category.php:149
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr "التصنيف"
+
+#: common/modules/coupon_category/coupon_category.php:150
+msgid "Search categories"
+msgstr "البحث فى الأقسام"
+
+#: common/modules/coupon_category/coupon_category.php:151
+msgid "All categories"
+msgstr "كل التصنيفات"
+
+#: common/modules/coupon_category/coupon_category.php:152
+msgid "Parent category"
+msgstr "القسم الرئيسي"
+
+#: common/modules/coupon_category/coupon_category.php:153
+msgid "Parent category:"
+msgstr "القسم الرئيسي :"
+
+#: common/modules/coupon_category/coupon_category.php:154
+msgid "Edit category"
+msgstr "تحرير التصنيف"
+
+#: common/modules/coupon_category/coupon_category.php:155
+msgid "Update category"
+msgstr "تحديث القسم"
+
+#: common/modules/coupon_category/coupon_category.php:156
+msgid "Add new category"
+msgstr "إضافة فئة جديدة"
+
+#: common/modules/coupon_category/coupon_category.php:157
+msgid "New category name"
+msgstr "اسم القسم الجديد"
+
+#: common/modules/coupon_category/coupon_category.php:159
+msgid "View category"
+msgstr "معاينة القسم"
+
+#: common/modules/coupon_category/coupon_category.php:160
+msgid "Popular categories"
+msgstr "الاقسام الاكثر زيارة"
+
+#: common/modules/coupon_category/coupon_category.php:161
+msgid "Not found"
+msgstr "غير موجود"
+
+#: common/modules/coupon_category/coupon_category.php:162
+msgid "Most used"
+msgstr "حالة المنشور"
+
+#: common/modules/coupon_category/coupon_category.php:205
+#: common/modules/coupon_category/coupon_category.php:206
+msgid "Coupon category"
+msgstr "لافتة القسيمة"
+
+#: common/modules/coupon_shortcode/coupon_shortcode.php:52
+msgid "Invalid coupon"
+msgstr "القسيمة غير صالحة."
+
+#: common/modules/coupon_style/coupon_style.php:151
+#, fuzzy
+#| msgid "Available coupons"
+msgid "Available coupon"
+msgstr "كوبونات متاحة"
+
+#: common/modules/coupon_style/coupon_style.php:152
+#, fuzzy
+#| msgid "Used coupons"
+msgid "Used coupon"
+msgstr "إظهار القسائم \"المستعملة\""
+
+#: common/modules/coupon_style/coupon_style.php:153
+#, fuzzy
+#| msgid "Expired coupons"
+msgid "Expired coupon"
+msgstr "إظهار القسائم \"منتهية الصلاحية\""
+
+#: common/modules/coupon_style/coupon_style.php:178
+msgid "Style 1"
+msgstr "النمط 1"
+
+#: common/modules/coupon_style/coupon_style.php:288
+msgid "Click to apply coupon"
+msgstr "انقر لتطبيق القسيمة"
+
+#: common/modules/giveaway_product/giveaway_product.php:75
+msgid "BOGO (Buy X Get X/Y) offer"
+msgstr "عرض BOGO (Buy X Get X / Y)"
+
+#: common/modules/giveaway_product/giveaway_product.php:161
+msgid "Any product from specific category (Pro)"
+msgstr "أي منتج من فئة معينة (Pro)"
+
+#: common/modules/giveaway_product/giveaway_product.php:162
+msgid "Any product in store (Pro)"
+msgstr "أي منتج في المتجر (Pro)"
+
+#: common/modules/giveaway_product/giveaway_product.php:163
+msgid "Same product as in the cart (Pro)"
+msgstr "نفس المنتج الموجود في سلة التسوق (Pro)"
+
+#: common/modules/giveaway_product/giveaway_product.php:172
+msgid ""
+"Choose what the customers get for free or with a discount if the cart "
+"eligibility or conditions are met. Your customers will get below selected "
+"product/s for free or with a discount."
+msgstr ""
+"اختر ما يحصل عليه العملاء مجانًا أو بخصم إذا تم استيفاء أهلية سلة التسوق أو "
+"الشروط. سيحصل عملاؤك على المنتج / المنتجات المحددة أدناه مجانًا أو بخصم."
+
+#: common/modules/giveaway_product/giveaway_product.php:173
+msgid ""
+"Choose what the customers get for free or with a discount if the cart "
+"eligibility or conditions are met. Your customers will get product/s from "
+"below selected category for free or with a discount."
+msgstr ""
+"اختر ما يحصل عليه العملاء مجانًا أو بخصم إذا تم استيفاء أهلية سلة التسوق أو "
+"الشروط. سيحصل عملاؤك على المنتج / المنتجات من الفئة المحددة أدناه مجانًا أو "
+"بخصم."
+
+#: common/modules/giveaway_product/giveaway_product.php:174
+msgid ""
+"Choose what the customers get for free or with a discount if the cart "
+"eligibility or conditions are met. Your customers will get any product/s from "
+"the store that are eligible for free or with a discount."
+msgstr ""
+"اختر ما يحصل عليه العملاء مجانًا أو بخصم إذا تم استيفاء أهلية سلة التسوق أو "
+"الشروط. سيحصل عملاؤك على أي منتج / منتجات من المتجر مؤهل مجانًا أو بخصم."
+
+#: common/modules/giveaway_product/giveaway_product.php:175
+msgid ""
+"Choose what the customers get for free or with a discount if the cart "
+"eligibility or conditions are met. Your customers will get the same product as "
+"in the cart that are configured in product restriction section."
+msgstr ""
+"اختر ما يحصل عليه العملاء مجانًا أو بخصم إذا تم استيفاء أهلية سلة التسوق أو "
+"الشروط. سيحصل عملاؤك على نفس المنتج الموجود في سلة التسوق التي تم تكوينها في "
+"قسم تقييد المنتج."
+
+#: common/modules/giveaway_product/giveaway_product.php:176
+msgid ""
+"Choose what the customers get for free or with a discount if the cart "
+"eligibility or conditions are met. Your customers will get a product from the "
+"same category as in the cart that are configured in the category restriction "
+"section."
+msgstr ""
+"اختر ما يحصل عليه العملاء مجانًا أو بخصم إذا تم استيفاء أهلية سلة التسوق أو "
+"الشروط. سيحصل عملاؤك على منتج من نفس الفئة كما في سلة التسوق التي تم تكوينها "
+"في قسم تقييد الفئات."
+
+#: includes/class-wt-smart-coupon-activator.php:39
+msgid "Oops! Woocommerce not activated.."
+msgstr "وجه الفتاة! Woocommerce غير مفعل .."
+
+#: includes/class-wt-smart-coupon-activator.php:45
+msgid ""
+"Oops! PREMIUM Version of this Plugin Installed. Please deactivate the PREMIUM "
+"Version before activating BASIC."
+msgstr ""
+"وجه الفتاة! تم تثبيت إصدار PREMIUM من هذا البرنامج المساعد. يرجى إلغاء تنشيط "
+"الإصدار PREMIUM قبل تنشيط BASIC."
+
+#: includes/class-wt-smart-coupon-review_request.php:60
+#, fuzzy, php-format
+#| msgid ""
+#| "Hey, we at %sWebToffee%s would like to thank you for using our plugin. We "
+#| "would really appreciate if you could take a moment to drop a quick review "
+#| "that will inspire us to keep going."
+msgid ""
+"Hey, we at %sWebToffee%s would like to thank you for using our Smart Coupon "
+"for WooCommerce plugin. %s We would really appreciate if you could take a "
+"moment to drop a quick review that will inspire us to keep going."
+msgstr ""
+"مرحبًا ، نحن في %sWebToffee% نود أن نشكرك على استخدام المكون الإضافي الخاص بنا. "
+"سنكون ممتنين حقًا إذا استطعت تخصيص بعض الوقت لإسقاط مراجعة سريعة تلهمنا "
+"للاستمرار."
+
+#: includes/class-wt-smart-coupon-review_request.php:64
+#, php-format
+msgid ""
+"%s Wow%s, you have created more than %s coupons with our %s Smart Coupon for "
+"WooCommerce plugin! %s That’s awesome! We’d love it if you take a moment to "
+"rate us and help spread the word."
+msgstr ""
+"%s رائع %s ، لقد أنشأت أكثر من %s كوبون باستخدام %s Smart Coupon for "
+"WooCommerce plugin! %s هذا رائع! يسعدنا تخصيص بعض الوقت لتقييمنا والمساعدة في "
+"نشر الكلمة."
+
+#: includes/class-wt-smart-coupon-review_request.php:68
+msgid "Remind me later"
+msgstr "ذكرني لاحقا"
+
+#: includes/class-wt-smart-coupon-review_request.php:69
+msgid "Not interested"
+msgstr "غير مهتم"
+
+#: includes/class-wt-smart-coupon-review_request.php:70
+msgid "Rate us now"
+msgstr "قيمنا الآن"
+
+#: includes/class-wt-smart-coupon.php:629
+#, php-format
+msgid ""
+"An error occurred while activating %sSmart Coupons For WooCommerce Coupons%s: "
+"Unable to create database table. %s"
+msgstr ""
+"حدث خطأ أثناء تنشيط %s Smart Coupons For WooCommerce Coupons %s: تعذر إنشاء "
+"جدول قاعدة البيانات. %s"
+
+#: includes/class-wt-smart-coupon.php:629
+msgid "Go to plugins page"
+msgstr " إلى صفحة الإضافات "
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:19
+msgid "Used it successfully. Don't need anymore."
+msgstr "استخدمته بنجاح. لا تحتاج بعد الآن."
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:21
+msgid "Have used it successfully and aint in need of it anymore"
+msgstr "لقد استخدمتها بنجاح ولم تعد بحاجة إليها بعد الآن"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:25
+msgid "I couldn't understand how to make it work"
+msgstr "لم أستطيع فهم طريقة عمله"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:27
+msgid "Would you like us to assist you?"
+msgstr "هل تريد منا مساعدتك؟"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:31
+msgid "I found a better plugin"
+msgstr "لقد وجدت أضافة افضل"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:33
+msgid "Which plugin?"
+msgstr "أية اضافة ؟"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:37
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "المكوِّن الإضافي رائع ، لكني أحتاج إلى ميزة معينة لا تدعمها"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:39
+msgid "Could you tell us more about that feature?"
+msgstr "هل يمكنك إخبارنا بالمزيد عن هذه الميزة؟"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:43
+msgid "The plugin is not working"
+msgstr "البرنامج المساعد لا يعمل"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:45
+msgid "Could you tell us a bit more whats not working?"
+msgstr "هل يمكنك إخبارنا بالمزيد قليلاً ما الذي لا يعمل؟"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:49
+msgid "It's not what I was looking for"
+msgstr "ليس هذا ما كنت أبحث عنه"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:55
+msgid "The plugin didn't work as expected"
+msgstr "المكوّن الإضافي لا يعمل كما هو متوقع"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:57
+msgid "What did you expect?"
+msgstr "ماذا توقعت؟"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:61
+msgid "Other"
+msgstr "آخر"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:63
+msgid "Could you tell us a bit more?"
+msgstr "هل يمكنك إخبارنا بالمزيد؟"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:82
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "إذا لديك لحظة، اسمح لنا بأن نعرف لماذا تريد إلغاء التنشيط:"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:93
+msgid ""
+"We do not collect any personal data when you submit this form. It's your "
+"feedback that we value."
+msgstr "نحن لا نجمع أي بيانات شخصية عند إرسال هذا النموذج. نحن نقدر ملاحظاتك."
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:94
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:98
+msgid "I rather wouldn't say"
+msgstr "افضل عدم القول"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:99
+msgid "Contact Support"
+msgstr "اتصل بالدعم"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:100
+msgid "Submit & Deactivate"
+msgstr "الإرسال وإلغاء التفعيل"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:101
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:183
+msgid "Deactivate and leave a review"
+msgstr "قم بإلغاء التنشيط واترك تعليقًا"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:185
+msgid "Let our support team help you"
+msgstr "دع فريق الدعم لدينا يساعدك"
+
+#: public/class-myaccount-smart-coupon.php:50
+#: public/class-myaccount-smart-coupon.php:70
+msgid "My Coupons"
+msgstr "القسائم الخاصة بي"
+
+#: public/class-wt-smart-coupon-public.php:142
+#, fuzzy
+#| msgid "Please choose a simple product"
+msgid "Please choose a variation"
+msgstr "الرجاء اختيار منتج بسيط"
+
+#: public/class-wt-smart-coupon-public.php:143
+msgid "Error !!!"
+msgstr "خطأ !!!"
+
+#: public/class-wt-smart-coupon-public.php:172
+#: public/class-wt-smart-coupon-public.php:177
+#, fuzzy
+#| msgid "Product Discount"
+msgid "Product discount"
+msgstr "خصم منتج"
+
+#: public/class-wt-smart-coupon-public.php:199
+msgid "Free shipping"
+msgstr "شحن مجانى"
+
+#: public/class-wt-smart-coupon-public.php:208
+#: public/modules/giveaway_product/giveaway_product.php:1540
+#, fuzzy
+#| msgid "Free Products"
+msgid "Free products"
+msgstr "منتجات مجانية"
+
+#: public/class-wt-smart-coupon-public.php:267
+#: public/class-wt-smart-coupon-public.php:382
+msgid "Expired"
+msgstr "منتهي"
+
+#: public/class-wt-smart-coupon-public.php:270
+msgid "Starts on "
+msgstr "يبدأ في"
+
+#: public/class-wt-smart-coupon-public.php:270
+msgid "Expires on "
+msgstr "تنتهي صلاحيته في"
+
+#: public/class-wt-smart-coupon-public.php:801
+#, fuzzy
+#| msgid "Sorry you don't have any available coupons"
+msgid "Sorry, you don't have any available coupons"
+msgstr "معذرةً ، ليس لديك أي كوبونات متاحة"
+
+#: public/class-wt-smart-coupon-public.php:839
+msgid "Previous"
+msgstr "السابق"
+
+#: public/class-wt-smart-coupon-public.php:854
+#, fuzzy
+msgid "Next"
+msgstr "التالي"
+
+#: public/class-wt-smart-coupon-public.php:980
+#, fuzzy
+#| msgid "Coupon code applied successfully"
+msgid "Coupon code applied successfully, Please add products into cart"
+msgstr "تم تطبيق رمز القسيمة بنجاح"
+
+#: public/modules/auto_coupon/auto_coupon.php:431
+#: public/modules/url_coupon/url_coupon.php:66
+msgid "Coupon code applied successfully"
+msgstr "تم تطبيق رمز القسيمة بنجاح"
+
+#: public/modules/auto_coupon/auto_coupon.php:494
+msgid "Free shipping coupon"
+msgstr "قسيمة الشحن المجانى "
+
+#: public/modules/checkout_options/checkout_options.php:111
+msgid "Sorry, this coupon is not applicable to selected shipping method"
+msgstr "عذرًا ، هذه القسيمة لا تنطبق على طريقة الشحن المحددة"
+
+#: public/modules/checkout_options/checkout_options.php:130
+msgid "Sorry, this coupon is not applicable to selected Payment method"
+msgstr "عذرًا ، هذه القسيمة لا تنطبق على طريقة الدفع المحددة"
+
+#: public/modules/checkout_options/checkout_options.php:149
+msgid "Sorry, this coupon is not applicable for your Role"
+msgstr "عذرًا ، هذه القسيمة لا تنطبق على دورك"
+
+#: public/modules/checkout_options/checkout_options.php:178
+#, fuzzy
+#| msgid "Sorry, this coupon is not applicable to selected products."
+msgid "Sorry, this coupon is not applicable to selected location"
+msgstr "عذرًا، لا ينطبق هذا الكوبون على المنتجات المحددة."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:74
+#, fuzzy, php-format
+#| msgid "The minimum quantity of matching products for this coupon is %s."
+msgid "The minimum quantity of %s for this coupon is %s."
+msgstr "الحد الأدنى لكمية المنتجات المطابقة لهذه القسيمة هو %s."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:77
+#, fuzzy, php-format
+#| msgid "The maximum quantity of matching products for this coupon is %s."
+msgid "The maximum quantity of %s for this coupon is %s."
+msgstr "الحد الأقصى لكمية المنتجات المطابقة لهذه القسيمة هو %s."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:80
+msgid ""
+"Your cart does not meet the quantity eligibility criteria for this coupon."
+msgstr "سلة التسوق الخاصة بك لا تستوفي معايير الأهلية الكمية لهذه القسيمة."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:267
+#, fuzzy
+#| msgid "Update category"
+msgid "the category"
+msgstr "تحديث القسم"
+
+#: public/modules/coupon_restriction/coupon_restriction.php:517
+#, fuzzy
+#| msgid "products"
+msgid "the product"
+msgstr "المنتجات"
+
+#: public/modules/coupon_restriction/coupon_restriction.php:747
+#, fuzzy, php-format
+#| msgid "Sorry, this coupon is not applicable for selected products."
+msgid "Sorry, the coupon %s is not applicable for selected products."
+msgstr "عذرا ، هذه القسيمة لا تنطبق على المنتجات المختارة."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:869
+#: public/modules/coupon_restriction/coupon_restriction.php:878
+#, fuzzy, php-format
+#| msgid "The minimum subtotal of matching products for this coupon is %d."
+msgid "The minimum subtotal of matching products for this coupon is %s."
+msgstr "الحد الأدنى للإجمالي الفرعي للمنتجات المطابقة لهذه القسيمة هو %d."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:894
+#, fuzzy, php-format
+#| msgid "The maximum subtotal of matching products for this coupon is %d."
+msgid "The maximum subtotal of matching products for this coupon is %s."
+msgstr "الحد الأقصى للإجمالي الفرعي للمنتجات المطابقة لهذه القسيمة هو %d."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:975
+#, php-format
+msgid ""
+"Coupon applies to %s quantity. Please move eligible number of products in the "
+"cart to redeem the coupon."
+msgstr ""
+"تنطبق القسيمة على كمية %s. يرجى نقل عدد المنتجات المؤهلة في سلة التسوق "
+"لاسترداد القسيمة."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:978
+#, php-format
+msgid ""
+"Each eligible cart item requires minimum %s quantity, please add more items to "
+"cart to redeem the coupon."
+msgstr ""
+"يتطلب كل عنصر من عناصر سلة التسوق المؤهلة كمية %s كحد أدنى ، يرجى إضافة المزيد "
+"من العناصر إلى سلة التسوق لاسترداد القسيمة."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:984
+#, php-format
+msgid "The maximum quantity of matching products for this coupon is %s."
+msgstr "الحد الأقصى لكمية المنتجات المطابقة لهذه القسيمة هو %s."
+
+#: public/modules/coupon_restriction/coupon_restriction.php:987
+#, php-format
+msgid "The maximum allowed quantity for each eligible item is %s"
+msgstr "الحد الأقصى للكمية المسموح بها لكل عنصر مؤهل هو %s"
+
+#: public/modules/giveaway_product/giveaway_product.php:307
+msgid "Invalid request"
+msgstr "طلب غير صالح"
+
+#: public/modules/giveaway_product/giveaway_product.php:324
+#: public/modules/giveaway_product/views/_cart_giveaway_products.php:101
+#, fuzzy
+#| msgid "Sorry, this coupon is not applicable for your Role"
+msgid "Sorry! this product is not available for giveaway."
+msgstr "عذرًا ، هذه القسيمة لا تنطبق على دورك"
+
+#: public/modules/giveaway_product/giveaway_product.php:474
+#, fuzzy
+#| msgid "Congrats you got a free gift!!"
+msgid "Greetings! you've got a free gift!"
+msgstr "تهانينا ، لقد حصلت على هدية مجانية !!"
+
+#: public/modules/giveaway_product/giveaway_product.php:479
+#, php-format
+msgid "You're in luck! %s A free product is added to your cart at a %s discount."
+msgstr "انت محظوظ! %s تتم إضافة منتج مجاني إلى سلة التسوق الخاصة بك بخصم %s."
+
+#: public/modules/giveaway_product/giveaway_product.php:608
+#: public/modules/giveaway_product/giveaway_product.php:626
+msgid "Oops! It seems like you've made an invalid request. Please try again."
+msgstr "أُووبس! يبدو أنك قدمت طلبًا غير صالح. حاول مرة اخرى."
+
+#: public/modules/giveaway_product/giveaway_product.php:611
+msgid ""
+"Oops! It seems like you've moved an invalid product to cart. Please try again."
+msgstr "أُووبس! يبدو أنك قمت بنقل منتج غير صالح إلى سلة التسوق. حاول مرة اخرى."
+
+#: public/modules/giveaway_product/giveaway_product.php:614
+msgid "You've exceeded the maximum quantity of products to avail the giveaway."
+msgstr "لقد تجاوزت الحد الأقصى لكمية المنتجات للاستفادة من الهبات."
+
+#: public/modules/giveaway_product/giveaway_product.php:617
+msgid "You've exceeded the maximum quantity allowed as a giveaway."
+msgstr "لقد تجاوزت الحد الأقصى للكمية المسموح بها كهدية."
+
+#: public/modules/giveaway_product/giveaway_product.php:620
+msgid ""
+"Something went wrong! It seems like there are no products available for this "
+"coupon. Please contact our support team."
+msgstr ""
+"هناك خطأ ما! يبدو أنه لا توجد منتجات متاحة لهذه القسيمة. يرجى الاتصال بفريق "
+"الدعم لدينا."
+
+#: public/modules/giveaway_product/giveaway_product.php:623
+msgid "Seems like you have already moved all the giveaway products in the cart."
+msgstr "يبدو أنك قمت بالفعل بنقل جميع المنتجات المجانية في عربة التسوق."
+
+#: public/modules/giveaway_product/giveaway_product.php:631
+msgid "Please add more products to cart to avail more giveaway."
+msgstr ""
+"يرجى إضافة المزيد من المنتجات إلى عربة التسوق للاستفادة من المزيد من الهدايا."
+
+#: public/modules/giveaway_product/giveaway_product.php:978
+#, fuzzy
+#| msgid "Congrats you got a free gift!!"
+msgid "Congrats! you've got a free gift from us!"
+msgstr "تهانينا ، لقد حصلت على هدية مجانية !!"
+
+#: public/modules/giveaway_product/giveaway_product.php:982
+#, php-format
+msgid "You're in luck! A free product is added to the cart with a %s discount."
+msgstr "انت محظوظ! تمت إضافة منتج مجاني إلى سلة التسوق بخصم %s."
+
+#: public/modules/giveaway_product/giveaway_product.php:1098
+#, fuzzy
+#| msgid "Free gifts"
+msgid "Free gift"
+msgstr "هدايا مجانية"
+
+#: public/modules/giveaway_product/views/_cart_giveaway_products.php:15
+msgid "Congratulations! Choose your freebie from below:"
+msgstr "تهانينا! اختر الهدية الترويجية الخاصة بك من أدناه:"
+
+#: public/modules/giveaway_product/views/_cart_giveaway_products.php:84
+msgid "Price: "
+msgstr "السعر: "
+
+#: public/modules/giveaway_product/views/_cart_giveaway_products.php:91
+msgid "Discount: "
+msgstr "الخصم: "
+
+#: public/modules/giveaway_product/views/_cart_giveaway_products.php:108
+msgid "Choose Product"
+msgstr "اختر المنتج"
+
+#: public/modules/giveaway_product/views/_cart_giveaway_products.php:172
+msgid "Add all to cart"
+msgstr "أضف الكل إلى عربة التسوق"
+
+#: public/modules/giveaway_product/views/_cart_giveaway_products.php:172
+msgid "Add to cart"
+msgstr "اضف للسلة"
+
+#: public/modules/url_coupon/url_coupon.php:83
+#, fuzzy, php-format
+#| msgid "Oops your cart is empty! Add %1$s to your cart to avail the offer."
+msgid ""
+"Oops your cart is empty! Add %sproducts%s to your cart to avail the offer."
+msgstr ""
+"عذرا ، سلة التسوق الخاصة بك فارغة! أضف %1$s إلى سلة التسوق للاستفادة من العرض."
+
+#: public/templates/myaccount/my-account-coupon-view.php:23
+msgid "Available Coupons"
+msgstr "كوبونات متاحة"
+
+#: public/templates/myaccount/my-account-coupon-view.php:26
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+#: public/templates/myaccount/my-account-coupon-view.php:29
+msgid "Latest first"
+msgstr "آخر أولا"
+
+#: public/templates/myaccount/my-account-coupon-view.php:30
+msgid "Latest last"
+msgstr "الأحدث أخيرًا"
+
+#: public/templates/myaccount/my-account-coupon-view.php:31
+msgid "Price high to low"
+msgstr "ترتيب السعر من الاغلى الى الارخص"
+
+#: public/templates/myaccount/my-account-coupon-view.php:32
+msgid "Price low to high"
+msgstr "ترتيب السعر من الارخص الى الاغلى"
+
+#: public/templates/myaccount/my-account-coupon-view.php:53
+#, fuzzy
+#| msgid "Used coupons"
+msgid "Used Coupons"
+msgstr "إظهار القسائم \"المستعملة\""
+
+#: public/templates/myaccount/my-account-coupon-view.php:103
+#, fuzzy
+#| msgid "Sorry you don't have any available coupons"
+msgid "Sorry, you don't have any used coupons"
+msgstr "معذرةً ، ليس لديك أي كوبونات متاحة"
+
+#: public/templates/myaccount/my-account-coupon-view.php:118
+#, fuzzy
+#| msgid "Expired coupons"
+msgid "Expired Coupons"
+msgstr "إظهار القسائم \"منتهية الصلاحية\""
+
+#: public/templates/myaccount/my-account-coupon-view.php:146
+#, fuzzy
+#| msgid "Sorry you don't have any available coupons"
+msgid "Sorry, you don't have any expired coupons"
+msgstr "معذرةً ، ليس لديك أي كوبونات متاحة"
+
+#: wt-smart-coupon.php:142
+msgid ""
+"WooCommerce is required for this plugin to work properly. Please activate "
+"WooCommerce."
+msgstr ""
+"مطلوب WooCommerce لكي يعمل هذا البرنامج المساعد بشكل صحيح. الرجاء تفعيل "
+"WooCommerce."
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+#| msgid "Smart Coupons for WooCommerce"
+msgid "Smart Coupons For WooCommerce Coupons"
+msgstr "القسائم الذكية لـ WooCommerce"
+
+#. Description of the plugin/theme
+#, fuzzy
+#| msgid ""
+#| "Smart Coupons for WooCommerce plugin adds advanced coupon features to your "
+#| "store to strengthen your marketing efforts and boost sales."
+msgid ""
+"Smart Coupons For WooCommerce Coupons plugin adds advanced coupon features to "
+"your store to strengthen your marketing efforts and boost sales."
+msgstr ""
+"يضيف Smart Coupons for WooCommerce plugin ميزات قسيمة متقدمة إلى متجرك لتقوية "
+"جهودك التسويقية وزيادة المبيعات."
+
+#. Author of the plugin/theme
+msgid "WebToffee"
+msgstr "WebToffee"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webtoffee.com/"
+msgstr "https://www.webtoffee.com/"
+
+#~ msgid "Copied to clipboard"
+#~ msgstr "نسخ إلى الحافظة"
+
+#~ msgid "Any."
+#~ msgstr "اي"
+
+#~ msgid "All."
+#~ msgstr "الكل"
+
+#~ msgid ""
+#~ "Coupon will be applied if any of the products from the below is available "
+#~ "in the cart; all of option requires that the cart contains all of the "
+#~ "listed products."
+#~ msgstr ""
+#~ "سيتم تطبيق الكوبون في حالة توفر أي من المنتجات أدناه في سلة التسوق ؛ كل "
+#~ "الخيارات تتطلب أن تحتوي سلة التسوق على جميع المنتجات المدرجة."
+
+#~ msgid ""
+#~ "Coupon will be applied if any of the categories from the below is available "
+#~ "in the cart; all of option requires that the cart contains all of the "
+#~ "listed categories."
+#~ msgstr ""
+#~ "سيتم تطبيق الكوبون في حالة توفر أي من الفئات أدناه في سلة التسوق ؛ كل "
+#~ "الخيارات تتطلب أن تحتوي سلة التسوق على جميع الفئات المدرجة."
+
+#~ msgid "Make coupon available in"
+#~ msgstr "جعل القسيمة متاحة في"
+
+#~ msgid "Coupon"
+#~ msgstr "كوبون"
+
+#~ msgid "Coupon layouts"
+#~ msgstr "قوالب القسيمة"
+
+#~ msgid "Background color"
+#~ msgstr "لون الخلفية"
+
+#~ msgid "Foreground color"
+#~ msgstr "لون المقدمة"
+
+#~ msgid "Save"
+#~ msgstr "حفظ"
+
+#~ msgid ""
+#~ "This plugin will assist you in making your website GDPR (RGPD, DSVGO) "
+#~ "compliant."
+#~ msgstr ""
+#~ "سيساعدك هذا المكون الإضافي في جعل موقعك على الويب متوافقًا مع الناتج المحلي "
+#~ "الإجمالي (RGPD ، DSVGO)."
+
+#~ msgid ""
+#~ "This plugin allows you to import and export WordPress users and WooCommerce "
+#~ "customers quickly and easily."
+#~ msgstr ""
+#~ "يتيح لك هذا المكون الإضافي استيراد وتصدير مستخدمي WordPress وعملاء "
+#~ "WooCommerce بسرعة وسهولة."
+
+#~ msgid ""
+#~ "The Order XML File Export Import Plugin for WooCommerce will export your "
+#~ "WooCommerce orders in XML format."
+#~ msgstr ""
+#~ "سيقوم المكون الإضافي لاستيراد تصدير ملف XML الخاص بـ WooCommerce بتصدير "
+#~ "أوامر WooCommerce الخاصة بك بتنسيق XML."
+
+#~ msgid ""
+#~ "Using this plugin, you will always get sequential order number for "
+#~ "woocommerce."
+#~ msgstr ""
+#~ "باستخدام هذا البرنامج المساعد ، ستحصل دائمًا على رقم طلب تسلسلي لـ "
+#~ "woocommerce."
+
+#~ msgid ""
+#~ "This plugin exports your WordPress website media files, plugins and themes "
+#~ "including the database with a single click."
+#~ msgstr ""
+#~ "يقوم هذا المكون الإضافي بتصدير ملفات الوسائط الخاصة بموقع WordPress "
+#~ "والمكونات الإضافية والسمات بما في ذلك قاعدة البيانات بنقرة واحدة."
+
+#~ msgid ""
+#~ "With this plugin, your customer can use their credit cards or PayPal Money "
+#~ "to make order from cart page itself."
+#~ msgstr ""
+#~ "باستخدام هذا المكون الإضافي ، يمكن لعميلك استخدام بطاقات الائتمان الخاصة "
+#~ "بهم أو PayPal Money لإجراء طلب من صفحة سلة التسوق نفسها."
+
+#~ msgid ""
+#~ "This plugin allows you to choose related products for a particular product."
+#~ msgstr "يتيح لك هذا المكون الإضافي اختيار المنتجات ذات الصلة بمنتج معين."
+
+#~ msgid "Decorator – WooCommerce Email Customizer"
+#~ msgstr "Decorator - مخصص البريد الإلكتروني لـ WooCommerce"
+
+#~ msgid "Customize your WooCommerce emails now and stand out from the crowd!"
+#~ msgstr ""
+#~ "قم بتخصيص رسائل البريد الإلكتروني الخاصة بـ WooCommerce الآن وتميز عن "
+#~ "الآخرين!"
+
+#~ msgid "Download"
+#~ msgstr "تحميل"
+
+#~ msgid "OTHER FREE SOLUTIONS FROM WEBTOFFEE"
+#~ msgstr "حلول مجانية أخرى من WEBTOFFEE"
+
+#~ msgid ""
+#~ "Create and offer coupons based on customers’ purchase history Eg: First-"
+#~ "order coupons, next-order, or nth order coupons.\n"
+#~ msgstr ""
+#~ "قم بإنشاء قسائم وعرضها بناءً على سجل شراء العملاء ، على سبيل المثال: كوبونات "
+#~ "الطلب الأول ، أو الطلب التالي ، أو كوبونات الطلب رقم n.\n"
+
+#~ msgid "Create and sell store credits coupons"
+#~ msgstr "إنشاء وبيع قسائم ائتمانات المتجر"
+
+#~ msgid "Create signup & abandoned cart coupons"
+#~ msgstr "إنشاء الاشتراك وكوبونات عربة المتروكة"
+
+#~ msgid "Create combo coupons"
+#~ msgstr "إنشاء كوبونات التحرير والسرد"
+
+#~ msgid "Coupon style customization"
+#~ msgstr "تخصيص نمط القسيمة"
+
+#~ msgid "Create and display count down discount sales banner"
+#~ msgstr "إنشاء وعرض بانر مبيعات الخصم العد التنازلي"
+
+#~ msgid ""
+#~ "Upgrade to Smart Coupons for WooCommerce Premium to get hold of advanced "
+#~ "features."
+#~ msgstr ""
+#~ "قم بالترقية إلى Smart Coupons لـ WooCommerce Premium للحصول على الميزات "
+#~ "المتقدمة."
+
+#~ msgid "UPGRADE TO PREMIUM"
+#~ msgstr "الترقية إلى المميزة"
+
+#~ msgid "Set discount for giveaway products"
+#~ msgstr "تعيين خصم لمنتجات الهبات"
+
+#~ msgid "Supports coupon shortcodes"
+#~ msgstr "يدعم الرموز المختصرة للقسيمة"
+
+#~ msgid "30 day money back guarantee"
+#~ msgstr "ضمان استرداد الأموال لمدة 30 يومًا"
+
+#~ msgid "Fast and superior support"
+#~ msgstr "دعم سريع ومتفوق"
+
+#~ msgid "Features that every site needs"
+#~ msgstr "الميزات التي يحتاجها كل موقع"
+
+#~ msgid "Copy to clipboard"
+#~ msgstr "نسخ إلى الحافظة"
+
+#~ msgid ""
+#~ "Enter the coupon code of an already created coupon in the field provided. "
+#~ "The URL will be automatically generated for you."
+#~ msgstr ""
+#~ "أدخل رمز القسيمة لقسيمة تم إنشاؤها بالفعل في الحقل المتوفر. سيتم إنشاء "
+#~ "عنوان URL تلقائيًا لك."
+
+#~ msgid ""
+#~ "Visiting a URL coupon ensures that the underlying coupon is applied as per "
+#~ "its respective configuration."
+#~ msgstr "تضمن زيارة قسيمة URL تطبيق القسيمة الأساسية وفقًا للتكوين الخاص بها."
+
+#~ msgid "e.g allow discount, giveaway free product whatever the case maybe."
+#~ msgstr ""
+#~ "على سبيل المثال ، السماح بالخصم ، أو تقديم منتج مجاني مهما كانت الحالة."
+
+#~ msgid "Thanks for the review."
+#~ msgstr "شكرا للمراجعة."
+
+#~ msgid "Offer 'Giveaway'"
+#~ msgstr "تقديم كوبونات التخلي عن"
+
+#~ msgid "Buy X Get Y discounts"
+#~ msgstr "شراء X احصل على خصومات Y"
+
+#~ msgid "Help"
+#~ msgstr "مساعدة"
+
+#~ msgid "Review now"
+#~ msgstr "مراجعة الآن"
+
+#~ msgid ""
+#~ "This coupon will be applied automatically if the specifications are met. "
+#~ "The corresponding coupon description will be shown when the coupon is "
+#~ "applied, only 5 coupons will be applied automatically, rest will be ignored."
+#~ msgstr ""
+#~ "سيتم تطبيق هذه القسيمة تلقائيًا في حالة استيفاء المواصفات. سيظهر وصف القسيمة "
+#~ "المقابل عند تطبيق القسيمة ، سيتم تطبيق 5 قسائم فقط تلقائيًا ، وسيتم تجاهل "
+#~ "الباقي."
+
+#~ msgid "It's a free gift for you"
+#~ msgstr "إنها هدية مجانية لك"
+
+#~ msgid "Free Gift Item"
+#~ msgstr "هدية مجانية البند"
+
+#~ msgid "free_product"
+#~ msgstr "منتج مجاني:"
+
+#~ msgid "Free Product:"
+#~ msgstr "منتج مجاني:"
+
+#~ msgid "Used / Expired Coupons"
+#~ msgstr "الكوبونات المستخدمة / منتهية الصلاحية"
+
+#~ msgid "Show in My account"
+#~ msgstr "إظهار في حسابي"
+
+#~ msgid "Expires Today "
+#~ msgstr "تنتهي اليوم"
+
+#~ msgid "Expires in "
+#~ msgstr "ينتهي في"
+
+#~ msgid " days"
+#~ msgstr " أيام"
+
+#~ msgid "Starts today "
+#~ msgstr "يبدأ اليوم"
+
+#~ msgid "Starts in "
+#~ msgstr "يبدأ في"
+
+#~ msgid "Give away Products"
+#~ msgstr "التخلي عن المنتجات"
+
+#~ msgid "Coupon Styling"
+#~ msgstr "تصميم القسيمة"
+
+#~ msgid "Forground Color"
+#~ msgstr "لون Forground"
+
+#~ msgid ""
+#~ "URL Coupons help you add a unique URL to any coupon in your e-commerce "
+#~ "store. Clicking this URL ensures that the underlying coupon is applied as "
+#~ "per its respective configuration e.g allow discount, giveaway free product "
+#~ "whatever the case maybe."
+#~ msgstr ""
+#~ "تساعدك قسائم URL على إضافة عنوان URL فريد إلى أي قسيمة في متجر التجارة "
+#~ "الإلكترونية الخاص بك. يضمن النقر فوق عنوان URL هذا تطبيق القسيمة الأساسية "
+#~ "وفقًا لتكوينها الخاص ، على سبيل المثال ، السماح بالخصم أو الحصول على منتج "
+#~ "مجاني مهما كانت الحالة."
+
+#~ msgid "Usage:"
+#~ msgstr "استعمال:"
+
+#~ msgid "e.g"
+#~ msgstr "حدد المعلومات الإضافية التي تريدها في صفحة Checkout"
+
+#~ msgid ""
+#~ "A URL coupon that offers a flat 30 percentage of discount at www.webtoffee."
+#~ "com, coupon_code = FLAT30, site_url(preferably cart page)"
+#~ msgstr ""
+#~ "قسيمة عنوان URL تقدم نسبة 30٪ ثابتة من الخصم على www.webtoffee.com ، "
+#~ "coupon_code = FLAT30 ، site_url (يفضل صفحة سلة التسوق) = https://www."
+#~ "webtoffee.com/cart"
+
+#~ msgid "Instructions"
+#~ msgstr "التعليمات"

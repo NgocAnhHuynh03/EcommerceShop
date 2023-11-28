@@ -1,0 +1,336 @@
+# Copyright (C) 2021 MoreConvert
+# This file is distributed under the same license as the MoreConvert Plugin Options.
+msgid ""
+msgstr ""
+"Project-Id-Version: MoreConvert Plugin Options 1.0.1\n"
+"POT-Creation-Date: 2023-07-20 19:24+0330\n"
+"PO-Revision-Date: 2023-07-20 19:25+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: mct-options\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: class-mct-admin.php:142
+msgid "No matches found"
+msgstr "هیچ مشابهتی پیدا نشد"
+
+#: class-mct-admin.php:143
+msgid "Loading failed"
+msgstr "بارگذاری با اشکال مواجه شد"
+
+#: class-mct-admin.php:144
+msgid "Please enter 1 or more characters"
+msgstr "یک یا چند کاراکتر وارد کنید"
+
+#: class-mct-admin.php:145
+msgid "Please enter %qty% or more characters"
+msgstr "لطفا %qty% یا چند کاراکتر بیشتر وارد کنید"
+
+#: class-mct-admin.php:146
+msgid "Please delete 1 character"
+msgstr "لطفا یک کاراکتر را حذف کنید"
+
+#: class-mct-admin.php:147
+msgid "Please delete %qty% characters"
+msgstr "لطفا %qty% کاراکتر را حذف کنید"
+
+#: class-mct-admin.php:148
+msgid "You can only select 1 item"
+msgstr "تنها یک آیتم را می توانید انتخاب کنید"
+
+#: class-mct-admin.php:149
+msgid "You can only select %qty% items"
+msgstr "تنها %qty% آیتم را میتوانید انتخاب کنید"
+
+#: class-mct-admin.php:150
+msgid "Loading more results&hellip;"
+msgstr "بارگذاری نتایج بیشتر &hellip;"
+
+#: class-mct-admin.php:151
+msgid "Searching&hellip;"
+msgstr "جستجو &hellip;"
+
+#: class-mct-admin.php:209 class-mct-admin.php:210
+msgid "Are you sure?"
+msgstr "آیا مطمئن هستید؟"
+
+#: class-mct-admin.php:211
+msgid "You can not add more items."
+msgstr "شما نمیتوانید آیتم های بیشتری اضافه کنید."
+
+#: class-mct-admin.php:212
+msgid "Are you sure you want to delete this element?"
+msgstr "آیا مطمئن هستید که می خواهید این المان را حذف کنید؟"
+
+#: class-mct-admin.php:213
+#, fuzzy
+#| msgid "Are you sure you want to delete this element?"
+msgid "Are you sure you want to reset all the settings of this section?"
+msgstr "آیا مطمئن هستید که می خواهید این المان را حذف کنید؟"
+
+#: class-mct-admin.php:217
+msgid "Apply"
+msgstr ""
+
+#: class-mct-admin.php:218
+msgid "Clear"
+msgstr ""
+
+#: class-mct-admin.php:219
+msgid "Custom"
+msgstr ""
+
+#: class-mct-admin.php:220
+msgid "Last 7 days"
+msgstr ""
+
+#: class-mct-admin.php:221
+msgid "Last 30 days"
+msgstr ""
+
+#: class-mct-admin.php:222
+msgid "Last 90 days"
+msgstr ""
+
+#: class-mct-admin.php:223
+msgid "Last 365 days"
+msgstr ""
+
+#: class-mct-ajax-handler.php:43 class-mct-ajax-handler.php:80
+#: class-mct-ajax-handler.php:123 class-mct-ajax-handler.php:161
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: class-mct-ajax-handler.php:61
+msgid "Invalid JSON content"
+msgstr ""
+
+#: class-mct-ajax-handler.php:65
+msgid "Wrong JSON content"
+msgstr ""
+
+#: class-mct-ajax-handler.php:69
+msgid "Successfully Imported."
+msgstr ""
+
+#: class-mct-ajax-handler.php:107
+msgid "Successfully Exported."
+msgstr ""
+
+#: class-mct-ajax-handler.php:127
+msgid "No data was received."
+msgstr ""
+
+#: class-mct-ajax-handler.php:134
+msgid "Missing option ID."
+msgstr ""
+
+#: class-mct-ajax-handler.php:157
+msgid "Successfully Saved."
+msgstr ""
+
+#: class-mct-ajax-handler.php:164
+msgid "Failed validate form."
+msgstr ""
+
+#: class-mct-fields.php:310
+msgid "Manage Settings"
+msgstr "مدیریت تنظیمات"
+
+#: class-mct-fields.php:322 fields/manage.php:112
+msgid "Manage"
+msgstr "مدیریت"
+
+#: class-mct-fields.php:352
+msgid "Back"
+msgstr "قبل"
+
+#: class-mct-fields.php:356 class-mct-fields.php:445 class-mct-fields.php:467
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: class-mct-fields.php:360 class-mct-fields.php:449
+#, fuzzy
+#| msgid "Reset All Settings"
+msgid "Reset Settings"
+msgstr "ریست همه تنظیمات"
+
+#: class-mct-fields.php:602
+msgid "Lets Go"
+msgstr "بزن بریم"
+
+#: class-mct-fields.php:605
+msgid "NO, Not Ready Now"
+msgstr "نه، الان آماده نیستم"
+
+#: class-mct-fields.php:611
+msgid "Back to the previous step"
+msgstr "برگشت به مرحله قبل"
+
+#: class-mct-fields.php:612
+msgid "Continue"
+msgstr "ادامه"
+
+#: class-mct-fields.php:619
+msgid "Back to WordPress Dashboard"
+msgstr "برگشت به پیشخوان وردپرس"
+
+#: class-mct-fields.php:777 fields/start.php:49
+msgid "Need help?"
+msgstr ""
+
+#: class-mct-fields.php:1384
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شدند."
+
+#: class-mct-fields.php:1385
+msgid "Settings reset."
+msgstr "تنظیمات ریست شدند."
+
+#: class-mct-fields.php:1386
+msgid "Some fields not validate."
+msgstr "بعضی فیلدها معتبر نیستند."
+
+#: class-mct-fields.php:1387
+msgid "You cannot access to save changes."
+msgstr "شما دسترسی لازم برای ذخیره تغییرات را ندارید."
+
+#: fields/add-button.php:36 fields/add-button.php:64 fields/add-button.php:102
+#: fields/importance.php:33 fields/importance.php:46 fields/importance.php:60
+#: fields/inner-repeater.php:55 fields/inner-repeater.php:86
+#: fields/manage.php:110 fields/repeater.php:59 fields/repeater.php:71
+#: fields/repeater.php:84
+msgid "Action"
+msgstr "رفتار"
+
+#: fields/add-button.php:37 fields/add-button.php:67 fields/add-button.php:105
+msgid "Text"
+msgstr "متن"
+
+#: fields/add-button.php:38 fields/add-button.php:70 fields/add-button.php:108
+#: fields/color-style.php:39 fields/color-style.php:57
+msgid "Background"
+msgstr "پس زمینه"
+
+#: fields/add-button.php:39 fields/add-button.php:73 fields/add-button.php:111
+#: fields/color-style.php:40
+msgid "Background hover"
+msgstr "هاور بک گراند"
+
+#: fields/add-button.php:40 fields/add-button.php:76 fields/add-button.php:114
+#: fields/color-style.php:35 fields/color-style.php:50
+msgid "Text color"
+msgstr "رنگ متن"
+
+#: fields/add-button.php:41 fields/add-button.php:79 fields/add-button.php:117
+#: fields/color-style.php:36 fields/color-style.php:53
+msgid "Text hover color"
+msgstr "رنگ هاور متن"
+
+#: fields/add-button.php:43 fields/add-button.php:82 fields/add-button.php:120
+msgid "Border radius"
+msgstr "گردی گوشه ها (شعاع حاشیه)"
+
+#: fields/add-button.php:56 fields/add-button.php:85 fields/add-button.php:123
+msgid "Button link"
+msgstr "لینک دکمه"
+
+#: fields/add-button.php:94 fields/add-button.php:129
+msgid "Url"
+msgstr "لینک"
+
+#: fields/add-button.php:150
+msgid "Add new button"
+msgstr "افزودن دکمه جدید"
+
+#: fields/color-style.php:43 fields/color-style.php:65
+msgid "Border"
+msgstr "حاشیه"
+
+#: fields/color-style.php:44 fields/color-style.php:68
+msgid "Border hover"
+msgstr "هاور حاشیه"
+
+#: fields/color-style.php:60
+msgid "Background Hover"
+msgstr "هاور پس زمینه"
+
+#: fields/copy-text.php:33
+msgid "Copy"
+msgstr "کپی"
+
+#: fields/import.php:34 fields/select-file.php:35
+msgid "Select File"
+msgstr ""
+
+#: fields/import.php:35
+msgid "Import"
+msgstr ""
+
+#: fields/importance.php:31 fields/importance.php:40 fields/importance.php:54
+msgid "Label"
+msgstr "لیبل"
+
+#: fields/importance.php:32 fields/importance.php:43 fields/importance.php:57
+msgid "Slug"
+msgstr "اسلاگ"
+
+#: fields/importance.php:69
+msgid "Add new"
+msgstr "افزودن جدید"
+
+#: fields/manage.php:52 fields/manage.php:83
+msgid "Row"
+msgstr "ردیف"
+
+#: fields/manage.php:135
+msgid "Close"
+msgstr "بستن"
+
+#: fields/page-select.php:41
+msgid "&mdash; Select a page  &mdash;"
+msgstr "&mdash; انتخاب یک صفحه  &mdash;"
+
+#: fields/search-post.php:35
+#, fuzzy
+#| msgid "Search for a product&hellip;"
+msgid "Search for a post&hellip;"
+msgstr "جستجوی یک محصول &hellip;"
+
+#: fields/search-product.php:37
+msgid "Search for a product&hellip;"
+msgstr "جستجوی یک محصول &hellip;"
+
+#: fields/upload-image.php:43
+msgid "Add Image"
+msgstr "افزودن تصویر"
+
+#~ msgid ""
+#~ "All your settings on the entire plugin will be returned to default "
+#~ "settings. Is it okay?"
+#~ msgstr ""
+#~ "کل تنظیمات شما در همه بخش های پلاگین پاک شده و تنظیمات به حالت اولیه "
+#~ "پلاگین برمی گردد، مشکلی ندارد؟"
+
+#, fuzzy
+#~| msgid "Text color"
+#~ msgid "Text olor"
+#~ msgstr "رنگ متن"
+
+#~ msgid "Color"
+#~ msgstr "رنگ"
+
+#~ msgid "Hover color"
+#~ msgstr "رنگ هاور"

@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+	<svg  id="analytics" x="0px" y="0px" viewBox="0 0 504 504" style="enable-background:new 0 0 504 504;" xml:space="preserve">
+		<g>
+			<g>
+				<path d="M484.312,86.624H19.688C8.812,86.624,0,95.436,0,106.312v291.376c0,10.876,8.812,19.688,19.688,19.688h464.624
+					c10.876,0,19.688-8.812,19.688-19.688V106.312C504,95.436,495.188,86.624,484.312,86.624z M330.56,149.624h71.068V189H330.56
+					c-10.884,0-19.736-8.804-19.736-19.688C310.824,158.428,319.676,149.624,330.56,149.624z M330.56,208.688h27.752v39.376H330.56
+					c-10.884,0-19.736-8.804-19.736-19.688C310.824,217.492,319.676,208.688,330.56,208.688z M330.56,263.812h55.316v39.376H330.56
+					c-10.884,0-19.736-8.804-19.736-19.688C310.824,272.616,319.676,263.812,330.56,263.812z M149.164,362.156
+					c-51.984,0-94.276-42.296-94.276-94.276c0-51.98,42.524-94.272,94.508-94.272c2.172,0,4.168,1.764,4.168,3.936v86.272h85.94
+					c2.172,0,3.936,1.828,3.936,4C243.44,319.8,201.148,362.156,149.164,362.156z M262.916,248.064H172.58
+					c-2.172,0-3.264-1.42-3.264-3.596v-90.34c0-2.172,1.424-3.936,3.6-3.936c51.98,0,94.104,42.12,94.104,94.1
+					C267.02,246.472,265.088,248.064,262.916,248.064z M334.688,358.312h-4.128c-10.884,0-19.736-8.804-19.736-19.688
+					c0-10.884,8.852-19.688,19.736-19.688h4.128V358.312z M428.904,358.312h-66.656v-39.376H428.9
+					c10.884,0,19.736,8.804,19.736,19.688C448.636,349.508,439.784,358.312,428.904,358.312z M428.904,303.188H413.44v-39.376h15.464
+					c10.884,0,19.736,8.804,19.736,19.688C448.64,294.384,439.784,303.188,428.904,303.188z M428.904,248.064h-43.028v-39.376h43.028
+					c10.884,0,19.736,8.804,19.736,19.688C448.64,239.26,439.784,248.064,428.904,248.064z M429.188,189.272v-39.46
+					c11.812,0.028,19.688,8.864,19.688,19.732S441,189.248,429.188,189.272z"/>
+			</g>
+		</g>
+	</svg>
+	<svg id="email-campaign" viewBox="0 0 62 62">
+		<defs>
+			<clipPath id="clip-path">
+				<rect width="62" height="62" fill="none"/>
+			</clipPath>
+			<clipPath id="clip-path-2">
+				<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(0 0.484)" fill="#e43b67" stroke="#707070" stroke-width="1"/>
+			</clipPath>
+		</defs>
+		<g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+			<g id="Group_116" data-name="Group 116" transform="translate(0 -0.484)">
+				<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" transform="translate(0 0.484)" fill="#e43b67" opacity="0.1"/>
+				<g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(19 19)" clip-path="url(#clip-path-2)">
+					<g id="_725643" data-name="725643" transform="translate(0 3.75)">
+						<g id="Group_70" data-name="Group 70" transform="translate(15.909 3.042)">
+							<g id="Group_69" data-name="Group 69">
+								<path id="Path_15" data-name="Path 15" d="M15.909,12.123,24,17.238V6.792Z" transform="translate(-15.909 -6.792)" fill="#e43b67"/>
+							</g>
+						</g>
+						<g id="Group_72" data-name="Group 72" transform="translate(0 3.042)">
+							<g id="Group_71" data-name="Group 71">
+								<path id="Path_16" data-name="Path 16" d="M0,6.792V17.238l8.091-5.115Z" transform="translate(0 -6.792)" fill="#e43b67"/>
+							</g>
+						</g>
+						<g id="Group_74" data-name="Group 74" transform="translate(0.045)">
+							<g id="Group_73" data-name="Group 73">
+								<path id="Path_17" data-name="Path 17" d="M22.5,3.75H1.5A1.481,1.481,0,0,0,.045,5.027L12,12.9,23.955,5.027A1.481,1.481,0,0,0,22.5,3.75Z" transform="translate(-0.045 -3.75)" fill="#e43b67"/>
+							</g>
+						</g>
+						<g id="Group_76" data-name="Group 76" transform="translate(0.048 9.278)">
+							<g id="Group_75" data-name="Group 75">
+								<path id="Path_18" data-name="Path 18" d="M14.535,13.029l-2.123,1.4a.753.753,0,0,1-.825,0l-2.123-1.4L.048,18.984A1.479,1.479,0,0,0,1.5,20.25h21a1.479,1.479,0,0,0,1.452-1.266Z" transform="translate(-0.048 -13.028)" fill="#e43b67"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</svg>
+	<svg id="smart-stickybar" viewBox="0 0 62 62">
+		<defs>
+			<clipPath id="clip-path">
+				<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(0 0.487)" fill="#5e94ff" stroke="#707070" stroke-width="1"/>
+			</clipPath>
+		</defs>
+		<g id="Group_113" data-name="Group 113" transform="translate(0 -0.487)">
+			<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" transform="translate(0 0.487)" fill="#5e94ff" opacity="0.1"/>
+			<g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(19 19)" clip-path="url(#clip-path)">
+				<g id="_582929" data-name="582929" transform="translate(0 0.301)">
+					<g id="Group_63" data-name="Group 63" transform="translate(0 11.344)">
+						<g id="Group_62" data-name="Group 62">
+							<path id="Path_7" data-name="Path 7" d="M16.266,11.344H.7a.7.7,0,0,0-.7.7v9.844A2.112,2.112,0,0,0,2.109,24h12.75a2.112,2.112,0,0,0,2.109-2.109V12.047A.7.7,0,0,0,16.266,11.344Zm-3.609,4.219a4.219,4.219,0,0,1-8.437,0v-.7a.7.7,0,0,1,1.406,0v.7a2.813,2.813,0,0,0,5.625,0v-.7a.7.7,0,0,1,1.406,0Z" transform="translate(0 -11.344)" fill="#5e94ff"/>
+						</g>
+					</g>
+					<g id="Group_65" data-name="Group 65" transform="translate(6.938)">
+						<g id="Group_64" data-name="Group 64">
+							<path id="Path_8" data-name="Path 8" d="M23.3,5.719H19.688v-1.5a4.219,4.219,0,0,0-8.437,0v1.5H7.641a.7.7,0,0,0-.7.7V9.938h9.328a2.112,2.112,0,0,1,2.109,2.109v9.844A3.482,3.482,0,0,1,17.654,24h4.237A2.112,2.112,0,0,0,24,21.891V6.422A.7.7,0,0,0,23.3,5.719Zm-5.016,0H12.656v-1.5a2.813,2.813,0,0,1,5.625,0Z" transform="translate(-6.938)" fill="#5e94ff"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</svg>
+	<svg id="email-automation" viewBox="0 0 62 62">
+		<defs>
+			<clipPath id="clip-path">
+				<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" fill="#5ec4ff" stroke="#707070" stroke-width="1"/>
+			</clipPath>
+		</defs>
+		<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" fill="#5ec4ff" opacity="0.1"/>
+		<g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(19 19)" clip-path="url(#clip-path)">
+			<g id="_4552714" data-name="4552714" transform="translate(1.453)">
+				<path id="Path_20" data-name="Path 20" d="M11.621,2.9a.627.627,0,0,0-.313.442.465.465,0,0,0,.122.452,1.661,1.661,0,0,0,.191.127Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+				<path id="Path_21" data-name="Path 21" d="M12.821,5.786a.683.683,0,0,0-.486-.792l-.012,0V6.435a.874.874,0,0,0,.5-.65Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+				<path id="Path_22" data-name="Path 22" d="M12,9.375A4.688,4.688,0,1,0,7.313,4.688,4.688,4.688,0,0,0,12,9.375ZM10.522,6.357a.351.351,0,0,1,.487-.1,1.23,1.23,0,0,0,.612.243V4.713A2.983,2.983,0,0,1,11,4.352a1.152,1.152,0,0,1-.379-1.135,1.3,1.3,0,0,1,.893-1.022c.037-.011.074-.021.111-.03V1.875a.352.352,0,0,1,.7,0v.249a1.354,1.354,0,0,1,.812.4.352.352,0,0,1-.529.463.655.655,0,0,0-.283-.149v1.4l.246.089A1.373,1.373,0,0,1,13.515,5.9a1.581,1.581,0,0,1-1.191,1.27V7.5a.352.352,0,1,1-.7,0V7.2a1.9,1.9,0,0,1-1-.36.352.352,0,0,1-.1-.487Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+				<path id="Path_23" data-name="Path 23" d="M21.141,10.781H2.859a1.406,1.406,0,1,0,0,2.813H21.141a1.406,1.406,0,0,0,0-2.813Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+				<path id="Path_24" data-name="Path 24" d="M17.888,6.259a3.281,3.281,0,1,0-1.013-5.224,6.087,6.087,0,0,1,1.013,5.224Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+				<path id="Path_25" data-name="Path 25" d="M4.734,6.563a3.262,3.262,0,0,0,1.378-.3A6.087,6.087,0,0,1,7.125,1.035,3.281,3.281,0,1,0,4.734,6.563Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+				<path id="Path_26" data-name="Path 26" d="M9.891,20.212V23.3a.7.7,0,0,0,.964.653l2.813-1.125a.7.7,0,0,0,.442-.653V20.212L19.322,15H4.678Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+			</g>
+		</g>
+	</svg>
+	<svg id="smart-popup" viewBox="0 0 62 62">
+		<defs>
+			<clipPath id="clip-path">
+				<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(0 0.487)" fill="#91ca45" stroke="#707070" stroke-width="1"/>
+			</clipPath>
+		</defs>
+		<g id="Group_114" data-name="Group 114" transform="translate(0 -0.487)">
+			<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" transform="translate(0 0.487)" fill="#91ca45" opacity="0.1"/>
+			<g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(19 19)" clip-path="url(#clip-path)">
+				<g id="_3358618" data-name="3358618">
+					<ellipse id="Ellipse_10" data-name="Ellipse 10" cx="7" cy="2" rx="7" ry="2" transform="translate(0 0.487)" fill="#91ca45"/>
+					<path id="Path_9" data-name="Path 9" d="M7,8.5c3.866,0,7-.895,7-2V4.233C11.8,5.414,8,5.5,7,5.5S2.2,5.414,0,4.233V6.5C0,7.605,3.134,8.5,7,8.5Z" transform="translate(0 0.301)" fill="#91ca45"/>
+					<path id="Path_10" data-name="Path 10" d="M9.5,18.87v2.99A21.764,21.764,0,0,1,7,22c-3.87,0-7-.9-7-2V17.73C2.2,18.91,6,19,7,19,7.43,19,8.38,18.98,9.5,18.87Z" transform="translate(0 0.301)" fill="#91ca45"/>
+					<path id="Path_11" data-name="Path 11" d="M9.61,14.36a2.635,2.635,0,0,0-.07.3l-.04-.03v2.73A21.764,21.764,0,0,1,7,17.5c-3.87,0-7-.9-7-2V13.23c2.2,1.18,6,1.27,7,1.27C7.44,14.5,8.44,14.48,9.61,14.36Z" transform="translate(0 0.301)" fill="#91ca45"/>
+					<path id="Path_12" data-name="Path 12" d="M7,10c-1,0-4.8-.086-7-1.267V11c0,1.1,3.134,2,7,2s7-.9,7-2V8.733C11.8,9.914,8,10,7,10Z" transform="translate(0 0.301)" fill="#91ca45"/>
+					<ellipse id="Ellipse_11" data-name="Ellipse 11" cx="6.5" cy="2" rx="6.5" ry="2" transform="translate(11 13.487)" fill="#91ca45"/>
+					<path id="Path_13" data-name="Path 13" d="M17.5,20.5c3.59,0,6.5-.9,6.5-2V17.233c-2.046,1.182-5.568,1.267-6.5,1.267s-4.454-.086-6.5-1.267V18.5C11,19.6,13.91,20.5,17.5,20.5Z" transform="translate(0 0.301)" fill="#91ca45"/>
+					<path id="Path_14" data-name="Path 14" d="M17.5,22c-.932,0-4.454-.086-6.5-1.267V22c0,1.1,2.91,2,6.5,2s6.5-.9,6.5-2V20.733C21.954,21.914,18.432,22,17.5,22Z" transform="translate(0 0.301)" fill="#91ca45"/>
+				</g>
+			</g>
+		</g>
+	</svg>
+	<svg id="smart-sidebar" viewBox="0 0 62 62">
+		<defs>
+			<clipPath id="clip-path">
+				<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(0 0.487)" fill="#a45eff" stroke="#707070" stroke-width="1"/>
+			</clipPath>
+		</defs>
+		<g id="Group_117" data-name="Group 117" transform="translate(0 -0.487)">
+			<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" transform="translate(0 0.487)" fill="#a45eff" opacity="0.1"/>
+			<g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(19 19)" clip-path="url(#clip-path)">
+				<g id="_54410" data-name="54410" transform="translate(0 3.198)">
+					<g id="_x31_0_21_">
+						<g id="Group_78" data-name="Group 78">
+							<path id="Path_19" data-name="Path 19" d="M2.483,2.9A2.483,2.483,0,1,0,4.966,5.379,2.483,2.483,0,0,0,2.483,2.9Zm0,6.621A2.483,2.483,0,1,0,4.966,12,2.483,2.483,0,0,0,2.483,9.517Zm0,6.621a2.483,2.483,0,1,0,2.483,2.483A2.483,2.483,0,0,0,2.483,16.138ZM9.1,7.034H22.345a1.655,1.655,0,0,0,0-3.31H9.1a1.655,1.655,0,1,0,0,3.31Zm13.241,3.31H9.1a1.655,1.655,0,1,0,0,3.31H22.345a1.655,1.655,0,0,0,0-3.31Zm0,6.621H9.1a1.655,1.655,0,1,0,0,3.31H22.345a1.655,1.655,0,1,0,0-3.31Z" transform="translate(0 -2.897)" fill="#a45eff"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</svg>
+	<svg id="integration" viewBox="0 0 62 62">
+		<defs>
+			<clipPath id="clip-path">
+				<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(0 0.001)" fill="#5e94ff" stroke="#707070" stroke-width="1"/>
+			</clipPath>
+		</defs>
+		<g id="Group_116" data-name="Group 116" transform="translate(0 -0.001)">
+			<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" transform="translate(0 0.001)" fill="#5e94ff" opacity="0.1"/>
+			<g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(19 19)" clip-path="url(#clip-path)">
+				<g id="_725643" data-name="725643" transform="translate(0 3.75)">
+					<g id="Group_70" data-name="Group 70" transform="translate(15.909 3.042)">
+						<g id="Group_69" data-name="Group 69">
+							<path id="Path_15" data-name="Path 15" d="M15.909,12.123,24,17.238V6.792Z" transform="translate(-15.909 -6.792)" fill="#5e94ff"/>
+						</g>
+					</g>
+					<g id="Group_72" data-name="Group 72" transform="translate(0 3.042)">
+						<g id="Group_71" data-name="Group 71">
+							<path id="Path_16" data-name="Path 16" d="M0,6.792V17.238l8.091-5.115Z" transform="translate(0 -6.792)" fill="#5e94ff"/>
+						</g>
+					</g>
+					<g id="Group_74" data-name="Group 74" transform="translate(0.045)">
+						<g id="Group_73" data-name="Group 73">
+							<path id="Path_17" data-name="Path 17" d="M22.5,3.75H1.5A1.481,1.481,0,0,0,.045,5.027L12,12.9,23.955,5.027A1.481,1.481,0,0,0,22.5,3.75Z" transform="translate(-0.045 -3.75)" fill="#5e94ff"/>
+						</g>
+					</g>
+					<g id="Group_76" data-name="Group 76" transform="translate(0.048 9.278)">
+						<g id="Group_75" data-name="Group 75">
+							<path id="Path_18" data-name="Path 18" d="M14.535,13.029l-2.123,1.4a.753.753,0,0,1-.825,0l-2.123-1.4L.048,18.984A1.479,1.479,0,0,0,1.5,20.25h21a1.479,1.479,0,0,0,1.452-1.266Z" transform="translate(-0.048 -13.028)" fill="#5e94ff"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</svg>
+	<svg id="warm-call" viewBox="0 0 62 62">
+		<defs>
+			<clipPath id="clip-path">
+				<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" transform="translate(0 0.487)" fill="#ea7a0b" stroke="#707070" stroke-width="1"/>
+			</clipPath>
+		</defs>
+		<g id="Group_112" data-name="Group 112" transform="translate(0 -0.487)">
+			<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" transform="translate(0 0.487)" fill="#ea7a0b" opacity="0.1"/>
+			<g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(19 19)" clip-path="url(#clip-path)">
+				<path id="_1077086" data-name="1077086" d="M22.1,2.09A6.454,6.454,0,0,0,17.3,0a6.038,6.038,0,0,0-3.771,1.3A7.715,7.715,0,0,0,12,2.894,7.711,7.711,0,0,0,10.475,1.3,6.037,6.037,0,0,0,6.7,0,6.454,6.454,0,0,0,1.9,2.09,7.5,7.5,0,0,0,0,7.213,8.933,8.933,0,0,0,2.38,13.06a50.759,50.759,0,0,0,5.959,5.593c.826.7,1.761,1.5,2.733,2.351a1.409,1.409,0,0,0,1.855,0c.972-.85,1.908-1.648,2.734-2.352A50.73,50.73,0,0,0,21.62,13.06,8.932,8.932,0,0,0,24,7.213,7.5,7.5,0,0,0,22.1,2.09Zm0,0" transform="translate(0 1.625)" fill="#ea7a0b"/>
+			</g>
+		</g>
+	</svg>
+	<svg id="report" viewBox="0 0 512 512" >
+		<g>
+			<path d="M36.6,329.1h73.1c20.2,0,36.6,16.4,36.6,36.6v109.7c0,20.2-16.4,36.6-36.6,36.6H36.6C16.4,512,0,495.6,0,475.4V365.7
+				C0,345.5,16.4,329.1,36.6,329.1z"/>
+			<path d="M219.4,182.9h73.1c20.2,0,36.6,16.4,36.6,36.6v256c0,20.2-16.4,36.6-36.6,36.6h-73.1c-20.2,0-36.6-16.4-36.6-36.6v-256
+				C182.9,199.2,199.2,182.9,219.4,182.9z"/>
+			<path d="M402.3,0h73.1C495.6,0,512,16.4,512,36.6v438.9c0,20.2-16.4,36.6-36.6,36.6h-73.1c-20.2,0-36.6-16.4-36.6-36.6V36.6
+				C365.7,16.4,382.1,0,402.3,0z"/>
+		</g>
+		</svg>
+    <svg id="email-opened" viewBox="0 0 62 62">
+        <g transform="translate(-242 -250)">
+            <rect width="62" height="62" rx="17" transform="translate(242 250)" fill="#a45eff" opacity="0.1"/>
+            <g  transform="translate(261.777 269)">
+                <path d="M11.172,16.22a3.883,3.883,0,0,1-2.032-.576L.014,10.056v8.657A1.247,1.247,0,0,0,1.261,19.96H21.09a1.247,1.247,0,0,0,1.247-1.247V10.056l-9.126,5.585a3.885,3.885,0,0,1-2.04.578Z" transform="translate(0.004 2.48)" fill="#a45eff"/>
+                <path d="M22.1,7.866,19.86,5.485V1.3a1.3,1.3,0,0,0-1.3-1.3H3.785A1.3,1.3,0,0,0,2.493,1.3V5.56L.334,7.866a1.184,1.184,0,0,0-.324.985.424.424,0,0,0,.012.125,1.334,1.334,0,0,0,.648,1.047l9.765,5.972a1.4,1.4,0,0,0,1.481,0l9.764-5.972a1.344,1.344,0,0,0,.511-.549A1.247,1.247,0,0,0,22.1,7.866ZM13.651,9.973H6.217a1.247,1.247,0,1,1,0-2.493h7.434a1.247,1.247,0,1,1,0,2.493ZM16.132,5H6.217a1.259,1.259,0,0,1,0-2.518h9.915a1.259,1.259,0,1,1,0,2.518Z" transform="translate(0)" fill="#a45eff"/>
+            </g>
+        </g>
+    </svg>
+    <svg id="clicked" viewBox="0 0 62 62">
+        <g transform="translate(-242 -250)">
+            <rect width="62" height="62" rx="17" transform="translate(242 250)" fill="#ea7a0b" opacity="0.1"/>
+            <g transform="translate(258 267)">
+                <rect width="29" height="29" fill="rgba(255,255,255,0.01)"/>
+                <path d="M24,4V8.9" transform="translate(-9.289 -1.548)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path d="M22,22l12.259,2.452L30.581,26.9l3.678,3.678-3.678,3.678L26.9,30.581l-2.452,3.678Z" transform="translate(-8.515 -8.515)" fill="#ea7a0b" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+                <path d="M35.953,9.858l-3.467,3.467" transform="translate(-12.573 -3.815)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path d="M9.858,35.953l3.467-3.467" transform="translate(-3.815 -12.573)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path d="M4,24H8.9" transform="translate(-1.548 -9.289)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path d="M9.858,9.858l3.467,3.467" transform="translate(-3.815 -3.815)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+        </g>
+    </svg>
+    <svg id="email-sent" viewBox="0 0 62 62">
+        <g transform="translate(-242 -250)">
+            <rect width="62" height="62" rx="17" transform="translate(242 250)" fill="#9be43b" opacity="0.1"/>
+            <g transform="translate(261 270)">
+                <path d="M12,13.648a4.187,4.187,0,0,1-2.187-.616L0,7.056v9.259a1.333,1.333,0,0,0,1.333,1.333H22.667A1.333,1.333,0,0,0,24,16.315V7.056l-9.805,5.973A4.2,4.2,0,0,1,12,13.648Z" transform="translate(0 1.352)" fill="#9be43b"/>
+                <path d="M23.288,5.72,12.8,12.107a1.525,1.525,0,0,1-1.6,0L.712,5.72A1.453,1.453,0,0,1,.058,4.067,1.52,1.52,0,0,1,1.512,3H22.489a1.517,1.517,0,0,1,1.453,1.067,1.453,1.453,0,0,1-.653,1.653Z" transform="translate(0)" fill="#9be43b"/>
+            </g>
+        </g>
+    </svg>
+    <svg id="email-verified" x="0px" y="0px" viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+        <path  fill="#91ca45" d="M787.6,467c-15.6-14.2-39.7-13-53.8,2.5L570.4,649.2l-86-88.2c-14.7-15.1-38.8-15.4-53.9-0.7c-15.1,14.7-15.4,38.8-0.7,53.9
+            l114.2,117.2c7.2,7.4,17,11.5,27.3,11.5h0.7c10.5-0.2,20.5-4.7,27.5-12.5l190.6-209.6C804.3,505.3,803.2,481.2,787.6,467z
+             M800,342.9c0,21-17.1,38.1-38.1,38.1c-21,0-38.1-17.1-38.1-38.1c0-42.4,0-103.6-0.1-183.7L439.2,337.1c-12.4,7.7-28,7.7-40.4,0
+            L114.2,159.2v402.9c0,3.8,5.9,9.3,15.2,9.3h175.4c21,0,38.1,17.1,38.1,38.1s-17,38.1-38.1,38.1H129.4C79,647.6,38,609.2,38,562.1
+            V123.6c0-47.1,41-85.5,91.4-85.5h579c23.6,0,46,8.4,63,23.5c18,16,28.4,38.6,28.4,62C800,221.3,800,294.5,800,342.9z"/>
+    </svg>
+    <svg id="mobile-verified" x="0px" y="0px" viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+        <path  fill="#91ca45" d="M574.4,20H225.6c-19.2,0-35.6,6.8-49.2,20.4C162.8,54,156,70.4,156,89.6v628.8c0,19.2,6.8,35.6,20.4,49.2
+            c13.6,13.6,30,20.4,49.2,20.4h348.8c19.2,0,35.6-6.8,49.2-20.4c13.6-13.6,20.4-30,20.4-49.2V89.6c0-19.2-6.8-35.6-20.4-49.2
+            C610,26.8,593.6,20,574.4,20z M552.8,648.8H247.2c-6.4,0-11.6-2.1-15.6-6.4s-6-9.6-6-16V152.8c0-5.9,2-10.9,6-15.2s9.2-6.4,15.6-6.4
+            h305.6c5.9,0,10.9,2.1,15.2,6.4s6.4,9.3,6.4,15.2v473.6c0,6.4-2.1,11.7-6.4,16S558.7,648.8,552.8,648.8z M374.7,499.6
+            c-8.1,0-15.8-3.3-21.5-9l-76-77.9c-11.6-11.9-11.3-30.9,0.5-42.4c11.9-11.6,30.9-11.3,42.4,0.5l53.8,55.1l105.2-115.6
+            c11.1-12.3,30.1-13.2,42.4-2c12.3,11.1,13.2,30.1,2,42.4L396.9,489.8c-5.6,6.1-13.4,9.7-21.7,9.8
+            C375.1,499.6,374.9,499.6,374.7,499.6z"/>
+    </svg>
+
+</svg>

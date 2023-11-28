@@ -1,0 +1,43 @@
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-wishlist-setup"] {
+  position: relative;
+  margin-bottom: 16px !important;
+}
+
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-wishlist-dashboard"] {
+  position: relative;
+  margin-bottom: 16px !important;
+}
+
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-analytics"] {
+  position: relative;
+  margin: 16px 0 !important;
+}
+
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-wishlist-setup"]:after,
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-wishlist-dashboard"]:after,
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-analytics"]:before,
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-analytics"]:after {
+  display: block;
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-analytics"]:before {
+  top: -8px;
+}
+
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-wishlist-setup"]:after,
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-wishlist-dashboard"]:after,
+[id^=toplevel_page_mc-wishlist-] li:not(:last-child) a[href="admin.php?page=mc-analytics"]:after {
+  bottom: -8px;
+}
+
+[id^=toplevel_page_mc-wishlist-].wp-not-current-submenu li:not(:last-child) a[href="admin.php?page=mc-wishlist-dashboard"]:after,
+[id^=toplevel_page_mc-wishlist-].wp-not-current-submenu li:not(:last-child) a[href="admin.php?page=mc-analytics"]:before,
+[id^=toplevel_page_mc-wishlist-].wp-not-current-submenu li:not(:last-child) a[href="admin.php?page=mc-analytics"]:after {
+  right: 5px;
+}

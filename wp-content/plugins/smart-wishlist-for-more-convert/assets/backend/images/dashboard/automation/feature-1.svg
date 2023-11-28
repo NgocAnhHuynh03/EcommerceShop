@@ -1,0 +1,7 @@
+<svg id="Group_4136" data-name="Group 4136" xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 30 32">
+  <rect id="BG" width="30" height="32" rx="8" fill="#5ec4ff" opacity="0.1"/>
+  <g id="track-svgrepo-com" transform="translate(3.5 4)">
+    <path id="Path_1434" data-name="Path 1434" d="M12,15a3,3,0,1,0-3-3A3,3,0,0,0,12,15Z" fill="#5ec4ff"/>
+    <path id="Path_1435" data-name="Path 1435" d="M12,3a1,1,0,0,1,1,1V5.071A7,7,0,0,1,18.929,11H20a1,1,0,0,1,0,2H18.929A7,7,0,0,1,13,18.929V20a1,1,0,0,1-2,0V18.929A7,7,0,0,1,5.071,13H4a1,1,0,0,1,0-2H5.071A7,7,0,0,1,11,5.071V4A1,1,0,0,1,12,3ZM7,12a5,5,0,1,1,5,5A5,5,0,0,1,7,12Z" fill="#5ec4ff" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <filter id="Rectangle_356" x="0" y="0" width="72" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#fd5d00" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="button-crown" transform="translate(-720.815 -1047.381)">
+    <g transform="matrix(1, 0, 0, 1, 720.81, 1047.38)" filter="url(#Rectangle_356)">
+      <rect id="Rectangle_356-2" data-name="Rectangle 356" width="48" height="48" rx="10" transform="translate(12 8)" fill="#fd5d00"/>
+    </g>
+    <g id="crown-svgrepo-com" transform="translate(744.791 1012.081)">
+      <path id="Path_1393" data-name="Path 1393" d="M24.047,62.437a1.827,1.827,0,1,0-3.14,1.268c-1.242,2.573-3.617,3.471-5.458,2.658-1.639-.725-2.244-2.8-2.449-4.4a2.1,2.1,0,1,0-1.954,0c-.2,1.606-.809,3.678-2.449,4.4-1.841.813-4.215-.085-5.458-2.658a1.827,1.827,0,1,0-1.549.542L3.7,71.954H20.351l2.105-7.706A1.826,1.826,0,0,0,24.047,62.437Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_1394" data-name="Path 1394" d="M75.694,395.177a1.359,1.359,0,0,1-1.36,1.359H58.359A1.359,1.359,0,0,1,57,395.177v-.113a1.359,1.359,0,0,1,1.359-1.36H74.334a1.359,1.359,0,0,1,1.36,1.36Z" transform="translate(-54.323 -319.937)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

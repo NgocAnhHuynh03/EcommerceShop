@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="icon-lists" transform="translate(-212 -243)">
+    <rect id="card-bg" width="61" height="61" rx="10" transform="translate(212 243)" fill="#5e94ff" opacity="0.1"/>
+    <g id="Group_4117" data-name="Group 4117">
+      <rect id="Rectangle_338" data-name="Rectangle 338" width="7" height="7" rx="2" transform="translate(231 270)" fill="#5e94ff"/>
+      <rect id="Rectangle_340" data-name="Rectangle 340" width="7" height="7" rx="2" transform="translate(231 261)" fill="#5e94ff" opacity="0.4"/>
+      <rect id="Rectangle_342" data-name="Rectangle 342" width="7" height="7" rx="2" transform="translate(231 279)" fill="#5e94ff" opacity="0.4"/>
+      <rect id="Rectangle_339" data-name="Rectangle 339" width="14" height="3" transform="translate(240 272)" fill="#5e94ff"/>
+      <rect id="Rectangle_341" data-name="Rectangle 341" width="14" height="3" transform="translate(240 263)" fill="#5e94ff" opacity="0.4"/>
+      <rect id="Rectangle_343" data-name="Rectangle 343" width="14" height="3" transform="translate(240 281)" fill="#5e94ff" opacity="0.4"/>
+    </g>
+  </g>
+</svg>

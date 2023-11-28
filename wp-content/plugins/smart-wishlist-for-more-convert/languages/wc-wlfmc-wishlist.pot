@@ -1,0 +1,4289 @@
+# Copyright (C) 2023 smart-wishlist-for-more-convert
+# This file is distributed under the same license as the smart-wishlist-for-more-convert package.
+msgid ""
+msgstr ""
+"Project-Id-Version: smart-wishlist-for-more-convert\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: MoreConvert\n"
+"Last-Translator: MoreConvert\n"
+"POT-Creation-Date: 2023-11-12 11:13+0000\n"
+"Report-Msgid-Bugs-To: https://moreconvert.com/support/#support-form\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Need More Power for MC Wishlist?"
+msgstr ""
+
+msgid "If you need a stronger lists, you can sync it with more plugins and get more powerful sales tools; I suggest you check out the premium version page"
+msgstr ""
+
+msgid "Check it Now"
+msgstr ""
+
+msgid "Upgrade your website's potential with a FREE premium tour"
+msgstr ""
+
+msgid "Your gift for installing MC Wishlist plugin"
+msgstr ""
+
+msgid "Click below to demo the exclusive features, and witness the profitable and stunning transformation. Ready to elevate your website game?"
+msgstr ""
+
+msgid "Try It Now"
+msgstr ""
+
+msgid "Great News!"
+msgstr ""
+
+msgid "You've earned a bonus of"
+msgstr ""
+
+msgid "$74.50"
+msgstr ""
+
+msgid "join our Rewards Club and receive up to $74.50 off the MoreConvert Premium Plugin. With this offer, you'll be able to boost your sales and make your store more beautiful in no time."
+msgstr ""
+
+msgid "Lets Go"
+msgstr ""
+
+msgid "Take advantage of this incredible deal right now!"
+msgstr ""
+
+msgid "Changes are not saved in the MoreConvert plugin!"
+msgstr ""
+
+msgid "To modify settings, campaigns, and automations, we must revert to the website's default language to save the settings without any issues."
+msgstr ""
+
+#. translators: %s version
+msgid "To ensure proper functionality of the MoreConvert Wishlist plugin version %s and above, it is necessary to update the database tables. Please note that both the premium and free versions of MoreConvert are temporarily unavailable at this time."
+msgstr ""
+
+#. translators: %s version
+msgid "In our previous version, certain bilingual websites experienced interference issues. To ensure smooth operation of the MoreConvert (former MC Wishlist) plugin, version %s and above, it's essential to update the database tables."
+msgstr ""
+
+msgid "Attention: Important Plugin Update Required!"
+msgstr ""
+
+msgid "Updated!"
+msgstr ""
+
+msgid "Updating ..."
+msgstr ""
+
+msgid "Update tables"
+msgstr ""
+
+msgid "Thanks for installing MC Wishlist!"
+msgstr ""
+
+msgid "It is easy to use the MC Wishlist. Please use the setup wizard to quick start setup."
+msgstr ""
+
+msgid "Start Wizard"
+msgstr ""
+
+msgid "Together we will increase your sales."
+msgstr ""
+
+msgid "Thank you for installing MC Wishlist plugin. Our main goal and challenge is to increase your site sales effortlessly, without the need for more traffic. If you would like to join us in this challenge, check the marketing settings and documentation right now."
+msgstr ""
+
+msgid "Let's Go Marketing"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Social Share"
+msgstr ""
+
+msgid "Marketing"
+msgstr ""
+
+msgid "Lists Actions Settings"
+msgstr ""
+
+msgid "Remove Condition"
+msgstr ""
+
+msgid "Do not remove"
+msgstr ""
+
+msgid "Added to the card"
+msgstr ""
+
+msgid "Purchase completed"
+msgstr ""
+
+msgid "Purchase processing"
+msgstr ""
+
+msgid "Remove from wishlist or any other lists based on this condition will happen."
+msgstr ""
+
+msgid "Redirect to the cart"
+msgstr ""
+
+msgid "It works for the \"add all to cart\" button and the \"add to cart\" option in the action button and \"add to cart\" button in the lists."
+msgstr ""
+
+msgid "Product Move"
+msgstr ""
+
+msgid "This feature enables users to seamlessly transfer products from one list to another. Please note that this functionality only can be used within wishlists and multi-lists."
+msgstr ""
+
+msgid "Just for premium users"
+msgstr ""
+
+msgid "Open New Tab for External Product Add to Cart"
+msgstr ""
+
+msgid "It is essential for affiliate products to open in a new tab and keep users active on your website."
+msgstr ""
+
+msgid "Caching Optimization & Performance Improvement"
+msgstr ""
+
+msgid "To improve wishlist speed and functionality, adjust settings based on your cache plugin, hosting, and server configuration."
+msgstr ""
+
+msgid "Type of ajax operations"
+msgstr ""
+
+msgid "wp loaded hook"
+msgstr ""
+
+msgid "Wp rest api"
+msgstr ""
+
+msgid "admin-ajax.php (Recommended)"
+msgstr ""
+
+#. translators: admin url of permalink structure
+msgid "If you select the \"Wp rest api\" option, the %s must be changed to \"Post name\"."
+msgstr ""
+
+msgid "permalink structure"
+msgstr ""
+
+msgid "Show loading Ajax operations"
+msgstr ""
+
+msgid "If your site speed is slow, you should activate this feature."
+msgstr ""
+
+msgid "Cache protection"
+msgstr ""
+
+msgid "If a caching plugin or hosting caching is enabled on your website and the wishlist is not working properly, enable this option."
+msgstr ""
+
+msgid "Data Transfer Settings"
+msgstr ""
+
+msgid "Export Settings"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "This feature allows you to download a backup file of your current plugin settings. This can be useful if you want to transfer your settings to another website or keep a copy for safekeeping."
+msgstr ""
+
+msgid "Import Settings"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "This feature allows you to upload a backup file of previously exported plugin settings. This can be useful if you need to restore your settings after updating the plugin or moving to a new website."
+msgstr ""
+
+msgid "Select Json File"
+msgstr ""
+
+msgid "Select This File"
+msgstr ""
+
+msgid "Remove all data"
+msgstr ""
+
+msgid "Uncheck , if you want to prevent data loss when deleting the plugin"
+msgstr ""
+
+msgid "Advanced settings"
+msgstr ""
+
+msgid "These settings are not necessary and you can use them if you want."
+msgstr ""
+
+msgid "Login URL"
+msgstr ""
+
+msgid "This link is used in places where the user will be invited to login."
+msgstr ""
+
+msgid "if you use default wordpress login page, Leave the field."
+msgstr ""
+
+msgid "Sign-up URL"
+msgstr ""
+
+msgid "This link is used in places where the user will be invited to Sign-up."
+msgstr ""
+
+msgid "if you use default wordpress sign-up page, Leave the field."
+msgstr ""
+
+msgid "Live support chat"
+msgstr ""
+
+msgid "With this option enabled, you can ask us your questions from the chat box inside the plugin, and we will solve your problem quickly"
+msgstr ""
+
+msgid "Popup and Tooltip Global appearance"
+msgstr ""
+
+msgid "Popup position"
+msgstr ""
+
+msgid "Middle"
+msgstr ""
+
+msgid "Down left"
+msgstr ""
+
+msgid "Down right"
+msgstr ""
+
+msgid "Top right"
+msgstr ""
+
+msgid "Top left"
+msgstr ""
+
+msgid "Specify the position of the pop up on the website page. There are 5 modes for the pop up position. Middle mode is recommended."
+msgstr ""
+
+msgid "Popup box style"
+msgstr ""
+
+msgid "Title color"
+msgstr ""
+
+msgid "Content color"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Border radius"
+msgstr ""
+
+msgid "You can define the radius for all 4 corners of the popup (look at the gif)"
+msgstr ""
+
+msgid "Icon color"
+msgstr ""
+
+msgid "Icon background color"
+msgstr ""
+
+msgid "tooltip styles"
+msgstr ""
+
+msgid "Customize style"
+msgstr ""
+
+msgid "direction"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "color"
+msgstr ""
+
+msgid "border radius"
+msgstr ""
+
+msgid "You can define the radius for all 4 corners of the tooltip (look at the gif)"
+msgstr ""
+
+msgid "Tooltip gets text from button text"
+msgstr ""
+
+msgid "e.g. 10px, 15rem, 13em etc for border radius."
+msgstr ""
+
+msgid "Toast styles"
+msgstr ""
+
+msgid "Toasts Style"
+msgstr ""
+
+msgid "When this setting is ON, you can customize the appearance of toast notifications for success and error messages, Otherwise, the default settings will be applied."
+msgstr ""
+
+msgid "Global Text Management"
+msgstr ""
+
+msgid "\"Actions\" text"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "\"Add to cart\" text"
+msgstr ""
+
+msgid "Add to cart"
+msgstr ""
+
+msgid "\"Remove\" text"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "\"Apply\" text"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "\"Add all to cart\" text"
+msgstr ""
+
+msgid "Add all to cart"
+msgstr ""
+
+msgid "Additional CSS"
+msgstr ""
+
+msgid "Custom css"
+msgstr ""
+
+msgid "This feature allows you to add your own custom CSS code to modify the appearance of your website. Use this feature if you want to make specific design changes that cannot be done through the plugin's existing styling options."
+msgstr ""
+
+msgid "Share position"
+msgstr ""
+
+msgid "Popup (pro)"
+msgstr ""
+
+msgid "After table"
+msgstr ""
+
+msgid "Active share buttons"
+msgstr ""
+
+msgid "Which social media icons show on the sharing bar?"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Facebook messenger"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Whatsapp"
+msgstr ""
+
+msgid "Telegram"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Share link"
+msgstr ""
+
+msgid "Download pdf"
+msgstr ""
+
+msgid "In what medias do you prefer your user to be able to share his / her wishlist?"
+msgstr ""
+
+msgid "Product Copy"
+msgstr ""
+
+msgid "This feature enables users to seamlessly transfer products from one list to own."
+msgstr ""
+
+msgid "Sharing style"
+msgstr ""
+
+msgid "Border hover color"
+msgstr ""
+
+msgid "Sharing colors"
+msgstr ""
+
+msgid "Messenger"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy button colors"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Hover color"
+msgstr ""
+
+msgid "Background hover color"
+msgstr ""
+
+msgid "Copy field style"
+msgstr ""
+
+msgid "Share label and  tooltip custom text"
+msgstr ""
+
+msgid "It will show on the tooltip and labels text."
+msgstr ""
+
+msgid "Share tooltip text"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Sharing title"
+msgstr ""
+
+msgid "Wishlist title used for sharing"
+msgstr ""
+
+#. translators: %s: site name
+msgid "My Wishlist on %s"
+msgstr ""
+
+msgid "Enter the title that you would like to display as your ad when your user is sharing it."
+msgstr ""
+
+msgid "Sharing Popup Title"
+msgstr ""
+
+msgid "Share your list"
+msgstr ""
+
+msgid "\"Share on:\" text"
+msgstr ""
+
+msgid "Share on:"
+msgstr ""
+
+msgid "Copy field label"
+msgstr ""
+
+msgid "Or copy the link"
+msgstr ""
+
+msgid "\"Copy button\" text"
+msgstr ""
+
+msgid "\"Share on facebook\" text"
+msgstr ""
+
+msgid "Share on facebook"
+msgstr ""
+
+msgid "\"Share with messenger\" text"
+msgstr ""
+
+msgid "Share with messenger"
+msgstr ""
+
+msgid "\"Share on twitter\" text"
+msgstr ""
+
+msgid "Share on Twitter"
+msgstr ""
+
+msgid "\"Share on whatsApp\" text"
+msgstr ""
+
+msgid "Share on whatsApp"
+msgstr ""
+
+msgid "\"Share on Telegram\" text"
+msgstr ""
+
+msgid "Share on Telegram"
+msgstr ""
+
+msgid "\"Share with email\" text"
+msgstr ""
+
+msgid "Share with email"
+msgstr ""
+
+msgid "\"Click to copy the link\" text"
+msgstr ""
+
+msgid "Click to copy the link"
+msgstr ""
+
+msgid "\"Download pdf\" text"
+msgstr ""
+
+msgid "Email Marketing Processing Management"
+msgstr ""
+
+msgid "Email sent per hours"
+msgstr ""
+
+msgid "By default, 20 emails from Wishlist email marketing options are sent to users every hour. If you want to change this number, ask your hosting support for the permissible Emails per Hour and consider emails sent from other plugins such as WooCommerce orders."
+msgstr ""
+
+msgid "Reset Sending Cycles"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "All previous cycle between complete automation and running a new automation will be cleared and all automation cycle rules will be cleared for all users."
+msgstr ""
+
+msgid "Email Marketing Defaults"
+msgstr ""
+
+msgid "From \"name\""
+msgstr ""
+
+msgid "From \"Email address\""
+msgstr ""
+
+msgid "Email template"
+msgstr ""
+
+msgid "Simple Template"
+msgstr ""
+
+msgid "HTML Woocommerce"
+msgstr ""
+
+msgid "MC Template"
+msgstr ""
+
+msgid "Email MC template"
+msgstr ""
+
+msgid "You can change the details of the custom email template from here."
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Upload your site logo or select it from your host"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Upload an image of your email sender to show on the email"
+msgstr ""
+
+msgid "Email sender full name"
+msgstr ""
+
+msgid "Ana Ride"
+msgstr ""
+
+msgid "Role of email sender"
+msgstr ""
+
+msgid "Customer Manager"
+msgstr ""
+
+msgid "Social links"
+msgstr ""
+
+msgid "Add another social link"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+msgid "Reddit"
+msgstr ""
+
+msgid "whatsapp"
+msgstr ""
+
+msgid "dribbble"
+msgstr ""
+
+msgid "amazon"
+msgstr ""
+
+msgid "spotify"
+msgstr ""
+
+msgid "behance"
+msgstr ""
+
+msgid "location"
+msgstr ""
+
+msgid "tumblr"
+msgstr ""
+
+msgid "pinterest"
+msgstr ""
+
+msgid "youtube"
+msgstr ""
+
+msgid "linkedin"
+msgstr ""
+
+msgid "twitter"
+msgstr ""
+
+msgid "facebook"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Social links style"
+msgstr ""
+
+msgid "Image Shape"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Outlined circle"
+msgstr ""
+
+msgid "Outlined square"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Square rounded"
+msgstr ""
+
+msgid "Image size"
+msgstr ""
+
+msgid "Image color"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
+msgid "Open links in new tab"
+msgstr ""
+
+msgid "MoreConvert"
+msgstr ""
+
+msgid "Wishlist Button"
+msgstr ""
+
+msgid "Wishlist Page"
+msgstr ""
+
+msgid "Counter"
+msgstr ""
+
+msgid "Text Customization"
+msgstr ""
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "You only need to set them once after installing the plugin."
+msgstr ""
+
+msgid "Enable wishlist"
+msgstr ""
+
+msgid "Enable Wishlist for"
+msgstr ""
+
+msgid "Do you want the wishlist to be visible only to members or all users of your website"
+msgstr ""
+
+msgid "All users"
+msgstr ""
+
+msgid "Logged in users"
+msgstr ""
+
+msgid "Require login or register"
+msgstr ""
+
+msgid "If you want a comprehensive and accurate analytics section, make the login require."
+msgstr ""
+
+msgid "Selecting the user membership to use the wishlist is require or optional"
+msgstr ""
+
+msgid "After clicking button"
+msgstr ""
+
+msgid "Choose what happens after your user clicks the Add to wishlist button"
+msgstr ""
+
+msgid "Open the pop up"
+msgstr ""
+
+msgid "Just add it to Wishlist"
+msgstr ""
+
+msgid "Add and redirect to Wishlist page"
+msgstr ""
+
+msgid "Second click action"
+msgstr ""
+
+msgid "Go to the wishlist page"
+msgstr ""
+
+msgid "Remove from wishlist"
+msgstr ""
+
+msgid "Display the error"
+msgstr ""
+
+msgid "After the product is added to the wishlist, What should happen if the user clicks the wishlist button again?"
+msgstr ""
+
+msgid "Show for out-of-stock"
+msgstr ""
+
+msgid "Enable the “ add to wishlist” button for out-of-stock products"
+msgstr ""
+
+msgid "By activating this option, the Add to wishlist button will be displayed in out of stock products."
+msgstr ""
+
+msgid "Popup Settings"
+msgstr ""
+
+msgid "Customize the popup appearance and content when the user clicks the list button."
+msgstr ""
+
+msgid "Popup size"
+msgstr ""
+
+msgid "If you want to use a photo in the pop up, choose large size for it."
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Specify the size of the pop up. There are two modes, small and large. In large mode you can use the product photo for pop up."
+msgstr ""
+
+msgid "Use featured image for pop up"
+msgstr ""
+
+msgid "Enable if use featured image for pop up"
+msgstr ""
+
+msgid "Popup image"
+msgstr ""
+
+msgid "The maximum image size should be 400 * 400 pixels."
+msgstr ""
+
+msgid "Popup image Size"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+msgid "Popup image sizes"
+msgstr ""
+
+msgid "Image width"
+msgstr ""
+
+msgid "Image height"
+msgstr ""
+
+msgid "Popup title"
+msgstr ""
+
+msgid "Added to Wishlist"
+msgstr ""
+
+msgid "You can use the following placeholders: <code>{product_name}</code>,<code>{product_price}</code>"
+msgstr ""
+
+msgid "Select the title of the pop up. No need to change and you can use the default text."
+msgstr ""
+
+msgid "Popup content"
+msgstr ""
+
+msgid "See your favorite product on Wishlist"
+msgstr ""
+
+msgid "Select the content of the pop up. No need to change and you can use the default text."
+msgstr ""
+
+msgid "Add pop up button"
+msgstr ""
+
+msgid "Close pop up"
+msgstr ""
+
+msgid "Sign-up or login"
+msgstr ""
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Custom url"
+msgstr ""
+
+msgid "View My Wishlist"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "You can define the radius for all 4 corners of the button (look at the gif)"
+msgstr ""
+
+msgid "These settings are related to the pop up button. You can consider more than one button for your pop up."
+msgstr ""
+
+msgid "Popup Appearance"
+msgstr ""
+
+msgid "Change appearance"
+msgstr ""
+
+msgid "Single Product page"
+msgstr ""
+
+msgid "Design your wishlist button on your product page."
+msgstr ""
+
+msgid "Button position"
+msgstr ""
+
+msgid "Before \"add to cart\" form"
+msgstr ""
+
+msgid "After \"add to cart\" form"
+msgstr ""
+
+msgid "Before \"add to cart\" button"
+msgstr ""
+
+msgid "After \"add to cart\" button"
+msgstr ""
+
+msgid "On image - top left"
+msgstr ""
+
+msgid "On image - top right"
+msgstr ""
+
+msgid "On image - bottom left"
+msgstr ""
+
+msgid "On image - bottom right"
+msgstr ""
+
+msgid "After summary"
+msgstr ""
+
+msgid "Use shortcode"
+msgstr ""
+
+msgid "button position on the product page"
+msgstr ""
+
+msgid "Shortcode button"
+msgstr ""
+
+msgid "learn more on how to use it."
+msgstr ""
+
+msgid "Use this shortcode to specify a custom position. Just copy this shortcode wherever you want the button to be displayed."
+msgstr ""
+
+msgid "Button type"
+msgstr ""
+
+msgid "Icon only"
+msgstr ""
+
+msgid "Text only"
+msgstr ""
+
+msgid "Icon and text"
+msgstr ""
+
+msgid "Select the button appearance. It is better to test different modes and choose the most compatible with the theme."
+msgstr ""
+
+msgid "Default button style"
+msgstr ""
+
+msgid "Enable if use theme default styles for icon and text"
+msgstr ""
+
+msgid "Do you want the button settings to be automatically aligned with your theme?"
+msgstr ""
+
+msgid "Button icon"
+msgstr ""
+
+msgid "This icon is also used as a pop-up icon."
+msgstr ""
+
+msgid "Custom icon (svg)"
+msgstr ""
+
+msgid "Open your SVG file on a notepad and copy the code on this field.Please input the SVG code with your desired color."
+msgstr ""
+
+msgid "\"product added\" custom icon (svg)"
+msgstr ""
+
+msgid "Icon style"
+msgstr ""
+
+msgid "Font size"
+msgstr ""
+
+msgid "e.g. 10px, 15rem, 13em etc."
+msgstr ""
+
+msgid "Text style"
+msgstr ""
+
+msgid "Button colors"
+msgstr ""
+
+msgid "Button sizes"
+msgstr ""
+
+msgid "Border width"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Margin"
+msgstr ""
+
+msgid "You can define the margin for all 4 side of the button. to move the button left, put the margin like 0px 0px 0px -15px"
+msgstr ""
+
+msgid "Separate icon and text"
+msgstr ""
+
+msgid "Activation"
+msgstr ""
+
+msgid "Separator color"
+msgstr ""
+
+msgid "Separate icon and text boxes with a vertical line"
+msgstr ""
+
+msgid "Button tooltip styles"
+msgstr ""
+
+msgid "Product Listing"
+msgstr ""
+
+msgid "Design your wishlist button on your shop page and other loops."
+msgstr ""
+
+msgid "Show \"add to Wishlist\" in listings"
+msgstr ""
+
+msgid "Enable the \"add to Wishlist\" feature in WooCommerce products' listing"
+msgstr ""
+
+msgid "By activating this option, the Add to wishlist button will be displayed in all lists."
+msgstr ""
+
+msgid "Button position in listings"
+msgstr ""
+
+msgid "Choose where to show \"Add to Wishlist\" button or link in WooCommerce products' listing."
+msgstr ""
+
+msgid "Select the button position to view in the lists. Preferably similar to the button position on the product page."
+msgstr ""
+
+msgid "Show \"add to Wishlist\" in gutenberg listings"
+msgstr ""
+
+msgid "Enable the \"add to Wishlist\" feature in WooCommerce products' gutenberg listings"
+msgstr ""
+
+msgid "By activating this option, the Add to wishlist button will be displayed in all gutenberg lists."
+msgstr ""
+
+msgid "Button position in gutenberg listings"
+msgstr ""
+
+msgid "Choose where to show \"Add to Wishlist\" button or link in WooCommerce products' gutenberg listings."
+msgstr ""
+
+msgid "After title"
+msgstr ""
+
+msgid "Before price"
+msgstr ""
+
+msgid "After price"
+msgstr ""
+
+msgid "Select the button position to view in the gutenberg lists. Preferably similar to the button position on the product page."
+msgstr ""
+
+msgid "Button color"
+msgstr ""
+
+msgid "Button tooltip"
+msgstr ""
+
+msgid "Page Settings"
+msgstr ""
+
+msgid "Choose details of your wishlist page."
+msgstr ""
+
+msgid "User's Wishlist Page Options"
+msgstr ""
+
+msgid "it will show for site logged in users when they want to see their wishlists."
+msgstr ""
+
+msgid "Display on WooCommerce My Account"
+msgstr ""
+
+msgid "Display on the Guest List Page"
+msgstr ""
+
+msgid "Display on a custom user panel"
+msgstr ""
+
+msgid "WooCommerce My Account Wishlist page slug"
+msgstr ""
+
+msgid "Invalid format. Use letters, numbers, and hyphens (-) only, with no spaces or other special characters."
+msgstr ""
+
+#. translators: admin url of permalink structure
+msgid "Please update the %s if the requested page encounters a 404 error."
+msgstr ""
+
+msgid "Custom URL"
+msgstr ""
+
+msgid "Show Link to Wishlist in my account"
+msgstr ""
+
+msgid "Guest Wishlist page"
+msgstr ""
+
+#. translators: 1: create a page link  2: shortcode
+msgid "%1$s or Add %2$s shortcode to a any page you want."
+msgstr ""
+
+msgid "click to build a new page"
+msgstr ""
+
+msgid "Wishlist page needs to be selected so the plugin knows where it is. You should choose it upon installation of the plugin or create it manually."
+msgstr ""
+
+msgid "Share Wishlist"
+msgstr ""
+
+msgid "Enable this option to let users share their Wishlist on social media"
+msgstr ""
+
+msgid "Login notice"
+msgstr ""
+
+msgid "Show login notice for guests on wishlist page"
+msgstr ""
+
+msgid "It helps you to generate more leads."
+msgstr ""
+
+msgid "Change Settings"
+msgstr ""
+
+msgid "Table settings"
+msgstr ""
+
+msgid "Choose options of your wishlist table."
+msgstr ""
+
+msgid "Empty wishlist title"
+msgstr ""
+
+msgid "YOUR WISHLIST IS EMPTY!"
+msgstr ""
+
+msgid "Empty wishlist content"
+msgstr ""
+
+msgid "You have not added any products to your wishlist."
+msgstr ""
+
+msgid "Items show for wishlist"
+msgstr ""
+
+msgid "Checkboxes"
+msgstr ""
+
+msgid "Product name"
+msgstr ""
+
+msgid "Product rating"
+msgstr ""
+
+msgid "Product image"
+msgstr ""
+
+msgid "Product variations selected by the user (e.g. size or color)"
+msgstr ""
+
+msgid "Product price"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Product stock (show if product is unavailable)"
+msgstr ""
+
+msgid "Date on which the product was added to the wishlist"
+msgstr ""
+
+msgid "Add to cart option for each product"
+msgstr ""
+
+msgid "Button to remove product from wishlist"
+msgstr ""
+
+msgid "Enable Drag & Drop products"
+msgstr ""
+
+msgid "Empower users to rearrange their product on list to reflect their priorities"
+msgstr ""
+
+msgid "Under wishlist table show"
+msgstr ""
+
+msgid "All together Actions button"
+msgstr ""
+
+msgid "\"Add All to Cart\" button"
+msgstr ""
+
+msgid "Select view mode"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Both( Default Grid ) - pro"
+msgstr ""
+
+msgid "Both( Default List ) - pro"
+msgstr ""
+
+msgid "Wishlist default template"
+msgstr ""
+
+msgid "Wishlist button text"
+msgstr ""
+
+msgid "Wishlist button colors"
+msgstr ""
+
+msgid "Wishlist button sizes"
+msgstr ""
+
+msgid "\"Add to Cart\" Button Appearance"
+msgstr ""
+
+msgid "Apply button style for add to cart button"
+msgstr ""
+
+msgid "Disable Quantity Padding"
+msgstr ""
+
+msgid "If the quantity input field has a blank space and is not displaying anything, enable this."
+msgstr ""
+
+msgid "Quantity field style"
+msgstr ""
+
+msgid "Apply styling to quantity field"
+msgstr ""
+
+msgid "Ensure it is displayed correctly after setting; some themes are incompatible with this setting."
+msgstr ""
+
+msgid "Pagination style"
+msgstr ""
+
+msgid "Apply wishlist page style for pagination bar"
+msgstr ""
+
+msgid "Theme settings are used for pagination; by activating this section, coordinate it with the wishlist page style."
+msgstr ""
+
+msgid "Wishlist items style"
+msgstr ""
+
+msgid "Thumbnail background color"
+msgstr ""
+
+msgid "Your image must be SVG or png for this section to be effective.."
+msgstr ""
+
+msgid "You can define the radius for all 4 corners of the grid (look at the gif)"
+msgstr ""
+
+msgid "Item background color"
+msgstr ""
+
+msgid "Item background hover color"
+msgstr ""
+
+msgid "Turn guest users into leads by inviting them to sign up on the wishlist page."
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Write a text for Notify that creates FOMO"
+msgstr ""
+
+msgid "Warning! You Will Lose Your Wishlist"
+msgstr ""
+
+msgid "If you do not sign-up or log in to your account right now , you will probably lose your list after leaving the site."
+msgstr ""
+
+msgid "Add button"
+msgstr ""
+
+msgid "Adjust the text of the notification buttons to have the most impact"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "Sign-up"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "We suggest you choose red, orange and yellow."
+msgstr ""
+
+msgid "Wishlist counter"
+msgstr ""
+
+msgid "Display a counter icon that shows the total number of products in the user's wishlist, which can be placed in various locations such as the menu."
+msgstr ""
+
+msgid "Wishlist product counter"
+msgstr ""
+
+msgid "Add counter to menu"
+msgstr ""
+
+msgid "Use shortcode to place it in the desired location <code>[wlfmc_wishlist_counter]</code>"
+msgstr ""
+
+msgid "Counter position (Menu item order)"
+msgstr ""
+
+msgid "Define the position of the counter in the list of menu items."
+msgstr ""
+
+msgid "Allows you to add the wishlist counter as a menu item and apply its position."
+msgstr ""
+
+msgid "\"wishlist\" counter icon"
+msgstr ""
+
+msgid "Custom zero icon svg"
+msgstr ""
+
+msgid "Define a custom icon for when no product is added to the wishlist"
+msgstr ""
+
+msgid "Custom added icon svg"
+msgstr ""
+
+msgid "Define a custom icon for when at least one product is on the wishlist"
+msgstr ""
+
+msgid "Icon width"
+msgstr ""
+
+msgid "Show \"wishlist\" counter text"
+msgstr ""
+
+msgid "\"wishlist\" counter text"
+msgstr ""
+
+msgid "Wishlist - "
+msgstr ""
+
+msgid "Show number of products in counter"
+msgstr ""
+
+msgid "Hide zero number"
+msgstr ""
+
+msgid "Hide Counter if No Products Found"
+msgstr ""
+
+msgid "By enabling this option, if there are no products available in the list, the counter will be hidden completely."
+msgstr ""
+
+msgid "Products number position"
+msgstr ""
+
+msgid "Right side of the text"
+msgstr ""
+
+msgid "Left side of the text"
+msgstr ""
+
+msgid "On icon - top right"
+msgstr ""
+
+msgid "On icon - top left"
+msgstr ""
+
+msgid "Counter style"
+msgstr ""
+
+msgid "Icon Font size"
+msgstr ""
+
+msgid "Font Weight"
+msgstr ""
+
+msgid "inherit"
+msgstr ""
+
+msgid "Number Background color"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Display mini wishlist for counter"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Show on hover"
+msgstr ""
+
+msgid "Show on click"
+msgstr ""
+
+msgid "Add Link For \"Wishlist\" Counter Title"
+msgstr ""
+
+msgid "Mini-Wishlist"
+msgstr ""
+
+msgid "A preview of the user's wishlist that can be shown as a shortcut to the main wishlist, usually displayed in a dropdown or sidebar."
+msgstr ""
+
+msgid "Mini wishlist position mode"
+msgstr ""
+
+msgid "Absolute position"
+msgstr ""
+
+msgid "Fixed position"
+msgstr ""
+
+msgid "Z-index mini wishlist"
+msgstr ""
+
+msgid "Maximum products in mini wishlist"
+msgstr ""
+
+msgid "Wishlist button position in mini wishlist"
+msgstr ""
+
+msgid "After products"
+msgstr ""
+
+msgid "Before products"
+msgstr ""
+
+msgid "Mini wishlist style"
+msgstr ""
+
+msgid "You can define the radius for all 4 corners of the counter (look at the gif)"
+msgstr ""
+
+msgid "Mini wishlist button colors"
+msgstr ""
+
+msgid "Mini wishlist button sizes"
+msgstr ""
+
+msgid "Button and tooltip custom text"
+msgstr ""
+
+msgid "It will show on the tooltip and button text."
+msgstr ""
+
+msgid "\"Add To Wishlist\" text"
+msgstr ""
+
+msgid "Add To Wishlist"
+msgstr ""
+
+msgid "\"View My Wishlist\" text"
+msgstr ""
+
+msgid "\"Remove From Wishlist\" text"
+msgstr ""
+
+msgid "Remove From Wishlist"
+msgstr ""
+
+msgid "\"Already In Wishlist\" text"
+msgstr ""
+
+msgid "Already In Wishlist"
+msgstr ""
+
+msgid "Notification custom text"
+msgstr ""
+
+msgid "You can choose your desired text for the items below."
+msgstr ""
+
+msgid "\"Product added\" text"
+msgstr ""
+
+msgid "Enter the text of the message displayed when the user adds a product to the Wishlist. leave empty for disable message."
+msgstr ""
+
+msgid "Product added!"
+msgstr ""
+
+msgid "After the user clicks on the Add to wishlist button, a notification bar will be displayed. You can display the default text or any other text on this notification bar."
+msgstr ""
+
+msgid "\"Product already in Wishlist\" text"
+msgstr ""
+
+msgid "Enter the text for the message displayed when the user will try to add a product that is already in the Wishlist,leave empty for disable message"
+msgstr ""
+
+msgid "The product is already in your Wishlist!"
+msgstr ""
+
+msgid "If the product already exists in the user's wishlist and she/he clicks the Add to wishlist button again, this text will be displayed."
+msgstr ""
+
+msgid "\"Product removed\" text"
+msgstr ""
+
+msgid "Enter the text of the message displayed when the user removed a product from the Wishlist,leave empty for disable message"
+msgstr ""
+
+msgid "Product Removed!"
+msgstr ""
+
+msgid "After the user clicks on the remove from wishlist button, a notification bar will be displayed. You can display the default text or any other text on this notification bar."
+msgstr ""
+
+msgid "\"Force to login\" text"
+msgstr ""
+
+msgid "You can use <code>{login_url}</code> or <code>{signup_url}</code> in the text."
+msgstr ""
+
+msgid "to use your Wishlist: <br><a href=\"{login_url}\">Login right now</a>"
+msgstr ""
+
+msgid "it will show when users have to log in to add to the wishlist"
+msgstr ""
+
+msgid "Mini Wishlist Texts"
+msgstr ""
+
+msgid "Mini wishlist button text"
+msgstr ""
+
+msgid "\"Total product\" text"
+msgstr ""
+
+msgid "Total products"
+msgstr ""
+
+msgid "Page custom text"
+msgstr ""
+
+msgid "It will show on the tooltip and label text."
+msgstr ""
+
+msgid "Wishlist name"
+msgstr ""
+
+msgid "Enter a name for the wishlist page. This is the wishlist that will be automatically generated for all users."
+msgstr ""
+
+msgid "My Wishlist"
+msgstr ""
+
+msgid "\"Add all to cart\" tooltip text"
+msgstr ""
+
+msgid "All products on the Wishlist will be added to the cart (except out-of-stock products and variable products without specifying the variable)."
+msgstr ""
+
+msgid "Other texts ?"
+msgstr ""
+
+msgid "Change Global Texts"
+msgstr ""
+
+msgid "Lists"
+msgstr ""
+
+msgid "Added to list"
+msgstr ""
+
+msgid "MC Wishlist Page"
+msgstr ""
+
+msgid "Previous version not found."
+msgstr ""
+
+msgid "Rollback to previous version disabled."
+msgstr ""
+
+msgid "Plugin not found."
+msgstr ""
+
+msgid "Rollback to Previous Version"
+msgstr ""
+
+msgid "MC Wishlist Rollback to previous version"
+msgstr ""
+
+msgid "MC Wishlist"
+msgstr ""
+
+msgid "Setup Wizard"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Email Automation"
+msgstr ""
+
+msgid "Unlock Premium"
+msgstr ""
+
+msgid "Global Settings"
+msgstr ""
+
+msgid "Wishlist Settings"
+msgstr ""
+
+msgid "Submit Bugs"
+msgstr ""
+
+#. translators: %s: old version
+msgid "Are you sure you want to revert to the previous version of the plugin (%s)? (in case there is an issue)"
+msgstr ""
+
+msgid "Rollback"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Get Pro"
+msgstr ""
+
+msgid "Making a page ..."
+msgstr ""
+
+msgid "Sending ..."
+msgstr ""
+
+msgid "Resetting ..."
+msgstr ""
+
+msgid "All previous cycle between complete automation and running a new automation will be cleared and all automation cycle rules will be cleared for all users.  Do you agree to delete this information?"
+msgstr ""
+
+#. translators: %s: decimal
+msgid "Please enter with one decimal point (%s) without thousand separators."
+msgstr ""
+
+#. translators: %s: price decimal separator
+msgid "Please enter with one monetary decimal point (%s) without thousand separators and currency symbols."
+msgstr ""
+
+msgid "Value of the coupon(percent)."
+msgstr ""
+
+#. translators: %s: currency symbol
+msgid "Value of the coupon."
+msgstr ""
+
+msgid "MoreConvert Setting"
+msgstr ""
+
+msgid "Gather leads and boost your sales with attention-grabbing lists for potential customers."
+msgstr ""
+
+msgid "Created Lists"
+msgstr ""
+
+msgid "Added Products"
+msgstr ""
+
+msgid "Send Emails"
+msgstr ""
+
+msgid "Sales"
+msgstr ""
+
+msgid "Set a wishlist button to your store and find out your user's favorite items"
+msgstr ""
+
+msgid "Next Purchase Cart (Save for later)"
+msgstr ""
+
+msgid "PRO"
+msgstr ""
+
+msgid "Unlock Now!"
+msgstr ""
+
+msgid "MC Next Purchase Cart"
+msgstr ""
+
+msgid "Allow users to save products that they want to delete from their cart to buy later and active smart offers and recommendations based on users’ intentions."
+msgstr ""
+
+msgid "Increase Sales with Saved Carts"
+msgstr ""
+
+msgid "Decrease Cart Abandonment"
+msgstr ""
+
+msgid "Increase Average Order Value"
+msgstr ""
+
+msgid "Cross-Selling Opportunities"
+msgstr ""
+
+msgid "Stand out from competitors"
+msgstr ""
+
+msgid "Email Marketing Opportunities"
+msgstr ""
+
+msgid "Upgrade Now"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Set a button for your users on their cart page and prevent them from deleting products when they aren't ready to buy."
+msgstr ""
+
+msgid "Multi-list"
+msgstr ""
+
+msgid "Set a multi-list button to your store and allow to create of different lists depending on their needs"
+msgstr ""
+
+msgid "MC Multi-List"
+msgstr ""
+
+msgid "With MC Multi-list, you allow your users to create multiple lists and share them everywhere, and you have a chance to offer them based on their lists automatically!"
+msgstr ""
+
+msgid "Efficient Product Categorization"
+msgstr ""
+
+msgid "Separate Lists for Different Occasions"
+msgstr ""
+
+msgid "List Sharing with Friends and Family"
+msgstr ""
+
+msgid "Creating Orders for Clients"
+msgstr ""
+
+msgid "Lists for B2B Sales"
+msgstr ""
+
+msgid "Personalized Email Campaigns"
+msgstr ""
+
+msgid "Waitlist"
+msgstr ""
+
+msgid "Add a Customizable waitlist button, detailed waitlist page design, and counter option, you’ll never miss a sale again."
+msgstr ""
+
+msgid "Pre-launch Waitlist"
+msgstr ""
+
+msgid "Price Change Alert"
+msgstr ""
+
+msgid "Flash Sale Waitlist"
+msgstr ""
+
+msgid "Low Stock Alert"
+msgstr ""
+
+msgid "Back in Stock Notification for Similar Products"
+msgstr ""
+
+msgid "Integrated with other lists"
+msgstr ""
+
+msgid "Set a button on your product page and help users to notify when a product comes back in stock or its price has changed."
+msgstr ""
+
+msgid "Abandoned cart"
+msgstr ""
+
+msgid "SOON"
+msgstr ""
+
+msgid "More Options, More Income"
+msgstr ""
+
+msgid "Install the  premium version right now<br>to multiply your site revenue with<br>advanced and professional tools."
+msgstr ""
+
+msgid "Get Now"
+msgstr ""
+
+msgid "Watch now"
+msgstr ""
+
+msgid "set a button and allow them to ask for an estimate for some items and create a connection with users."
+msgstr ""
+
+msgid "Sequential Email Automation"
+msgstr ""
+
+msgid "Set up once to send emails to users based on your terms"
+msgstr ""
+
+msgid "One-Shot Email"
+msgstr ""
+
+msgid "Select a specific group of users that add products to their lists and send them an email with dedicated coupons."
+msgstr ""
+
+msgid "New Product Launch Announcement"
+msgstr ""
+
+msgid "Cross-Selling and Upselling"
+msgstr ""
+
+msgid "Seasonal Sales Promotion"
+msgstr ""
+
+msgid "Re-engagement Campaigns"
+msgstr ""
+
+msgid "Best-Selling Product Promotion"
+msgstr ""
+
+msgid "One Time Personalized Recommendations"
+msgstr ""
+
+msgid "Send emails to your selected subscribers"
+msgstr ""
+
+msgid "Analytics"
+msgstr ""
+
+msgid "By analyzing individual user’s lists, you can tailor your marketing strategies to be more specific and effective, resulting in increased sales."
+msgstr ""
+
+msgid "Segment your audience"
+msgstr ""
+
+msgid "Personalize email content"
+msgstr ""
+
+msgid "Track customer journey"
+msgstr ""
+
+msgid "Increase customer retention"
+msgstr ""
+
+msgid "Predict future sales"
+msgstr ""
+
+msgid "Identify popular categories"
+msgstr ""
+
+msgid "Find out the ways you can boost your sales based on users' activities"
+msgstr ""
+
+msgid "4+ WordPress Retargeting Strategies for 2023"
+msgstr ""
+
+msgid "Ultimate Guide to Increase WooCommerce Sales | Step-by-Step"
+msgstr ""
+
+msgid "Improve User Experience in WooCommerce [10 Unique Ways]"
+msgstr ""
+
+msgid "5+ Magic Ways to Increase Online Sales with Wishlists"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Welcome To More Convert Challenge!"
+msgstr ""
+
+msgid "How to Sell More Without More Traffic?"
+msgstr ""
+
+msgid "You made the best decision by choosing the MC Wishlist; our goal is you can sell more, not to entertain your user with some buttons and lists 😉 Ready to have some simple settings together?"
+msgstr ""
+
+msgid "Page Setup"
+msgstr ""
+
+msgid "Page Setup Options"
+msgstr ""
+
+msgid "Enter a name for the Wishlist page. This name will be used for the user menu in the WooCommerce user panel."
+msgstr ""
+
+msgid "All settings of this step and the next steps can be changed through the %s."
+msgstr ""
+
+msgid "MC Wishlist > wishlist"
+msgstr ""
+
+msgid "Wishlist page name"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Button Options"
+msgstr ""
+
+msgid "Choose where the Add to Wishlist button is displayed on the product page and the listings (like the shop page)."
+msgstr ""
+
+msgid "You can change the color and icon of the button later from %s"
+msgstr ""
+
+msgid "MC Wishlist > wishlist(button tab & text tab)"
+msgstr ""
+
+msgid "Button position on product page"
+msgstr ""
+
+msgid "These settings are the default and may not sync with your Theme. In that case, you should use the plugin shortcodes."
+msgstr ""
+
+msgid "Preview:"
+msgstr ""
+
+msgid "Button position on listing"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Processing Options"
+msgstr ""
+
+msgid "Adjust the behavior of the Wishlist button after clicking on it and after clicking again."
+msgstr ""
+
+msgid "you can change the pop up details and other settings from %s and %s"
+msgstr ""
+
+msgid "MC Wishlist > global"
+msgstr ""
+
+msgid "After clicking wishlist button"
+msgstr ""
+
+msgid "Remove from the wishlist if"
+msgstr ""
+
+msgid "Share Options"
+msgstr ""
+
+msgid "you can change the marketing details  from %s and %s"
+msgstr ""
+
+msgid "MC Wishlist > global > share tab"
+msgstr ""
+
+msgid "MC Wishlist > wishlist > page tab"
+msgstr ""
+
+msgid "Users share their Wishlist on social media"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "Choose the plan that fits your needs"
+msgstr ""
+
+msgid "Each plan includes a set of features designed to enhance your WordPress site. Choose the plan that best meets your needs."
+msgstr ""
+
+msgid "You can always upgrade anytime later from the MoreConvert dashboard if needed. Starter is great for beginners, but Premium offers more advanced features."
+msgstr ""
+
+msgid "Support Options"
+msgstr ""
+
+msgid "Your satisfaction is very important to us, if you have an idea, problem or question, let us know, we will try to answer you very quickly.<br>Our goal and yours is to increase sales, I hope we succeed in this challenge."
+msgstr ""
+
+msgid "Enable support chat option to get fast and online support"
+msgstr ""
+
+msgid "I want to get more and better features of this plugin with data track permission (non-personal) to help improve it."
+msgstr ""
+
+msgid "Ready!"
+msgstr ""
+
+msgid "Congratulations! Everything is set!"
+msgstr ""
+
+msgid "You can have more and more detailed settings from the plugin settings.<br>This plugin is very powerful, and we are developing it tremendously to work on your sales in various ways.<br>To support us, be sure to keep the plugin active and let us know your ideas."
+msgstr ""
+
+msgid "About Premium"
+msgstr ""
+
+msgid "Go To Dashboard"
+msgstr ""
+
+msgid "You do not have permissions to access this option."
+msgstr ""
+
+msgid "Not exists any data."
+msgstr ""
+
+msgid "All tables updated"
+msgstr ""
+
+msgid "Tables not found."
+msgstr ""
+
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr ""
+
+msgid "you don't select a variation for it"
+msgstr ""
+
+msgid "You have to select at least one product"
+msgstr ""
+
+msgid "Does not meet the necessary conditions to be added to the cart."
+msgstr ""
+
+msgid "An error occurred while processing this action"
+msgstr ""
+
+#. translators: %s: Number of successful operations .
+msgid "%s item have been correctly added to the cart"
+msgid_plural "%s items have been correctly added to the cart"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s item have been correctly removed"
+msgid_plural "%s items have been correctly removed"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The items have been correctly moved to %s"
+msgstr ""
+
+msgid "The token provided does not match the current user"
+msgstr ""
+
+msgid "The token provided is expired; contact us to so we can manually unsubscribe your from the list"
+msgstr ""
+
+msgid "You have unsubscribed and you will not receive any more emails and offers unless you enable the settings from your user panel."
+msgstr ""
+
+msgid "You have unsubscribed and you will not receive any more emails and offers."
+msgstr ""
+
+msgid "MC Wishlist Counter"
+msgstr ""
+
+msgid "We are sorry, but this feature is available only if cookies on your browser are enabled."
+msgstr ""
+
+msgid "Another product is being added to the list, please wait until it is finished."
+msgstr ""
+
+msgid "Product added to cart successfully"
+msgstr ""
+
+msgid "Product could not be added to the cart because some requirements are not met."
+msgstr ""
+
+msgid "The link was copied to clipboard"
+msgstr ""
+
+#. translators: 1 error message
+msgid "An error occurred after update to the version 1.6.3: %s"
+msgstr ""
+
+msgid "Move all to list"
+msgstr ""
+
+msgid "Copy all to list"
+msgstr ""
+
+msgid "Share on twitter"
+msgstr ""
+
+msgid "Add to wishlist"
+msgstr ""
+
+msgid "Already in wishlist"
+msgstr ""
+
+msgid "View my Wishlist"
+msgstr ""
+
+msgid "Free!"
+msgstr ""
+
+#. translators: 1. % of reduction/increase in price. 2: original product price.
+msgctxt "The template that shows price variation since addition to list."
+msgid "Price changed by %1$s%% from %2$s"
+msgstr ""
+
+msgid "The item cannot be added to this wishlist"
+msgstr ""
+
+msgid "An error occurred while adding the products to the wishlist."
+msgstr ""
+
+msgid "The item cannot be added to this lists"
+msgstr ""
+
+msgid "An error occurred while adding the products to the list."
+msgstr ""
+
+#. translators: %s wishlist name
+msgid "Error. Unable to remove the product from the %s list."
+msgstr ""
+
+#. translators: %s wishlist name
+msgid "An error occurred while adding the products to the %s list."
+msgstr ""
+
+msgid "An error occurred while adding the products to the next purchase cart(code:1)."
+msgstr ""
+
+msgid "The item cannot be added to next purchase cart"
+msgstr ""
+
+msgid "An error occurred while adding the products to the next purchase cart.(code:2)"
+msgstr ""
+
+msgid "An error occurred while adding the products to the next purchase cart.(code:3)"
+msgstr ""
+
+msgid "This product type not supported"
+msgstr ""
+
+msgid "The item cannot be added to waitlist"
+msgstr ""
+
+msgid "An error occurred while adding the products to the waitlist.(code:2)"
+msgstr ""
+
+msgid "An error occurred while adding the products to the waitlist.(code:3)"
+msgstr ""
+
+msgid "Error. Unable to remove the product from the next purchase cart."
+msgstr ""
+
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr ""
+
+msgid "Invalid Customer."
+msgstr ""
+
+msgid "Invalid customer Data."
+msgstr ""
+
+msgid "Invalid wishlist."
+msgstr ""
+
+msgid "Invalid wishlist item."
+msgstr ""
+
+msgid "Add To Lists"
+msgstr ""
+
+msgid "All Button Add To Lists"
+msgstr ""
+
+msgid "Mini Lists and Counter"
+msgstr ""
+
+msgid "Tabbed Lists"
+msgstr ""
+
+msgid "Multi List"
+msgstr ""
+
+msgid "OutOfStock Box"
+msgstr ""
+
+msgid "Mini Waitlist and Counter"
+msgstr ""
+
+msgid "Product ID"
+msgstr ""
+
+msgid "You can add custom product id or leave empty."
+msgstr ""
+
+msgid "Is product single page"
+msgstr ""
+
+msgid "You should install custom skin plugin and create a loop for editing product listing on the Elementor editor or you can design listings from wishlist setting > wishlist button"
+msgstr ""
+
+msgid "Button Type"
+msgstr ""
+
+msgid "Button Icon"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Icon Added"
+msgstr ""
+
+msgid "Tooltip"
+msgstr ""
+
+msgid "Tooltip direction"
+msgstr ""
+
+msgid "Already in Wishlist"
+msgstr ""
+
+msgid "Custom Style"
+msgstr ""
+
+msgid "Inline Font Icon"
+msgstr ""
+
+msgid "Text Typography"
+msgstr ""
+
+msgid "Icon font size"
+msgstr ""
+
+msgid "Icon Size"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid "Icon Color"
+msgstr ""
+
+msgid "Border Color"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Hover"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Border Radius"
+msgstr ""
+
+msgid "Button height"
+msgstr ""
+
+msgid "Button width"
+msgstr ""
+
+msgid "Button Width Type"
+msgstr ""
+
+msgid "Full Width"
+msgstr ""
+
+msgid "Inline"
+msgstr ""
+
+msgid "Button margin"
+msgstr ""
+
+msgid "Mini Wishlist & Counter"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Display Mode"
+msgstr ""
+
+msgid "Mini Wishlist"
+msgstr ""
+
+msgid "Counter Only"
+msgstr ""
+
+msgid "Counter & Mini Wishlist (show on-hover)"
+msgstr ""
+
+msgid "Counter & Mini Wishlist (show on-click)"
+msgstr ""
+
+msgid "Counter Settings"
+msgstr ""
+
+msgid "Show icon"
+msgstr ""
+
+msgid "Counter icon"
+msgstr ""
+
+msgid "Show counter text"
+msgstr ""
+
+msgid "Counter text"
+msgstr ""
+
+msgid "Show counter"
+msgstr ""
+
+msgid "Mini wishlist Settings"
+msgstr ""
+
+msgid "Show Button"
+msgstr ""
+
+msgid "Wishlist button position"
+msgstr ""
+
+msgid "Button text"
+msgstr ""
+
+msgid "Show totals"
+msgstr ""
+
+msgid "Products Per Page"
+msgstr ""
+
+msgid "Mini Wishlist Button"
+msgstr ""
+
+msgid "Button Typography"
+msgstr ""
+
+msgid "Mini Wishlist Product list"
+msgstr ""
+
+msgid "Product title Typography"
+msgstr ""
+
+msgid "Total products Typography"
+msgstr ""
+
+msgid "Product title Color"
+msgstr ""
+
+msgid "Counter Text & Icon"
+msgstr ""
+
+msgid "Count background Color"
+msgstr ""
+
+msgid "Count Color"
+msgstr ""
+
+msgid "WishList"
+msgstr ""
+
+msgid "Table Settings"
+msgstr ""
+
+msgid "Items show"
+msgstr ""
+
+msgid "Product stock"
+msgstr ""
+
+msgid "Date added"
+msgstr ""
+
+msgid "Add to cart button"
+msgstr ""
+
+msgid "Button to remove the product"
+msgstr ""
+
+msgid "Both( Default Grid )"
+msgstr ""
+
+msgid "Both( Default List )"
+msgstr ""
+
+msgid "Footer Button"
+msgstr ""
+
+msgid "Typography"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Custom styles for select field"
+msgstr ""
+
+msgid "Focus"
+msgstr ""
+
+msgid "َAdd to cart Button"
+msgstr ""
+
+msgid "Custom styles for add to cart button"
+msgstr ""
+
+msgid "Qty input"
+msgstr ""
+
+msgid "Custom styles for qty field"
+msgstr ""
+
+msgid "Pagination"
+msgstr ""
+
+msgid "Custom styles for pagination"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Padding"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Product title typography"
+msgstr ""
+
+msgid "Date added typography"
+msgstr ""
+
+msgid "Out-of-stock typography"
+msgstr ""
+
+msgid "Variation title typography"
+msgstr ""
+
+msgid "Variation value typography"
+msgstr ""
+
+msgid "Date added Color"
+msgstr ""
+
+msgid "Out-of-stock  Color"
+msgstr ""
+
+msgid "Variation title Color"
+msgstr ""
+
+msgid "Variation value Color"
+msgstr ""
+
+msgid "Thumbnail background Color"
+msgstr ""
+
+msgid "Your image must be SVG or png for this section to be effective."
+msgstr ""
+
+msgid "Item background Color"
+msgstr ""
+
+msgid "Item border Color"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Only you can see this list"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Anyone can search for and see this list"
+msgstr ""
+
+msgid "Upgrade to"
+msgstr ""
+
+msgid "All Lists"
+msgstr ""
+
+msgid "Next Purchase Cart"
+msgstr ""
+
+msgid "Multi-List"
+msgstr ""
+
+msgid "Wait list"
+msgstr ""
+
+msgid "Help Center"
+msgstr ""
+
+msgid "Knowledge Base"
+msgstr ""
+
+msgid "Changelog"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "More Convert Tips"
+msgstr ""
+
+msgid "Let MC Wishlist be active on your site for at least one month and then boost your sales through its analytics."
+msgstr ""
+
+msgid "Premium Wishlist"
+msgstr ""
+
+msgid "If you want to have a more advanced Wishlist and at the same time increase sales without more traffic, be sure to check out the Pro version."
+msgstr ""
+
+msgid "Check now"
+msgstr ""
+
+msgid "WordPress & Sales"
+msgstr ""
+
+msgid "Learn 3 new videos every week about troubleshooting WordPress and increasing revenue from your WooCommerce website."
+msgstr ""
+
+msgid "Start Growing"
+msgstr ""
+
+msgid "Heart"
+msgstr ""
+
+msgid "Heart light 1"
+msgstr ""
+
+msgid "Heart light 2"
+msgstr ""
+
+msgid "Heart regular 1"
+msgstr ""
+
+msgid "Heart regular 2"
+msgstr ""
+
+msgid "Plus"
+msgstr ""
+
+msgid "Pin"
+msgstr ""
+
+msgid "Gift"
+msgstr ""
+
+msgid "Gift light"
+msgstr ""
+
+msgid "Gift regular"
+msgstr ""
+
+msgid "Star"
+msgstr ""
+
+msgid "Star light"
+msgstr ""
+
+msgid "Star regular"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save light"
+msgstr ""
+
+msgid "Save regular"
+msgstr ""
+
+msgid "Custom icon"
+msgstr ""
+
+msgid "Notification 1"
+msgstr ""
+
+msgid "Notification 2"
+msgstr ""
+
+msgid "Notification 3"
+msgstr ""
+
+msgid "Notification 4 light"
+msgstr ""
+
+msgid "Notification 4 regular"
+msgstr ""
+
+msgid "Notification 5 light"
+msgstr ""
+
+msgid "Notification 5 regular"
+msgstr ""
+
+msgid "Notification 6 light"
+msgstr ""
+
+msgid "Notification 6 regular"
+msgstr ""
+
+msgid "Notification 7 light"
+msgstr ""
+
+msgid "Notification 7 regular"
+msgstr ""
+
+msgid "Icon 1"
+msgstr ""
+
+msgid "Icon 2"
+msgstr ""
+
+msgid "Icon 3"
+msgstr ""
+
+msgid "Icon 4"
+msgstr ""
+
+msgid "Icon 5"
+msgstr ""
+
+msgid "Icon 6"
+msgstr ""
+
+msgid "Icon 7"
+msgstr ""
+
+msgid "Icon 8"
+msgstr ""
+
+msgid "Icon 9 light"
+msgstr ""
+
+msgid "Icon 9 regular"
+msgstr ""
+
+msgid "Icon 10 light"
+msgstr ""
+
+msgid "Icon 10 regular"
+msgstr ""
+
+msgid "Icon 10 solid"
+msgstr ""
+
+msgid "Icon 11 light"
+msgstr ""
+
+msgid "Icon 11 regular"
+msgstr ""
+
+msgid "Icon 12 light"
+msgstr ""
+
+msgid "Icon 12 regular"
+msgstr ""
+
+msgid "Icon 13 light"
+msgstr ""
+
+msgid "Icon 13 regular"
+msgstr ""
+
+msgid "Icon 14 light"
+msgstr ""
+
+msgid "Icon 14 regular"
+msgstr ""
+
+msgid "Multi-list 1"
+msgstr ""
+
+msgid "Multi-list 2"
+msgstr ""
+
+msgid "Multi-list 3"
+msgstr ""
+
+msgid "Multi-list 4"
+msgstr ""
+
+msgid "Multi-list 5"
+msgstr ""
+
+msgid "Multi-list 6"
+msgstr ""
+
+msgid "Multi-list 7"
+msgstr ""
+
+msgid "Multi-list 8"
+msgstr ""
+
+msgid "Multi-list 9"
+msgstr ""
+
+msgid "Multi-list 10"
+msgstr ""
+
+msgid "Multi-list 11"
+msgstr ""
+
+msgid "Multi-list 12"
+msgstr ""
+
+msgid "Multi-list 13"
+msgstr ""
+
+msgid "Multi-list 14"
+msgstr ""
+
+msgid "Multi-list 15"
+msgstr ""
+
+msgid "Multi-list 16"
+msgstr ""
+
+msgid "Multi-list 17"
+msgstr ""
+
+msgid "Multi-list 18"
+msgstr ""
+
+msgid "Multi-list 19"
+msgstr ""
+
+msgid "Multi-list 20"
+msgstr ""
+
+msgid "Multi-list 21 light"
+msgstr ""
+
+msgid "Multi-list 21 regular"
+msgstr ""
+
+msgid "Multi-list 21 solid"
+msgstr ""
+
+msgid "Multi-list 22 light"
+msgstr ""
+
+msgid "Multi-list 22 regular"
+msgstr ""
+
+msgid "Multi-list 22 solid"
+msgstr ""
+
+msgid "Multi-list 23 light"
+msgstr ""
+
+msgid "Multi-list 23 regular"
+msgstr ""
+
+msgid "Multi-list 23 solid"
+msgstr ""
+
+msgid "Multi-list 24 light"
+msgstr ""
+
+msgid "Multi-list 24 regular"
+msgstr ""
+
+msgid "Multi-list 24 solid"
+msgstr ""
+
+msgid "Heart Filled"
+msgstr ""
+
+msgid "Save Filled"
+msgstr ""
+
+msgid "Plus Filled"
+msgstr ""
+
+msgid "Gift Filled"
+msgstr ""
+
+msgid "Star Filled"
+msgstr ""
+
+msgid "Pin Filled"
+msgstr ""
+
+msgid "Heart solid 1"
+msgstr ""
+
+msgid "Heart solid 2"
+msgstr ""
+
+msgid "Star solid"
+msgstr ""
+
+msgid "Gift solid"
+msgstr ""
+
+msgid "Save solid"
+msgstr ""
+
+msgid "Multi-list 11 light"
+msgstr ""
+
+msgid "Multi-list 11 regular"
+msgstr ""
+
+msgid "Multi-list 12 light"
+msgstr ""
+
+msgid "Multi-list 12 regular"
+msgstr ""
+
+msgid "Multi-list 13 light"
+msgstr ""
+
+msgid "Multi-list 13 regular"
+msgstr ""
+
+msgid "Multi-list 14 light"
+msgstr ""
+
+msgid "Multi-list 14 regular"
+msgstr ""
+
+#. translators: %1$s: product name , %2$: error notice .
+msgid "We couldn't add %1$s to the cart because: %2$s"
+msgstr ""
+
+msgid ""
+"{site_name}\n"
+"{site_description}\n"
+"If you have any questions, feel free to contact us at <a href=\"{shop_url}\">Shop</a>\n"
+"<a href=\"{unsubscribe_url}\">Unsubscribe here</a>"
+msgstr ""
+
+msgid "{product_name} - A Deal You Can't Miss!"
+msgstr ""
+
+msgid ""
+"Hey {user_first_name},\n"
+"\n"
+"We've got something exciting just for you. Our {product_name} is now on sale, and the price won't stay this low for long! Don't miss out on this fantastic opportunity to own the {product_name}.\n"
+"\n"
+"🔥 **Regular Price:** {regular_price}\n"
+"💥 **Sale Price:** {sale_price}\n"
+"\n"
+"<a href=\"{product_url}\">{product_image}</a>\n"
+"\n"
+"Ready to seize the deal? <a href=\"{add_to_cart_url}\">Click here to Shop Now</a>\n"
+"\n"
+"Don't hesitate! Act fast and be the first to grab this incredible offer.\n"
+"\n"
+"Happy shopping!\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Exclusive Offer: {product_name} is Waiting for You!"
+msgstr ""
+
+msgid ""
+"Hello {user_first_name},\n"
+"\n"
+"We noticed you're eyeing our amazing {product_name}. Good news - it's on sale now!\n"
+"\n"
+"✨ **Regular Price:** {regular_price}\n"
+"💫 **Sale Price:** {sale_price}\n"
+"\n"
+"[View Product]({product_link})\n"
+"\n"
+"Don't miss your chance to save big on this fantastic deal. It's too good to last forever. Shop now and treat yourself to something special.\n"
+"\n"
+"Ready to make your purchase? <a href=\"{add_to_cart_url}\">Shop Now</a>\n"
+"\n"
+"We can't wait to see you enjoy your new {product_name}!\n"
+"\n"
+"Warm regards,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Hurry! Last Chance to Grab {product_name} on Sale"
+msgstr ""
+
+msgid ""
+"Hey {user_first_name},\n"
+"\n"
+"Time is running out! Our {product_name} is still on sale, but the clock is ticking.\n"
+"\n"
+"⏳ **Regular Price:** {regular_price}\n"
+"⏰ **Sale Price:** {sale_price}\n"
+"\n"
+"[View Product](<a href=\"{product_url}\">{product_name}</a>)\n"
+"\n"
+"This is your final reminder. Don't let this opportunity slip away. Make your purchase now before the sale ends!\n"
+"\n"
+"Ready to take action? <a href=\"{add_to_cart_url}\">Shop Now</a>\n"
+"\n"
+"Hurry, we don't want you to miss out!\n"
+"\n"
+"Best regards,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Don't Regret It! {product_name} Sale Ending Soon"
+msgstr ""
+
+msgid ""
+"Hello {user_first_name},\n"
+"\n"
+"We hate to break it to you, but our {product_name} sale is about to end.\n"
+"\n"
+"😱 **Regular Price:** {regular_price}\n"
+"😨 **Sale Price:** {sale_price}\n"
+"\n"
+"[View Product]({product_link})\n"
+"\n"
+"You don't want to look back and wish you had acted sooner. Seize this opportunity and make your purchase now!\n"
+"\n"
+"Ready to shop? <a href=\"{add_to_cart_url}\">Shop Now</a>\n"
+"\n"
+"Time is of the essence. Don't miss out on owning the {product_name}!\n"
+"\n"
+"Sincerely,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "{product_name} Sale Ends Today"
+msgstr ""
+
+msgid ""
+"Hey {user_first_name},\n"
+"\n"
+"Today is your last chance to get the {product_name} at an incredible price.\n"
+"\n"
+"🔥 **Regular Price:** {regular_price}\n"
+"💥 **Sale Price:** {sale_price}\n"
+"\n"
+"[View Product](<a href=\"{product_url}\">{product_name}</a>)\n"
+"\n"
+"Don't let this fantastic deal slip through your fingers. Act now before the sale is over!\n"
+"\n"
+"Ready to take action? <a href=\"{add_to_cart_url}\">Shop Now</a>\n"
+"\n"
+"We don't want you to have regrets, so hurry and make your purchase!\n"
+"\n"
+"Warmest wishes,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Exciting News! {product_name} is back in stock!"
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"We've got some fantastic news for you! Your favorite product, {product_name}, is back in stock. Our inventory was running low, but we've managed to restock it just for you.\n"
+"\n"
+"Here's a sneak peek of {product_name}:\n"
+"{product_image}\n"
+"\n"
+"Click here to check it out ➡️ <a href=\"{product_url}\">{product_name}</a>\n"
+"Hurry, this product tends to sell out quickly! Don't miss out on the chance to get your hands on it.\n"
+"\n"
+"Best regards,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "{user_first_name}, don't miss out on {product_name}!"
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"Just a quick reminder that {product_name} is now back in stock. It's a customer favorite, and we don't want you to miss out on it.\n"
+"\n"
+"Here's a glimpse of {product_name}:\n"
+"{product_image}\n"
+"\n"
+"Check it out here ➡️ <a href=\"{product_url}\">{product_name}</a>This is your chance to grab it before it's gone again.\n"
+"\n"
+"Warm regards,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Exclusive Offer: {product_name} + {coupon_amount} Off Just for You!"
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"We know you've been eyeing {product_name}, and we've got something special for you. As a token of our appreciation, here's an exclusive {coupon_amount} discount on {product_name} just for you.\n"
+"\n"
+"Your exclusive coupon code: {coupon_code}\n"
+"Expires on: {expiry_date}\n"
+"\n"
+"Ready to grab {product_name} at a discounted price? Click here ➡️ <a href=\"{product_url}\">{product_name}</a>\n"
+"\n"
+"Don't miss out on this limited-time offer! We hope to see you soon.\n"
+"\n"
+"Warmly,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Grab {product_name} Before It's Gone Again!"
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"Time is running out! {product_name} is flying off the shelves, and we'd hate for you to miss out.\n"
+"\n"
+"Here's a final look at {product_name}:\n"
+"{product_image}\n"
+"\n"
+"Secure your {coupon_amount} discount with code {coupon_code} before it's too late. Click here ➡️ <a href=\"{product_url}\">{product_name}</a>\n"
+"\n"
+"Don't let this opportunity slip through your fingers. Act fast, and make {product_name} yours today.\n"
+"\n"
+"Best regards,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"This is your last reminder that {product_name} is on the verge of selling out once again. We hate to see you miss out on it.\n"
+"\n"
+"Take one last look at {product_name}:\n"
+"{product_image}\n"
+"\n"
+"Shop now before it's too late! Click here ➡️ <a href=\"{product_url}\">{product_name}</a>\n"
+"\n"
+"Thank you for considering this opportunity. We look forward to serving you soon.\n"
+"\n"
+"Warmly,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Act Fast to Get Your {product_name}!"
+msgstr ""
+
+msgid ""
+"Dear {user_first_name},\n"
+"\n"
+"We noticed that one of your favorite items, {product_name}, is running low in stock on {site_name}. 😱\n"
+"\n"
+"With only a limited quantity left, you don't want to miss out on the chance to own this fantastic product. It's a must-have for {product_link}.\n"
+"\n"
+"🛒 Go to checkout: {checkout_url}\n"
+"\n"
+"Remember, it's your last chance to purchase at the regular price of {regular_price}. Don't let it slip away! Stay tuned for more updates about {product_name}.\n"
+"\n"
+"Stay trendy,\n"
+"{site_name}\n"
+""
+msgstr ""
+
+msgid "Last Few {product_name} Items Left!"
+msgstr ""
+
+msgid ""
+"Hey {user_first_name},\n"
+"\n"
+"We hope you're having an amazing day! We wanted to remind you that {product_name} is flying off the shelves on {site_name}. There are only a few left, and they're going fast!\n"
+"\n"
+"Don't miss out on this opportunity. These items are still available at their regular price of {regular_price}. You can get yours now at {checkout_url}.\n"
+"\n"
+"Your support means the world to us, and we can't wait for you to enjoy your new {product_name}.\n"
+"\n"
+"Warm regards,\n"
+"{site_name}\n"
+""
+msgstr ""
+
+msgid "Your {product_name} Awaits You!"
+msgstr ""
+
+msgid ""
+"Hello {user_first_name},\n"
+"\n"
+"We're excited to update you about {product_name}. They're almost gone, and we don't want you to miss out!\n"
+"\n"
+"The {product_name} is now available at {sale_price}, but you have to act quickly. Grab yours before they're all gone! 🏃‍♂️💨\n"
+"\n"
+"Hurry to checkout now: {checkout_url}\n"
+"\n"
+"Thanks for being a loyal {site_name} customer. We appreciate your support.\n"
+"\n"
+"Best wishes,\n"
+"{site_name}\n"
+""
+msgstr ""
+
+msgid "Exclusive {product_name} Discount Inside!"
+msgstr ""
+
+msgid ""
+"Hello {user_first_name},\n"
+"\n"
+"Time is running out, and we want to make sure you don't miss out on {product_name}! We're offering you an exclusive {coupon_amount} discount for your loyalty.\n"
+"\n"
+"Use code {coupon_code} at checkout to get your {product_name} at an incredible price of {new_price}. Don't let this deal slip away!\n"
+"\n"
+"Get your {product_name} now: {checkout_url}\n"
+"\n"
+"Thanks for choosing {site_name} for your shopping needs!\n"
+"\n"
+"Happy shopping,\n"
+"{site_name}\n"
+""
+msgstr ""
+
+msgid "Last Chance to Save on {product_name}!"
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"This is your last chance to snag a great deal on {product_name}! With just a few left in stock, you don't want to miss out.\n"
+"\n"
+"Use code {coupon_code} to enjoy a {coupon_amount} discount on {product_name} before it's too late. Your friends will envy your style! 😎\n"
+"\n"
+"Grab your {product_name} at the discounted price now: {checkout_url}\n"
+"\n"
+"Thank you for being a part of {site_name}. We look forward to serving you again soon.\n"
+"\n"
+"Warm regards,\n"
+"{site_name}\n"
+""
+msgstr ""
+
+msgid "Exciting News About {product_name} 🎉"
+msgstr ""
+
+msgid ""
+"Hey there, {user_first_name}!\n"
+"\n"
+"We've got some fantastic news for you. We've recently adjusted the price of {product_name}, and we couldn't wait to share it with you. 🚀\n"
+"\n"
+"<a href=\"{product_url}\">{product_image}</a>\n"
+"\n"
+"**Old Price:** {old_price}\n"
+"**New Price:** {new_price}\n"
+"\n"
+"Ready to make it yours? <a href=\"{product_url}\">Check it out now</a>\n"
+"\n"
+"Stay tuned for more exciting updates!\n"
+"\n"
+"Warm regards,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Last Chance: Grab {product_name} Before It's Gone!"
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"We noticed you've been eyeing {product_name}, and we don't want you to miss out on this fantastic deal. The clock is ticking, and stock is limited! 🕒\n"
+"\n"
+"<a href=\"{product_url}\">{product_image}</a>\n"
+"\n"
+"**New Price:** {new_price}\n"
+"\n"
+"Don't wait, act now! <a href=\"{product_url}\">{product_name}</a>\n"
+"\n"
+"Best wishes,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "{user_first_name}, See Why Others Love {product_name}!"
+msgstr ""
+
+msgid ""
+"Hey {user_first_name},\n"
+"\n"
+"The excitement around {product_name} is growing, and we wanted to share what our happy customers are saying:\n"
+"\n"
+"\"I can't believe I got {product_name} at this price! It's a game-changer.\"\n"
+"- Jerry Montum\n"
+"\n"
+"<a href=\"{product_url}\">{product_image}</a>\n"
+"\n"
+"**New Price:** {new_price}\n"
+"\n"
+"Ready to join the delighted customers? <a href=\"{add_to_cart_url}\">Shop Now</a>\n"
+"\n"
+"Sincerely,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Exclusive Offer: Save Extra on {product_name} Today!"
+msgstr ""
+
+msgid ""
+"Hello {user_first_name},\n"
+"\n"
+"We know you've been considering {product_name}, and we appreciate your interest. As a token of our appreciation, here's an exclusive discount just for you:\n"
+"\n"
+"**Use Code:** {coupon_code}\n"
+"**Discount:** {coupon_amount}\n"
+"**Expires:** {expiry_date}\n"
+"\n"
+"Hurry and grab this special offer now: <a href=\"{product_url}\">{product_name}</a>\n"
+"\n"
+"Warm regards,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Last Chance! Don't Miss Out on {product_name} Savings!"
+msgstr ""
+
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"This is it – your last opportunity to save big on {product_name}. Time is running out, and stock is limited. Don't let this deal slip away!\n"
+"\n"
+"{product_image}\n"
+"\n"
+"**New Price:** {sale_price}\n"
+"\n"
+"Claim your savings now: <a href=\"{product_url}\">{product_name}</a>\n"
+"\n"
+"Your satisfaction is our priority!\n"
+"\n"
+"Best wishes,\n"
+"The {site_name} Team\n"
+""
+msgstr ""
+
+msgid "Wishlist Counter"
+msgstr ""
+
+msgid "Multi-list Counter"
+msgstr ""
+
+msgid "Waitlist Counter"
+msgstr ""
+
+#. translators: %s: wishlist counter setting page
+#. translators: %s: waitlist counter setting page
+#. translators: %s: multi-list counter setting page
+msgid "To change the settings of this section, please refer to the %s."
+msgstr ""
+
+msgid "wishlist counter page"
+msgstr ""
+
+msgid "waitlist counter page"
+msgstr ""
+
+msgid "Multi-List Counter"
+msgstr ""
+
+msgid "multi-list counter page"
+msgstr ""
+
+msgid "Custom Wishlist Text"
+msgstr ""
+
+msgid "Other Settings"
+msgstr ""
+
+msgid "Show Wishlist Counter"
+msgstr ""
+
+msgid "Show Wishlist Title"
+msgstr ""
+
+msgid "Custom Title"
+msgstr ""
+
+msgid "Show Dropdown Products"
+msgstr ""
+
+msgid "Show Waitlist Title"
+msgstr ""
+
+msgid "Show Multi-list Title"
+msgstr ""
+
+msgid "Show Dropdown Lists"
+msgstr ""
+
+msgid "Mc Wishlist Counter"
+msgstr ""
+
+msgid "Mc Waitlist Counter"
+msgstr ""
+
+msgid "Mc Multi-List Counter"
+msgstr ""
+
+msgid "Mobile Wishlist Counter"
+msgstr ""
+
+msgid "Custom title"
+msgstr ""
+
+msgid "MC Wishlist Counters"
+msgstr ""
+
+msgid "Add Mc Wishlist Counter In Header"
+msgstr ""
+
+msgid "Add Mc Waitlist Counter In Header"
+msgstr ""
+
+msgid "Add Mc Multi-List Counter In Header"
+msgstr ""
+
+msgid "Enable Dropdown for all counters"
+msgstr ""
+
+msgid "Define options"
+msgstr ""
+
+msgid "Select amount"
+msgstr ""
+
+msgid "\"to recipient\" is a required field."
+msgstr ""
+
+msgid "\"from\" is a required field."
+msgstr ""
+
+msgid "\"amount\" is a required field."
+msgstr ""
+
+msgid "MC List Users Should Disable ShopEngine's Wishlist for Optimal Experience"
+msgstr ""
+
+msgid "For the best experience using MoreConvert, we recommend disabling the ShopEngine's Wishlist. Also, if you need ShopEngine's Wishlist to be active, the position of MC Wishlist buttons should be set to shortcode mode to prevent displaying both plugins buttons."
+msgstr ""
+
+msgid "Deactivate ShopEngine's Wishlist"
+msgstr ""
+
+msgid "Enable Wishlist Counter"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Mobile Mc Counters text color"
+msgstr ""
+
+msgid "Mobile Mc Counters icon color"
+msgstr ""
+
+msgid "Enable Waitlist Counter"
+msgstr ""
+
+msgid "Enable Multi-List Counter"
+msgstr ""
+
+msgid "Integrate UpSolution Core with MoreConvert"
+msgstr ""
+
+msgid "To activate the wishlist feature on WooCommerce archive pages using the UpSolution Core plugin (specifically for Impreza & Zephyr themes), you would need to follow the same steps as mentioned earlier: use the grid layout and add a custom HTML element with the content [wlfmc_add_to_wishlist is_single=\"\"]."
+msgstr ""
+
+msgid "Default Woodmart Theme"
+msgstr ""
+
+msgid "For Woodmart Theme archive pages, just \"icon only\" mode is supported."
+msgstr ""
+
+msgid "Mc Lists Counter"
+msgstr ""
+
+msgid "Default Woostify Theme"
+msgstr ""
+
+msgid "Please fill required fields."
+msgstr ""
+
+msgid "Mc Multi-List"
+msgstr ""
+
+msgid "Mc Save For Later"
+msgstr ""
+
+msgid "Mc WaitList"
+msgstr ""
+
+msgid "Mc Wishlist"
+msgstr ""
+
+#. translators: 1: list type
+msgid "Added by %s"
+msgstr ""
+
+msgid "Plain email text is outdated."
+msgstr ""
+
+msgid "Consider switching Plain to alternative email formats for your automation."
+msgstr ""
+
+msgid "General options"
+msgstr ""
+
+msgid "Automation name"
+msgstr ""
+
+msgid "Is active ?"
+msgstr ""
+
+msgid "At the moment, only one email automation can be active, and by deactivating one automation or activating another one, all emails in the queue will be automatically deleted."
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Conditions"
+msgstr ""
+
+msgid "Condition options"
+msgstr ""
+
+msgid "In this section you can specify under what conditions automatic emails will be sent to your users."
+msgstr ""
+
+msgid "Sending cycle"
+msgstr ""
+
+msgid "Based on the number of days"
+msgstr ""
+
+msgid "This marketing will resume after these days only if a customer adds a new product to the wishlist.Otherwise, customers won't receive any automatic emails.For users who previously defined another sending cycle for any automation, it will be implemented for them based on the previous cycle rule once, and after the previous cycle is executed, the new cycle rule will be implemented."
+msgstr ""
+
+msgid "Minimum price of total Wishlist items"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Your user's wishlist must have the minimum total price entered. If the total price of the user's list is less than this number, emails won't be sent to the user."
+msgstr ""
+
+msgid "Minimum number of products on the Wishlist"
+msgstr ""
+
+msgid "The number of products in your user's wishlist must be equal to / greater than your choice number to send emails to. For example, for wishlists containing 5 products and more"
+msgstr ""
+
+msgid "Include at least one of these products"
+msgstr ""
+
+msgid "Your user's wishlist must include at least one of the selected products to emails will be sent."
+msgstr ""
+
+msgid "Offer"
+msgstr ""
+
+msgid "Coupon options"
+msgstr ""
+
+msgid "Creating an offer is optional; to activate the coupon in automation, use the <code>{coupon_code}</code> shortcode in the email content"
+msgstr ""
+
+msgid "Discount type"
+msgstr ""
+
+msgid "Specify the type of discount you offer in terms of percentage or fixed price."
+msgstr ""
+
+msgid "Coupon amount"
+msgstr ""
+
+msgid "Specify the amount of discount in this section. Notice that this discount applies to wishlist. In percentage mode, enter the percentage instead of the amount."
+msgstr ""
+
+msgid "Allow free shipping"
+msgstr ""
+
+#. translators: %s: woocommerce document url
+msgid "Check this box if the coupon grants free shipping. A <a href=\"%s\" target=\"_blank\">free shipping method</a> must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+
+msgid "If you choose this option, shipping the purchased products will be free and no cost will be deducted from the customer."
+msgstr ""
+
+msgid "Coupon expiry after days"
+msgstr ""
+
+msgid "The coupon will expire after custom days."
+msgstr ""
+
+msgid "If you want this offer to expire after a certain number of days, enter the number of days you want."
+msgstr ""
+
+msgid "User restriction"
+msgstr ""
+
+msgid "Coupon work just for their account email"
+msgstr ""
+
+msgid "Delete the Coupon"
+msgstr ""
+
+msgid "Delete the coupon after the expiry"
+msgstr ""
+
+msgid "If you choose this option, this discount will be automatically deleted after the expiration and there is no need to delete it manually."
+msgstr ""
+
+msgid "Email Design Options"
+msgstr ""
+
+msgid "In this section you can see information about each of the emails. Click the Manage button if you want to change the content of each email."
+msgstr ""
+
+msgid "after change , Set and check emails content again"
+msgstr ""
+
+msgid "Choose which type of email to send."
+msgstr ""
+
+#. translators: %s: do not translated ,this is a placeholder
+msgid "Reminder email %s"
+msgstr ""
+
+msgid "Specify sending time and content of email here."
+msgstr ""
+
+msgid "enable email. So the ability to send automatic email is activated."
+msgstr ""
+
+msgid "Email subject"
+msgstr ""
+
+msgid "Send after"
+msgstr ""
+
+#. translators: %s: do not translated ,this is a placeholder
+msgid "%s day(s)"
+msgstr ""
+
+msgid "Queue"
+msgstr ""
+
+msgid "Test email"
+msgstr ""
+
+msgid "Send this email after days"
+msgstr ""
+
+msgid "Zero means send the email immediately after conditions  happen"
+msgstr ""
+
+msgid "After how many days will this email be sent? Enter the number of days. If you want the email to be sent as soon as products are added to the wishlist, enter zero (Usually for the first email)."
+msgstr ""
+
+msgid "Email heading"
+msgstr ""
+
+msgid "Enter the title for the email notification. Leave blank to use the default heading: \"<i>There is a deal for you!</i>\". You can use the following placeholders: <code>{username}</code> <code>{user_email}</code> <code>{user_first_name}</code> <code>{user_last_name}</code> <code>{coupon_code}</code> <code>{coupon_amount}</code> <code>{expiry_date}</code> <code>{site_name}</code> <code>{site_description}</code>"
+msgstr ""
+
+msgid "Enter the email subject line. Leave blank to use the default subject: \"<i>A product of your Wishlist is on sale</i>\". You can use the following placeholders: <code>{username}</code> <code>{user_email}</code> <code>{user_first_name}</code> <code>{user_last_name}</code> <code>{coupon_code}</code> <code>{coupon_amount}</code> <code>{expiry_date}</code> <code>{site_name}</code> <code>{site_description}</code>"
+msgstr ""
+
+msgid "Email html content"
+msgstr ""
+
+msgid "This field lets you modify the main content of the HTML email. You can use the following placeholders: <code>{username}</code> <code>{user_email}</code> <code>{user_first_name}</code> <code>{user_last_name}</code> <code>{coupon_code}</code> <code>{coupon_amount}</code> <code>{expiry_date}</code> <code>{wishlist_url}</code> <code>{checkout_url}</code> <code>{shop_url}</code> <code>{site_name}</code> <code>{site_description}</code> <code>{unsubscribe_url}</code> <code>{wishlist_items}</code>"
+msgstr ""
+
+msgid "Email plain content"
+msgstr ""
+
+msgid "This field lets you modify the main content of the text email. You can use the following placeholders: <code>{username}</code> <code>{user_email}</code> <code>{user_first_name}</code> <code>{user_last_name}</code> <code>{coupon_code}</code> <code>{coupon_amount}</code> <code>{expiry_date}</code> <code>{wishlist_url}</code> <code>{checkout_url}</code> <code>{shop_url}</code> <code>{site_name}</code> <code>{site_description}</code> <code>{unsubscribe_url}</code> <code>{wishlist_items}</code>"
+msgstr ""
+
+msgid "Email html footer"
+msgstr ""
+
+msgid "This field lets you modify the footer content of the HTML email. You can use the following placeholders: <code>{username}</code> <code>{user_email}</code> <code>{user_first_name}</code> <code>{user_last_name}</code> <code>{coupon_code}</code> <code>{coupon_amount}</code> <code>{expiry_date}</code> <code>{wishlist_url}</code> <code>{checkout_url}</code> <code>{shop_url}</code> <code>{site_name}</code> <code>{site_description}</code> <code>{unsubscribe_url}</code>"
+msgstr ""
+
+msgid "<a href=\"{unsubscribe_url}\">Unsubscribe</a>"
+msgstr ""
+
+msgid "Email plain footer"
+msgstr ""
+
+msgid "This field lets you modify the footer content of the text email. You can use the following placeholders: <code>{username}</code> <code>{user_email}</code> <code>{user_first_name}</code> <code>{user_last_name}</code> <code>{coupon_code}</code> <code>{coupon_amount}</code> <code>{expiry_date}</code> <code>{wishlist_url}</code> <code>{checkout_url}</code> <code>{shop_url}</code> <code>{site_name}</code> <code>{site_description}</code> <code>{unsubscribe_url}</code>"
+msgstr ""
+
+msgid "unsubscribe:{unsubscribe_url}"
+msgstr ""
+
+msgid "Check it out, {user_first_name}"
+msgstr ""
+
+msgid "Deals you’ve been waiting for!"
+msgstr ""
+
+msgid "Got {coupon_amount} off your favorites?"
+msgstr ""
+
+msgid "The item on your wishlist is almost sold out!"
+msgstr ""
+
+msgid "Just one day for your wishlist"
+msgstr ""
+
+msgid "Back to Email Automation"
+msgstr ""
+
+msgid "Email Automations"
+msgstr ""
+
+msgid "New Automation"
+msgstr ""
+
+msgid "Active automated emails for users to receive invitations to buy products they like and add to their list with highly personalized emails and increase sales."
+msgstr ""
+
+msgid "Unlock Now"
+msgstr ""
+
+msgid "Save 20 hours every week"
+msgstr ""
+
+msgid "Increase customer loyalty"
+msgstr ""
+
+msgid "Real-time tracking"
+msgstr ""
+
+msgid "Better targeting"
+msgstr ""
+
+msgid "Gain valuable insights"
+msgstr ""
+
+msgid "Manage your email automations to create highest profit"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+#. translators: %s: automation report name
+msgid "%s Automation Reports"
+msgstr ""
+
+msgid "Manage"
+msgstr ""
+
+msgid "Total Recipient"
+msgstr ""
+
+msgid "Send Queue"
+msgstr ""
+
+msgid "Open Rate"
+msgstr ""
+
+msgid "Click Rate"
+msgstr ""
+
+msgid "Revenue"
+msgstr ""
+
+msgid "Row"
+msgstr ""
+
+msgid "Recipients"
+msgstr ""
+
+msgid "Net"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Remove Filter"
+msgstr ""
+
+msgid "Uh Oh..."
+msgstr ""
+
+msgid "There Isn't What You Want, Let's Check The Address Or Start From First Step!"
+msgstr ""
+
+msgid "View Documentation"
+msgstr ""
+
+msgid "Request Support"
+msgstr ""
+
+msgid "You cannot access to reset sending cycle"
+msgstr ""
+
+msgid "Problem on reset sending cycle, try again later"
+msgstr ""
+
+msgid "All sending cycles reset."
+msgstr ""
+
+msgid "You cannot access to send test mail"
+msgstr ""
+
+msgid "Save the email settings first, then try again"
+msgstr ""
+
+msgid "There was a problem sending the email."
+msgstr ""
+
+msgid "Email sent to %s."
+msgstr ""
+
+msgid "You cannot access to create new automation"
+msgstr ""
+
+msgid "You cannot access to update automation"
+msgstr ""
+
+#. translators: %s: field name'
+msgid "%s is a required field."
+msgstr ""
+
+msgid "This automation not exists."
+msgstr ""
+
+msgid "All changes are saved."
+msgstr ""
+
+msgid "Sending"
+msgstr ""
+
+msgid "Not Send"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Opened"
+msgstr ""
+
+msgid "Clicked"
+msgstr ""
+
+msgid "Coupon used"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "The email will not send because the user has changed the conditions on which the automation is set for his wishlist"
+msgstr ""
+
+msgid "Unsubscribed"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Send after days"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "NET"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Search for coupon, name and email"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "You Can't access to delete automation item."
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "Delete scheduled emails"
+msgstr ""
+
+msgid "Are you sure you want to delete scheduled emails?"
+msgstr ""
+
+msgid "Search by name"
+msgstr ""
+
+msgid "Automation Removed."
+msgstr ""
+
+msgid "You can't remove a sending automation."
+msgstr ""
+
+msgid "All scheduled emails Removed."
+msgstr ""
+
+msgid "Can't find any scheduled emails."
+msgstr ""
+
+msgid "You Can't access to Delete automation and recipients."
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"<p>Hi {user_first_name},</p>\n"
+"<br>\n"
+"<p>I'll keep this short to make the 19 seconds it takes to read this worth your time (yes, I timed it.)</p>\n"
+"<br>\n"
+"<p>If you remember, you were interested in some of our products, which are still on your Wishlist.\n"
+"Would it be helpful if we send you the wishlist link? </p>\n"
+"<p><a href=\"{wishlist_url}\">Wishlist</a></p>\n"
+"<br>\n"
+"<p>Thinking about The specific result achieved after the purchase?</p>\n"
+"<p>So finalize your purchase?</p>\n"
+"<br>\n"
+"<p>Thanks so much for your attention</p>\n"
+"<p>Regards,</p>\n"
+"<p>{site_name}</p>"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+" I'll keep this short to make the 19 seconds it takes to read this worth your time (yes, I timed it.)\n"
+"\n"
+"If you remember, you were interested in some of our products, which are still on your Wishlist.\n"
+"Would it be helpful if we send you the wishlist link?\n"
+"{wishlist_url}\n"
+"\n"
+"Thinking about The specific result achieved after the purchase?\n"
+"So finalize your purchase?\n"
+"\n"
+"Thanks so much for your attention\n"
+"Regards,\n"
+"{site_name}"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"<p>Hey {user_first_name},</p>\n"
+"<p>It's {employee name} on this side.</p>\n"
+"<br>\n"
+"<p>I’ve got good news for you: Now you can get your favorite product for {coupon_amount} off!  Simply use the code below to get it:</p>\n"
+"<p>{coupon_code}</p>\n"
+"<p><a href=\"{wishlist_url}\">Wishlist</a></p>\n"
+"<br>\n"
+"<p>Remember to use this discount code at the checkout and it's valid until {expiry_date}.</p>\n"
+"<br>\n"
+"<p>Please let us know if you need any assistance. Hope you like the deal!</p>\n"
+"<br>\n"
+"<p>Best,</p>\n"
+"<p>{site_name}</p>"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"Hey {user_first_name},\n"
+"It's {employee name} on this side.\n"
+"\n"
+"I’ve got good news for you: Now you can get your favorite product for {coupon_amount} off!  Simply use the code below to get it:\n"
+"{coupon_code}\n"
+"{wishlist_url}\n"
+"\n"
+"Remember to use this discount code at the checkout and it's valid until {expiry_date}.\n"
+"\n"
+"Please let us know if you need any assistance. Hope you like the deal!\n"
+"\n"
+"Best,\n"
+"{site_name}"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"<p>Don’t hesitate !</p>\n"
+"<br>\n"
+"<p>Howdy,</p>\n"
+"<p>{employee name} again!</p>\n"
+"<p>The best deals are selling out fast!</p>\n"
+"<br>\n"
+"<p>You have an opportunity to buy. Your time isn’t unlimited, so make sure you make your decision fast and get benefited.</p>\n"
+"<p>{coupon_code}</p>\n"
+"<p><a href=\"{checkout_url}\">Checkout Now!</a></p>\n"
+"<br>\n"
+"<p>I'n not going anywhere, so I’ll be here if you need my help.</p>\n"
+"<p>{site_name}</p>"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"Don’t hesitate !\n"
+"\n"
+"Howdy,\n"
+"{employee name} again!\n"
+"The best deals are selling out fast!\n"
+"\n"
+"You have an opportunity to buy. Your time isn’t unlimited, so make sure you make your decision fast and get benefited.\n"
+"{coupon_code}\n"
+"{checkout_url}\n"
+"\n"
+"I'n not going anywhere, so I’ll be here if you need my help.\n"
+"{site_name}"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"<p>Time is running out!</p>\n"
+"<p>You have limited time to buy your favorite product for the lowest price</p>\n"
+"<br>\n"
+"<p>In order not to waste time:</p>\n"
+"<p>I want to use  {coupon_amount} off: <a href=\"{checkout_url}\">Checkout Now!</a></p>\n"
+"<p>I want to miss it out:<a href=\"{shop_url}\">Website</a></p>\n"
+"<br>\n"
+"<p>1. Use the code {coupon_code} at checkout. it's only valid until {expiry_date}.</p>\n"
+"<p>2. My number: --- (If you have any questions)</p>\n"
+"<p>3. Website support number: --- (Customer Service)</p>\n"
+"<br>\n"
+"<p>Have a quick and good purchase,</p>\n"
+"<p>{site_name}</p>"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"Time is running out!\n"
+"You have limited time to buy your favorite product for the lowest price.\n"
+"\n"
+"In order not to waste time:\n"
+"I want to use  {coupon_amount} off: {checkout_url}\n"
+"I want to miss it out: {shop_url}\n"
+"\n"
+"1. Use the code {coupon_code} at checkout. it's only valid until {expiry_date}.\n"
+"2. My number: --- (If you have any questions)\n"
+"3. Website support number: --- (Customer Service)\n"
+"\n"
+"Have a quick and good purchase,\n"
+"{site_name}"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"<p>opportunities don't wait.</p>\n"
+"<p>We give you time to get your lovely products and tomorrow you can't.</p>\n"
+"<p>In order not to waste your last opportunity:</p>\n"
+"<br>\n"
+"<p>Use {coupon_amount}  off Right Now!</p>\n"
+"<br>\n"
+"\n"
+"<p>1. Go to <a href=\"{wishlist_url}\">your wishlist</a> and click on add to cart</p>\n"
+"<p>2. Use the code {coupon_code} at checkout. it's only valid until {expiry_date}.</p>\n"
+"<p>3. My number: --- (If you have any questions)</p>\n"
+"<p>4. Website support number: --- (Customer Service)</p>\n"
+"<br>\n"
+"<p>Have a quick and good purchase,</p>\n"
+"<p>{site_name}</p>"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"opportunities don't wait.\n"
+"We give you time to get your lovely products and tomorrow you can't.\n"
+"In order not to waste your last opportunity:\n"
+"\n"
+"Use {coupon_amount} off Right Now!\n"
+"\n"
+"\n"
+"1. Go to your wishlist and click on add to cart\n"
+"2. Use the code {coupon_code} at checkout. it's only valid until {expiry_date}.\n"
+"3. My number: --- (If you have any questions)\n"
+"4. Website support number: --- (Customer Service)\n"
+"\n"
+"Have a quick and good purchase,\n"
+"\n"
+"{site_name}"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"<p>Hi {user_first_name}</p>\n"
+"<p>A offer for you!</p>\n"
+"<p>Use this coupon code <b>{coupon_code}</b> to get an amazing discount!</p>"
+msgstr ""
+
+msgctxt "Unnecessary translation"
+msgid ""
+"Hi {user_first_name}\n"
+"A offer for you!\n"
+"\n"
+"use this coupon code\n"
+"{coupon_code}\n"
+"to get an amazing discount!"
+msgstr ""
+
+msgid "MC Wishlist counters"
+msgstr ""
+
+msgid "A list of products in the user's wishlists"
+msgstr ""
+
+msgid "Show counter icon"
+msgstr ""
+
+msgid "Counter text:"
+msgstr ""
+
+msgid "Show products as a list"
+msgstr ""
+
+msgid "Show wishlist button"
+msgstr ""
+
+msgid "Show products total"
+msgstr ""
+
+msgid "is enabled but not effective. It requires WooCommerce to work."
+msgstr ""
+
+msgid "Welcome to MoreConvert 🎉"
+msgstr ""
+
+msgid "You made the best decision by choosing the MoreConvert; our goal is you can sell more,not to entertain your user with some buttons and lists!"
+msgstr ""
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "Ready to have some simple settings together?"
+msgstr ""
+
+msgid "Full setup wizard guide"
+msgstr ""
+
+msgid "Learn how to setup MoreConvert."
+msgstr ""
+
+msgid "This is a summary of what is currently happening on your website’s wishlist."
+msgstr ""
+
+msgid "Lists Setting"
+msgstr ""
+
+msgid "Marketing Toolkit"
+msgstr ""
+
+msgid "Select A Tool To Increase Your Sale"
+msgstr ""
+
+msgid "Marketing Settings"
+msgstr ""
+
+msgid "Blog and Article"
+msgstr ""
+
+msgid "Discover articles and tutorials to help you to achieve greater success."
+msgstr ""
+
+msgid "Marketing tips"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "Starter"
+msgstr ""
+
+msgid "Perfect for stores wanting to taste our solution"
+msgstr ""
+
+msgid "This plan includes 2 free features:"
+msgstr ""
+
+msgid "One Sequential email automation"
+msgstr ""
+
+msgid "Premium"
+msgstr ""
+
+msgid "Perfect for stores that want to increase their sales and leads."
+msgstr ""
+
+msgid "This plan includes 8 features:"
+msgstr ""
+
+msgid "Next purchase cart"
+msgstr ""
+
+msgid "Multiple Sequential email automation"
+msgstr ""
+
+msgid "One-shot email"
+msgstr ""
+
+msgid "Would you like to purchase and install the <span style=\"color:#EA7A0B\">Premium</span> plan now?"
+msgstr ""
+
+msgid "Upgrade to MoreConvert Premium now and unlock more amazing features that will supercharge your WooCommerce website."
+msgstr ""
+
+msgid "Set a wishlist button to your store and find out your user's favorite items."
+msgstr ""
+
+msgid "Set a multi-list button to your store and allow to create of different lists depending on their needs."
+msgstr ""
+
+msgid "Abandoned Cart"
+msgstr ""
+
+msgid "Set up once to send emails to users based on your terms."
+msgstr ""
+
+msgid "One-shot Email"
+msgstr ""
+
+msgid "Send emails to your selected subscribers."
+msgstr ""
+
+msgid "Find out the ways you can boost your sales based on users' activities."
+msgstr ""
+
+msgid "Don't wait - take advantage of this exclusive offer and start enjoying all the benefits of MoreConvert Premium today!"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Upgrade now and receive a <strong>10% OFF</strong> Coupon"
+msgstr ""
+
+msgid "Purchase now"
+msgstr ""
+
+msgid "NO, Not Ready Now"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Added Price"
+msgstr ""
+
+msgid "Remove this product"
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "Unit Price"
+msgstr ""
+
+msgid "Stock status"
+msgstr ""
+
+msgid "Added date"
+msgstr ""
+
+msgid "Out of stock"
+msgstr ""
+
+msgid "In Stock"
+msgstr ""
+
+msgid "Product components"
+msgstr ""
+
+#. translators: date added label: 1 date added.
+#. translators: %s is date added label.
+msgid "Added on: %s"
+msgstr ""

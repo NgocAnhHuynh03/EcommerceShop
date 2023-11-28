@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="icon-settings" transform="translate(-154 40)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="61" height="61" rx="12" transform="translate(154 -40)" fill="#ffd1b7" opacity="0.3"/>
+    <g id="hire-us" transform="translate(154 -40.834)">
+      <g id="Group_4125" data-name="Group 4125" transform="translate(26.664 29.687)">
+        <path id="Path_1406" data-name="Path 1406" d="M45.313,44H41.1A2.111,2.111,0,0,0,39,46.1v3.156a1.438,1.438,0,0,0,1.4,1.4V53.82a2.111,2.111,0,0,0,2.1,2.1h1.4a2.111,2.111,0,0,0,2.1-2.1V50.664A1.274,1.274,0,0,0,47,50.243a1.407,1.407,0,0,0,.421-.982V46.1A2.111,2.111,0,0,0,45.313,44Z" transform="translate(-39 -44)" fill="#fd5d00"/>
+      </g>
+      <g id="Group_4126" data-name="Group 4126" transform="translate(28.24 23.482)">
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="2.472" cy="2.472" r="2.472" transform="translate(0 0)" fill="#fd5d00"/>
+      </g>
+      <g id="Group_4127" data-name="Group 4127" transform="translate(20 28.284)">
+        <path id="Path_1407" data-name="Path 1407" d="M25.822,49.364c-.07-.07-.175-.14-.246-.21a3.631,3.631,0,0,1-1.052-2.49V43.507A4.139,4.139,0,0,1,25.717,40.6a.36.36,0,0,0-.246-.6H22.1A2.111,2.111,0,0,0,20,42.1v3.156a1.438,1.438,0,0,0,1.4,1.4V49.82a2.111,2.111,0,0,0,2.1,2.1h1.4a2.119,2.119,0,0,0,.842-.175.337.337,0,0,0,.21-.316V49.645A.319.319,0,0,0,25.822,49.364Z" transform="translate(-20 -40)" fill="#fd5d00"/>
+      </g>
+      <g id="Group_4128" data-name="Group 4128" transform="translate(21.648 21.834)">
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="2.472" cy="2.472" r="2.472" transform="translate(0 0)" fill="#fd5d00"/>
+      </g>
+      <g id="Group_4129" data-name="Group 4129" transform="translate(35.782 28.284)">
+        <path id="Path_1408" data-name="Path 1408" d="M68.858,40H65.491a.348.348,0,0,0-.245.6,4.2,4.2,0,0,1,1.192,2.911v3.156a3.481,3.481,0,0,1-1.052,2.49,1.525,1.525,0,0,1-.246.21.433.433,0,0,0-.14.281v1.789a.307.307,0,0,0,.21.316,2.119,2.119,0,0,0,.842.175h1.4a2.111,2.111,0,0,0,2.1-2.1V46.664a1.274,1.274,0,0,0,.982-.421,1.407,1.407,0,0,0,.421-.982V42.1A2.111,2.111,0,0,0,68.858,40Z" transform="translate(-65 -40)" fill="#fd5d00"/>
+      </g>
+      <g id="Group_4130" data-name="Group 4130" transform="translate(34.833 21.834)">
+        <circle id="Ellipse_7" data-name="Ellipse 7" cx="2.472" cy="2.472" r="2.472" transform="translate(0 0)" fill="#fd5d00"/>
+      </g>
+    </g>
+  </g>
+</svg>

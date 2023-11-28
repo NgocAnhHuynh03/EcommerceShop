@@ -1,0 +1,68 @@
+.wp-list-table.automations .column-action {
+  width: 250px !important;
+  text-align: center !important;
+}
+
+.wp-list-table.automations td.column-status span {
+  padding: 4px 10px;
+  color: white;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.wp-list-table.automations td.column-status .status-pause {
+  background-color: #EA7A0B;
+}
+
+.wp-list-table.automations td.column-status .status-active {
+  background-color: #71A926;
+}
+
+.wp-list-table.automations-items td.column-status span {
+  padding: 4px 10px;
+  color: white;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.wp-list-table.automations-items td.column-status .status-not-send {
+  background-color: #F44336;
+}
+
+.wp-list-table.automations-items td.column-status .status-canceled,
+.wp-list-table.automations-items td.column-status .status-unsubscribed {
+  background-color: #EA7A0B;
+}
+
+.wp-list-table.automations-items td.column-status .status-opened,
+.wp-list-table.automations-items td.column-status .status-clicked,
+.wp-list-table.automations-items td.column-status .status-coupon-used {
+  background-color: #A45EFF;
+}
+
+.wp-list-table.automations-items td.column-status .status-sent {
+  background-color: #71A926;
+}
+
+.wp-list-table.automations-items td.column-status .status-sending {
+  background-color: #5E94FF;
+}
+
+.mct-wrapper .modal_preview_email .modal-wrapper {
+  max-width: 800px !important;
+}
+
+.mct-wrapper .modal_preview_email .modal-content {
+  background-color: #f9f9f9;
+  padding: 20px;
+  min-height: 400px;
+}
+
+.mct-wrapper .modal_preview_email .html-preview {
+  height: 60vh;
+  width: 100%;
+}
+
+.mct-wrapper .modal_preview_email .html-preview:not(:empty) {
+  background-image: none !important;
+}

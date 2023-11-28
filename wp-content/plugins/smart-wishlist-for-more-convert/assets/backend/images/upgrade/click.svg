@@ -1,0 +1,11 @@
+<svg id="Component_55_1" data-name="Component 55 – 1" xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <rect id="Rectangle_28" data-name="Rectangle 28" width="41" height="41" rx="17" fill="#ea7a0b" opacity="0.1"/>
+  <g id="click" transform="translate(10.604 11.061)">
+    <path id="Path_1321" data-name="Path 1321" d="M24,4V7.263" transform="translate(-14.05 -2.145)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Path_1322" data-name="Path 1322" d="M22,22l8.158,1.632L27.71,25.263l2.447,2.447L27.71,30.158,25.263,27.71l-1.632,2.447Z" transform="translate(-12.866 -12.803)" fill="#ea7c0e" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" fill-rule="evenodd"/>
+    <path id="Path_1323" data-name="Path 1323" d="M34.793,9.858l-2.307,2.307" transform="translate(-19.074 -5.613)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Path_1324" data-name="Path 1324" d="M9.858,34.793l2.307-2.307" transform="translate(-5.676 -19.012)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Path_1325" data-name="Path 1325" d="M4,24H7.263" transform="translate(-2.208 -13.987)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Path_1326" data-name="Path 1326" d="M9.858,9.858l2.307,2.307" transform="translate(-5.676 -5.613)" fill="none" stroke="#ea7c0e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>

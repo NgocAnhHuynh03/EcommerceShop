@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="55" viewBox="0 0 80 55">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="80" height="55" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="youtube" clip-path="url(#clip-path)">
+    <g id="youtube-2" data-name="youtube" transform="translate(0 -3)">
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(0 3)" clip-path="url(#clip-path)">
+        <g transform="translate(0 -3)">
+          <path id="Path_366" data-name="Path 366" d="M76.6,8.3c-2.17-3.86-4.525-4.57-9.32-4.84C62.49,3.135,50.445,3,40.01,3c-10.455,0-22.5.135-27.29.455-4.785.275-7.145.98-9.335,4.845C1.15,12.155,0,18.8,0,30.485v.04c0,11.64,1.15,18.33,3.385,22.145,2.19,3.86,4.545,4.56,9.33,4.885,4.79.28,16.84.445,27.295.445,10.435,0,22.48-.165,27.275-.44,4.795-.325,7.15-1.025,9.32-4.885C78.86,48.86,80,42.17,80,30.53v-.04c0-11.695-1.14-18.335-3.4-22.19Z" fill="#f44336" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <path id="Path_367" data-name="Path 367" d="M6,35.5V5.5l25,15Z" transform="translate(24 10)" fill="#fafafa" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /EcommerceShop/
+RewriteBase /webbanhang/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /EcommerceShop/index.php [L]
+RewriteRule . /webbanhang/index.php [L]
 </IfModule>
 
 # END WordPress

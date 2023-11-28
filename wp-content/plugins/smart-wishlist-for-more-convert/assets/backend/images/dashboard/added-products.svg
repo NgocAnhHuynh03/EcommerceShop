@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="icon-lists" transform="translate(-212 -243)">
+    <rect id="card-bg" width="61" height="61" rx="10" transform="translate(212 243)" fill="#a45eff" opacity="0.1"/>
+    <g id="additem-svgrepo-com" transform="translate(228.433 259.433)">
+      <path id="Path_1337" data-name="Path 1337" d="M20.224,24.894H14.709q-4.145,0-4.139-4.139V12.139q0-4.145,4.139-4.139h5.515q4.145,0,4.139,4.139v8.616Q24.363,24.9,20.224,24.894Z" transform="translate(1.772 1.24)" fill="#a45eff" opacity="0.4"/>
+      <path id="Path_1338" data-name="Path 1338" d="M15.793,6.139V7.756c-3.162.253-4.96,2.281-4.96,5.623v5.515H6.139q-4.145,0-4.139-4.139V6.139Q2,1.994,6.139,2h5.515Q15.8,2,15.793,6.139Z" transform="translate(0 0)" fill="#a45eff"/>
+      <path id="Path_1339" data-name="Path 1339" d="M18.958,14.587H17.9V13.525a.905.905,0,0,0-1.81,0v1.062H15.024a.905.905,0,1,0,0,1.81h1.062v1.062a.905.905,0,0,0,1.81,0V16.4h1.062a.905.905,0,0,0,0-1.81Z" transform="translate(2.505 2.195)" fill="#a45eff"/>
+    </g>
+  </g>
+</svg>

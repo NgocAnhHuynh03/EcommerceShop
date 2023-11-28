@@ -1,0 +1,70 @@
+<wpml-config>
+  <admin-texts>
+    <key name="wlfmc_options">
+        <key name="global-settings">
+            <key name="action_label"/>
+            <key name="action_add_to_cart_label"/>
+            <key name="action_remove_label"/>
+            <key name="apply_label"/>
+            <key name="all_add_to_cart_label"/>
+            <key name="share_tooltip"/>
+            <key name="share_on_label"/>
+            <key name="share_popup_title"/>
+            <key name="socials_title"/>
+            <key name="copy_field_label"/>
+            <key name="copy_button_text"/>
+            <key name="share_on_facebook_tooltip_label"/>
+            <key name="share_on_messenger_tooltip_label"/>
+            <key name="share_on_twitter_tooltip_label"/>
+            <key name="share_on_whatsapp_tooltip_label"/>
+            <key name="share_on_telegram_tooltip_label"/>
+            <key name="share_on_email_tooltip_label"/>
+            <key name="share_on_copy_link_tooltip_label"/>
+            <key name="share_on_download_pdf_tooltip_label"/>
+        </key>
+		<key name="button-display">
+			<key name="popup_title"/>
+			<key name="popup_content"/>
+			<key name="popup_buttons">
+			  <key name="0">
+				<key name="label"/>
+			  </key>
+			  <key name="1">
+				<key name="label"/>
+			  </key>
+			  <key name="2">
+				<key name="label"/>
+			  </key>
+			</key>
+			<key name="button_label_add"/>
+			<key name="button_label_view"/>
+			<key name="button_label_remove"/>
+			<key name="button_label_exists"/>
+			<key name="product_added_text"/>
+			<key name="already_in_wishlist_text"/>
+			<key name="product_removed_text"/>
+			<key name="login_need_text"/>
+			<key name="empty_wishlist_title"/>
+			<key name="empty_wishlist_content"/>
+			<key name="login_notice_content"/>
+			<key name="login_notice_buttons">
+			  <key name="0">
+				<key name="label"/>
+			  </key>
+			  <key name="1">
+				<key name="label"/>
+			  </key>
+              <key name="2">
+                <key name="label"/>
+              </key>
+			</key>
+			<key name="wishlist_page_title"/>
+			<key name="all_add_to_cart_tooltip_label"/>
+			<key name="counter_text"/>
+			<key name="counter_button_text"/>
+			<key name="counter_total_text"/>
+			<key name="counter_empty_wishlist_content"/>
+		</key>
+    </key>
+  </admin-texts>
+</wpml-config>

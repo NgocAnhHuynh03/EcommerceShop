@@ -1,0 +1,19 @@
+<svg id="email-automation" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 62 62">
+	<defs>
+		<clipPath id="clip-path">
+			<rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" fill="#5ec4ff" stroke="#707070" stroke-width="1"/>
+		</clipPath>
+	</defs>
+	<rect id="Rectangle_28" data-name="Rectangle 28" width="62" height="62" rx="17" fill="#5ec4ff" opacity="0.1"/>
+	<g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(19 19)" clip-path="url(#clip-path)">
+		<g id="_4552714" data-name="4552714" transform="translate(1.453)">
+			<path id="Path_20" data-name="Path 20" d="M11.621,2.9a.627.627,0,0,0-.313.442.465.465,0,0,0,.122.452,1.661,1.661,0,0,0,.191.127Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+			<path id="Path_21" data-name="Path 21" d="M12.821,5.786a.683.683,0,0,0-.486-.792l-.012,0V6.435a.874.874,0,0,0,.5-.65Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+			<path id="Path_22" data-name="Path 22" d="M12,9.375A4.688,4.688,0,1,0,7.313,4.688,4.688,4.688,0,0,0,12,9.375ZM10.522,6.357a.351.351,0,0,1,.487-.1,1.23,1.23,0,0,0,.612.243V4.713A2.983,2.983,0,0,1,11,4.352a1.152,1.152,0,0,1-.379-1.135,1.3,1.3,0,0,1,.893-1.022c.037-.011.074-.021.111-.03V1.875a.352.352,0,0,1,.7,0v.249a1.354,1.354,0,0,1,.812.4.352.352,0,0,1-.529.463.655.655,0,0,0-.283-.149v1.4l.246.089A1.373,1.373,0,0,1,13.515,5.9a1.581,1.581,0,0,1-1.191,1.27V7.5a.352.352,0,1,1-.7,0V7.2a1.9,1.9,0,0,1-1-.36.352.352,0,0,1-.1-.487Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+			<path id="Path_23" data-name="Path 23" d="M21.141,10.781H2.859a1.406,1.406,0,1,0,0,2.813H21.141a1.406,1.406,0,0,0,0-2.813Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+			<path id="Path_24" data-name="Path 24" d="M17.888,6.259a3.281,3.281,0,1,0-1.013-5.224,6.087,6.087,0,0,1,1.013,5.224Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+			<path id="Path_25" data-name="Path 25" d="M4.734,6.563a3.262,3.262,0,0,0,1.378-.3A6.087,6.087,0,0,1,7.125,1.035,3.281,3.281,0,1,0,4.734,6.563Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+			<path id="Path_26" data-name="Path 26" d="M9.891,20.212V23.3a.7.7,0,0,0,.964.653l2.813-1.125a.7.7,0,0,0,.442-.653V20.212L19.322,15H4.678Z" transform="translate(-1.453)" fill="#5ec4ff"/>
+		</g>
+	</g>
+</svg>

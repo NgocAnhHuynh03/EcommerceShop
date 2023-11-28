@@ -1,0 +1,19 @@
+{
+    "name": "moreconvert/smart-wishlist-for-more-convert",
+    "type": "wordpress-plugin",
+    "description": "With the help of MC Smart wishlist plugin, the users of your website will be able to add their favorite products to the wishlist. Then you can persuade them to buy products in their wishlist through the magic of email automation and using techniques like FOMO.",
+    "keywords": [
+        "wishlist",
+        "woocommerce",
+        "products",
+        "e-commerce",
+        "shop",
+        "ecommerce",
+        "moreconvert"
+    ],
+    "homepage": "https://moreconvert.com/smart-wishlist-for-more-convert/",
+    "license": "GPL-3.0",
+    "require": {
+        "enshrined/svg-sanitize" : "^0.15.4"
+    }
+}
